@@ -32,7 +32,7 @@
     <section class="hero wrap reveal"><img class="icon app-icon" src="icon.png" alt="Snapport app icon"><h1 data-i18n="pageTitle">Privacy Policy</h1><p class="updated" data-i18n="updated">Effective date: June 2026</p><p class="sub" data-i18n="intro">Snapport is built as a privacy-first passport, visa, and ID photo studio. Data Not Collected: the app does not collect personal data.</p></section>
     <section class="wrap doc reveal"><article class="card">
       <h2 data-i18n="h1">1. Data Not Collected</h2><p data-i18n="p1">Snapport does not collect personal data. There is no account, no ads, no tracking, no third-party analytics, no cloud photo processing, and no server-side user profile.</p>
-      <h2 data-i18n="h2">2. Photos stay on your device</h2><p data-i18n="p2">Your photos are processed locally on your iPhone. Face detection uses Apple Vision, background replacement uses on-device person segmentation, adjustments use Core Image, and PDF export uses PDFKit. Photos, templates you create, exports, and results are not uploaded to us.</p>
+      <h2 data-i18n="h2">2. Photos and face data stay on your device</h2><p data-i18n="p2">Your photos are processed locally on your iPhone and are never uploaded to us. To help you line up a compliant photo, Snapport uses Apple's on-device Vision framework to detect where a face is in the photo you choose — the face's bounding box and the approximate position of the eyes and chin — plus on-device person segmentation to optionally replace the background. This face geometry is used only to draw alignment guides, auto-center, crop, and (if you choose) change the background. It is computed transiently in memory; it is never used for face recognition or identity verification, never used to build a faceprint or biometric profile, never written to disk or stored by us, and never transmitted off your device or shared with us or any third party. It is discarded as soon as your photo is aligned or you leave the screen — none of it is retained. Background adjustments use Core Image and PDF export uses PDFKit. The only output saved is the final photo you choose to export, which stays on your device under your control.</p>
       <h2 data-i18n="h3">3. Optional template update check</h2><p data-i18n="p3">The only optional network use is when you choose Check for Template Updates. The app downloads a public JSON list of common photo sizes and sends no personal data. You can use Snapport fully offline without checking for updates.</p>
       <h2 data-i18n="h4">4. Local app data</h2><p data-i18n="p4">Snapport may store preferences, custom sizes, recent template choices, and generated files locally on your device so the app works smoothly. This local data is not sent to us.</p>
       <h2 data-i18n="h5">5. Purchases</h2><p data-i18n="p5">Snapport is a paid upfront app (US$4.99) with no subscription and no in-app purchases. Purchases are processed by Apple. We do not receive or store your payment card details.</p>
@@ -77,8 +77,8 @@
     "intro": "Snapport is built as a privacy-first passport, visa, and ID photo studio. Data Not Collected: the app does not collect personal data.",
     "h1": "1. Data Not Collected",
     "p1": "Snapport does not collect personal data. There is no account, no ads, no tracking, no third-party analytics, no cloud photo processing, and no server-side user profile.",
-    "h2": "2. Photos stay on your device",
-    "p2": "Your photos are processed locally on your iPhone. Face detection uses Apple Vision, background replacement uses on-device person segmentation, adjustments use Core Image, and PDF export uses PDFKit. Photos, templates you create, exports, and results are not uploaded to us.",
+    "h2": "2. Photos and face data stay on your device",
+    "p2": "Your photos are processed locally on your iPhone and are never uploaded to us. To help you line up a compliant photo, Snapport uses Apple's on-device Vision framework to detect where a face is in the photo you choose — the face's bounding box and the approximate position of the eyes and chin — plus on-device person segmentation to optionally replace the background. This face geometry is used only to draw alignment guides, auto-center, crop, and (if you choose) change the background. It is computed transiently in memory; it is never used for face recognition or identity verification, never used to build a faceprint or biometric profile, never written to disk or stored by us, and never transmitted off your device or shared with us or any third party. It is discarded as soon as your photo is aligned or you leave the screen — none of it is retained. Background adjustments use Core Image and PDF export uses PDFKit. The only output saved is the final photo you choose to export, which stays on your device under your control.",
     "h3": "3. Optional template update check",
     "p3": "The only optional network use is when you choose Check for Template Updates. The app downloads a public JSON list of common photo sizes and sends no personal data. You can use Snapport fully offline without checking for updates.",
     "h4": "4. Local app data",
@@ -114,8 +114,8 @@
     "intro": "Snapport 是以隱私優先為核心的護照、簽證與證件照工作室。不收集資料：App 不收集個人資料。",
     "h1": "1. 不收集資料",
     "p1": "Snapport 不收集個人資料。沒有帳號、沒有廣告、沒有追蹤、沒有第三方分析、沒有雲端照片處理，也沒有伺服器端使用者檔案。",
-    "h2": "2. 照片留在你的裝置上",
-    "p2": "你的照片會在 iPhone 本機處理。臉部偵測使用 Apple Vision，背景替換使用裝置端人物分割，調整使用 Core Image，PDF 輸出使用 PDFKit。照片、你建立的範本、輸出檔與結果都不會上傳給我們。",
+    "h2": "2. 照片與臉部資料都留在你的裝置上",
+    "p2": "你的照片會在 iPhone 本機處理，絕不會上傳給我們。為了協助你對齊符合規定的證件照，Snapport 使用 Apple 裝置端的 Vision 框架，偵測你所選照片中臉部的位置——臉部框與眼睛、下巴的大致座標——並以裝置端人物分割來選擇性更換背景。這些臉部幾何資訊僅用於繪製對齊參考線、自動置中、裁切，以及（若你選擇）更換背景。它只在記憶體中暫時運算；絕不用於人臉辨識或身分驗證，絕不建立臉紋或生物特徵檔案，絕不寫入磁碟或被我們儲存，也絕不傳出你的裝置或分享給我們或任何第三方。一旦完成對齊或你離開該畫面，它就會立即被捨棄——我們不保留任何臉部資料。背景調整使用 Core Image，PDF 輸出使用 PDFKit。唯一會被儲存的，是你選擇輸出的最終照片，且它會留在你的裝置上、由你掌控。",
     "h3": "3. 選用的範本更新檢查",
     "p3": "唯一的選用網路用途，是你主動選擇 Check for Template Updates 時。App 會下載公開的常用照片尺寸 JSON 清單，且不傳送個人資料。你也可以完全離線使用 Snapport。",
     "h4": "4. 本機 App 資料",
@@ -151,8 +151,8 @@
     "intro": "Snapport は、プライバシー最優先のパスポート、ビザ、ID写真スタジオとして作られています。データ収集なし: アプリは個人データを収集しません。",
     "h1": "1. データ収集なし",
     "p1": "Snapport は個人データを収集しません。アカウント、広告、追跡、第三者分析、クラウド写真処理、サーバー側ユーザープロファイルはありません。",
-    "h2": "2. 写真は端末上に留まります",
-    "p2": "写真は iPhone 上でローカル処理されます。顔検出は Apple Vision、背景置き換えはオンデバイス人物セグメンテーション、調整は Core Image、PDF書き出しは PDFKit を使用します。写真、作成したテンプレート、書き出し、結果は当社へアップロードされません。",
+    "h2": "2. 写真と顔データは端末内に留まります",
+    "p2": "写真は iPhone 上でローカル処理され、当社へアップロードされることはありません。規格に合う写真の位置合わせを助けるため、Snapport は Apple のオンデバイス Vision フレームワークを使い、選んだ写真の中で顔の位置——顔のバウンディングボックスと目・あごのおおよその位置——を検出し、オンデバイスの人物セグメンテーションで背景を任意に置き換えます。この顔の幾何情報は、ガイド表示・自動センタリング・トリミング・（選択時の）背景置換のためだけに使われます。メモリ上で一時的に計算されるだけで、顔認識や本人確認には一切使わず、フェイスプリントや生体プロファイルの作成にも使わず、ディスクへの保存や当社による保存も行わず、端末外への送信や当社・第三者との共有も一切行いません。位置合わせが終わるか画面を離れると直ちに破棄され、当社は一切保持しません。背景調整は Core Image、PDF 書き出しは PDFKit を使用します。保存されるのは、あなたが書き出しを選んだ最終写真だけで、それは端末内にとどまり、あなたが管理します。",
     "h3": "3. 任意のテンプレート更新確認",
     "p3": "唯一の任意ネットワーク利用は、あなたが Check for Template Updates を選んだ場合です。アプリは一般的な写真サイズの公開 JSON リストをダウンロードし、個人データは送信しません。Snapport は更新確認なしで完全にオフライン利用できます。",
     "h4": "4. ローカルのアプリデータ",
@@ -188,8 +188,8 @@
     "intro": "Snapport는 개인정보 우선 여권, 비자, ID 사진 스튜디오로 설계되었습니다. 데이터 수집 없음: 앱은 개인 데이터를 수집하지 않습니다.",
     "h1": "1. 데이터 수집 없음",
     "p1": "Snapport는 개인 데이터를 수집하지 않습니다. 계정, 광고, 추적, 타사 분석, 클라우드 사진 처리, 서버 측 사용자 프로필이 없습니다.",
-    "h2": "2. 사진은 기기에 머뭅니다",
-    "p2": "사진은 iPhone에서 로컬로 처리됩니다. 얼굴 감지는 Apple Vision, 배경 교체는 온디바이스 인물 분할, 조정은 Core Image, PDF 내보내기는 PDFKit을 사용합니다. 사진, 사용자가 만든 템플릿, 내보내기 및 결과는 당사로 업로드되지 않습니다.",
+    "h2": "2. 사진과 얼굴 데이터는 기기 안에 머뭅니다",
+    "p2": "사진은 iPhone에서 로컬로 처리되며 당사로 업로드되지 않습니다. 규격에 맞는 사진을 맞추도록 돕기 위해 Snapport는 Apple의 온디바이스 Vision 프레임워크로 선택한 사진에서 얼굴 위치(얼굴 경계 상자와 눈·턱의 대략적 위치)를 감지하고, 온디바이스 인물 분할로 배경을 선택적으로 교체합니다. 이 얼굴 기하 정보는 정렬 가이드 표시, 자동 가운데 맞춤, 자르기, (선택 시) 배경 교체에만 사용됩니다. 메모리에서 일시적으로만 계산되며, 얼굴 인식이나 신원 확인에 사용하지 않고, 페이스프린트나 생체 프로필을 만들지 않으며, 디스크에 기록하거나 당사가 저장하지 않고, 기기 밖으로 전송하거나 당사 또는 제3자와 공유하지 않습니다. 정렬이 끝나거나 화면을 벗어나면 즉시 폐기되며 당사는 어떤 것도 보관하지 않습니다. 배경 조정은 Core Image, PDF 내보내기는 PDFKit을 사용합니다. 저장되는 것은 당신이 내보내기로 선택한 최종 사진뿐이며, 그것은 기기 안에 남아 당신이 관리합니다.",
     "h3": "3. 선택적 템플릿 업데이트 확인",
     "p3": "유일한 선택적 네트워크 사용은 사용자가 Check for Template Updates를 선택할 때입니다. 앱은 일반 사진 크기의 공개 JSON 목록을 다운로드하며 개인 데이터는 전송하지 않습니다. 업데이트 확인 없이도 Snapport를 완전히 오프라인으로 사용할 수 있습니다.",
     "h4": "4. 로컬 앱 데이터",
