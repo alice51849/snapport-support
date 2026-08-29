@@ -1,0 +1,3855 @@
+{
+  "app": {
+    "app_key": "snapport",
+    "app_store_id": "6780575828",
+    "kids": false,
+    "purchase_model": "paid_upfront"
+  },
+  "base_sha": "e874446613455a2ced64c1a02faea03dda32a45d",
+  "base_url": "https://alice51849.github.io/snapport-support/",
+  "blocked_cells": {},
+  "brand": {
+    "accent": "#3e64ce",
+    "icon": "icon.png"
+  },
+  "catalog_locales": {
+    "ar-SA": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "احصل على Snapport من متجر التطبيقات →",
+      "app_store_url": "https://apps.apple.com/sa/app/id6780575828?pt=118326163&ct=iag_data_ar_sa&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "لصورة جواز سفر الطفل، لا يجب أن يكون هناك أي شخص آخر في الصورة ويجب أن تكون الخلفية بسيطة — لكن للرضع لا يجب أن تكون العيون مفتوحة بالكامل.",
+      "verified_live": true
+    },
+    "bn-BD": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store-এ Snapport পান →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_bn_bd&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "বাচ্চার পাসপোর্ট ছবির জন্য, অন্য কেউ ছবিতে থাকতে পারবে না এবং পটভূমি সাদামাটা হতে হবে — তবে নবজাতক ও শিশুর চোখ পুরোপুরি খোলা থাকা বাধ্যতামূলক নয়।",
+      "verified_live": true
+    },
+    "ca": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Descarrega Snapport a l’App Store →",
+      "app_store_url": "https://apps.apple.com/es/app/id6780575828?pt=118326163&ct=iag_data_ca&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Per a la foto de passaport d’un nadó, ningú més pot sortir a la foto i el fons ha de ser uniforme — però per a infants els ulls no han d’estar completament oberts.",
+      "verified_live": true
+    },
+    "cs": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Stáhněte Snapport v App Store →",
+      "app_store_url": "https://apps.apple.com/cz/app/id6780575828?pt=118326163&ct=iag_data_cs&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Pro pasovou fotografii miminka nesmí být na snímku nikdo jiný a pozadí musí být jednobarevné — u kojenců oči nemusí být zcela otevřené.",
+      "verified_live": true
+    },
+    "da": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Hent Snapport i App Store →",
+      "app_store_url": "https://apps.apple.com/dk/app/id6780575828?pt=118326163&ct=iag_data_da&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Til en babys pasfoto må ingen andre være med på billedet, og baggrunden skal være ensfarvet — men for spædbørn behøver øjnene ikke være helt åbne.",
+      "verified_live": true
+    },
+    "de-DE": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Snapport im App Store herunterladen →",
+      "app_store_url": "https://apps.apple.com/de/app/id6780575828?pt=118326163&ct=iag_data_de_de&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Für ein Baby-Passfoto darf niemand sonst im Bild sein und der Hintergrund muss einfarbig sein – bei Säuglingen müssen die Augen nicht vollständig geöffnet sein.",
+      "verified_live": true
+    },
+    "el": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Κατεβάστε το Snapport από το App Store →",
+      "app_store_url": "https://apps.apple.com/gr/app/id6780575828?pt=118326163&ct=iag_data_el&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Για φωτογραφία διαβατηρίου μωρού, κανείς άλλος δεν πρέπει να φαίνεται και το φόντο πρέπει να είναι απλό — αλλά για βρέφη τα μάτια δεν χρειάζεται να είναι πλήρως ανοιχτά.",
+      "verified_live": true
+    },
+    "en-AU": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Get Snapport on the App Store →",
+      "app_store_url": "https://apps.apple.com/au/app/id6780575828?pt=118326163&ct=iag_data_en_au&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "For a baby's passport photo, no one else can be in the shot and the background must be plain — but for infants the eyes don't have to be fully open.",
+      "verified_live": true
+    },
+    "en-CA": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Get Snapport on the App Store →",
+      "app_store_url": "https://apps.apple.com/ca/app/id6780575828?pt=118326163&ct=iag_data_en_ca&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "For a baby's passport photo, no one else can be in the shot and the background must be plain — but for infants the eyes don't have to be fully open.",
+      "verified_live": true
+    },
+    "en-GB": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Get Snapport on the App Store →",
+      "app_store_url": "https://apps.apple.com/gb/app/id6780575828?pt=118326163&ct=iag_data_en_gb&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "For a baby's passport photo, no one else can be in the shot and the background must be plain — but for infants the eyes don't have to be fully open.",
+      "verified_live": true
+    },
+    "en-US": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Get Snapport on the App Store →",
+      "app_store_url": "https://apps.apple.com/us/app/id6780575828?pt=118326163&ct=iag_data_en_us&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "For a baby's passport photo, no one else can be in the shot and the background must be plain — but for infants the eyes don't have to be fully open.",
+      "verified_live": true
+    },
+    "es-ES": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Consigue Snapport en la App Store →",
+      "app_store_url": "https://apps.apple.com/es/app/id6780575828?pt=118326163&ct=iag_data_es_es&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Para la foto de pasaporte del bebé, nadie más puede aparecer y el fondo debe ser liso — pero para bebés los ojos no tienen que estar completamente abiertos.",
+      "verified_live": true
+    },
+    "es-MX": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Obtén Snapport en la App Store →",
+      "app_store_url": "https://apps.apple.com/mx/app/id6780575828?pt=118326163&ct=iag_data_es_mx&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Para la foto de pasaporte de un bebé, nadie más puede aparecer y el fondo debe ser liso — pero para infantes los ojos no tienen que estar completamente abiertos.",
+      "verified_live": true
+    },
+    "fi": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Hanki Snapport App Storesta →",
+      "app_store_url": "https://apps.apple.com/fi/app/id6780575828?pt=118326163&ct=iag_data_fi&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Vauvan passikuvassa ei saa olla muita ihmisiä eikä taustan saa olla kuvioitu — mutta imeväisillä silmien ei tarvitse olla täysin auki.",
+      "verified_live": true
+    },
+    "fr-CA": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Obtenez Snapport sur l’App Store →",
+      "app_store_url": "https://apps.apple.com/ca/app/id6780575828?pt=118326163&ct=iag_data_fr_ca&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Pour une photo passeport de bébé, personne d’autre ne doit apparaître et l’arrière-plan doit être uni — mais pour les nourrissons, les yeux n’ont pas besoin d’être complètement ouverts.",
+      "verified_live": true
+    },
+    "fr-FR": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Téléchargez Snapport sur l’App Store →",
+      "app_store_url": "https://apps.apple.com/fr/app/id6780575828?pt=118326163&ct=iag_data_fr_fr&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Pour une photo d’identité de bébé, personne d’autre ne doit apparaître et le fond doit être uni — mais pour les nourrissons, les yeux n’ont pas besoin d’être complètement ouverts.",
+      "verified_live": true
+    },
+    "gu-IN": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store પર Snapport મેળવો →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_gu_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "બાળકના પાસપોર્ટ ફોટો માટે, શોટમાં બીજો કોઈ ન હોઈ શકે અને પૃષ્ઠભૂમિ સાદી હોવી જોઈએ — પરંતુ શિશુઓ માટે આંખો સંપૂર્ણપણે ખુલ્લી હોવી જરૂરી નથી.",
+      "verified_live": true
+    },
+    "he": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "קבל את Snapport ב-App Store →",
+      "app_store_url": "https://apps.apple.com/il/app/id6780575828?pt=118326163&ct=iag_data_he&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "לתמונת דרכון לתינוק, אף אחד אחר לא יכול להופיע בתמונה והרקע חייב להיות חלק — אך לתינוקות העיניים לא חייבות להיות פתוחות לגמרי.",
+      "verified_live": true
+    },
+    "hi": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store से Snapport प्राप्त करें →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_hi&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "बच्चे के पासपोर्ट फोटो में कोई अन्य व्यक्ति नहीं होना चाहिए और पृष्ठभूमि सादा होनी चाहिए — लेकिन शिशुओं के लिए आंखें पूरी तरह खुली होना जरूरी नहीं है।",
+      "verified_live": true
+    },
+    "hr": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Preuzmite Snapport u App Storeu →",
+      "app_store_url": "https://apps.apple.com/hr/app/id6780575828?pt=118326163&ct=iag_data_hr&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Za bebinu fotografiju putovnice nitko drugi ne smije biti u kadru, a pozadina mora biti jednobojna — no za dojenčad oči ne moraju biti potpuno otvorene.",
+      "verified_live": true
+    },
+    "hu": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Szerezd be a Snapportot az App Store-ból →",
+      "app_store_url": "https://apps.apple.com/hu/app/id6780575828?pt=118326163&ct=iag_data_hu&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Baba útlevélfotónál senki más nem lehet a képen, és az háttérnek egyszínűnek kell lennie — de csecsemőknél a szemek nem kell, hogy teljesen nyitva legyenek.",
+      "verified_live": true
+    },
+    "id": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Dapatkan Snapport di App Store →",
+      "app_store_url": "https://apps.apple.com/id/app/id6780575828?pt=118326163&ct=iag_data_id&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Untuk foto paspor bayi, tidak boleh ada orang lain dalam foto dan latar belakang harus polos — tapi untuk bayi, mata tidak harus sepenuhnya terbuka.",
+      "verified_live": true
+    },
+    "it": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Scarica Snapport dall’App Store →",
+      "app_store_url": "https://apps.apple.com/it/app/id6780575828?pt=118326163&ct=iag_data_it&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Per la foto tessera del bambino, nessun altro deve comparire nella foto e lo sfondo deve essere semplice — ma per i lattanti gli occhi non devono essere necessariamente completamente aperti.",
+      "verified_live": true
+    },
+    "ja": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App StoreでSnapportを入手 →",
+      "app_store_url": "https://apps.apple.com/jp/app/id6780575828?pt=118326163&ct=iag_data_ja&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "赤ちゃんのパスポート写真は他の人が写ってはいけず背景は無地でなければなりませんが、乳児の場合は目が完全に開いていなくても構いません。",
+      "verified_live": true
+    },
+    "kn-IN": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store ನಲ್ಲಿ Snapport ಪಡೆಯಿರಿ →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_kn_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "ಮಗುವಿನ ಪಾಸ್‌ಪೋರ್ಟ್ ಫೋಟೋಗೆ, ಇನ್ನೊಬ್ಬರು ಫೋಟೋದಲ್ಲಿ ಇರಬಾರದು ಮತ್ತು ಹಿನ್ನೆಲೆ ಸರಳವಾಗಿರಬೇಕು — ಆದರೆ ಶಿಶುಗಳಿಗೆ ಕಣ್ಣುಗಳು ಸಂಪೂರ್ಣವಾಗಿ ತೆರೆಯಬೇಕಾಗಿಲ್ಲ.",
+      "verified_live": true
+    },
+    "ko": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store에서 Snapport 받기 →",
+      "app_store_url": "https://apps.apple.com/kr/app/id6780575828?pt=118326163&ct=iag_data_ko&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "아기 여권 사진은 다른 사람이 나오면 안 되고 배경은 단색이어야 하지만, 영아는 눈을 완전히 뜨지 않아도 됩니다.",
+      "verified_live": true
+    },
+    "ml-IN": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store-ൽ നിന്ന് Snapport നേടുക →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_ml_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "കുഞ്ഞിന്റെ പാസ്പോർട്ട് ഫോട്ടോയ്ക്ക് മറ്റാരും ഷോട്ടിൽ ഉണ്ടാകരുത്, പശ്ചാത്തലം ലളിതമായിരിക്കണം — പക്ഷേ ശിശുക്കൾക്ക് കണ്ണുകൾ പൂർണ്ണമായി തുറന്നിരിക്കേണ്ടതില്ല.",
+      "verified_live": true
+    },
+    "mr-IN": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store वरून Snapport मिळवा →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_mr_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "बाळाच्या पासपोर्ट फोटोसाठी, फोटोमध्ये दुसरा कोणीही नसावा आणि पार्श्वभूमी साधी असावी — पण नवजात आणि लहान बाळांसाठी डोळे पूर्णपणे उघडे असणे आवश्यक नाही.",
+      "verified_live": true
+    },
+    "ms": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Dapatkan Snapport di App Store →",
+      "app_store_url": "https://apps.apple.com/my/app/id6780575828?pt=118326163&ct=iag_data_ms&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Untuk foto pasport bayi, tiada orang lain boleh berada dalam gambar dan latar belakang mesti polos — tetapi untuk bayi kecil mata tidak perlu terbuka sepenuhnya.",
+      "verified_live": true
+    },
+    "nl-NL": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Download Snapport in de App Store →",
+      "app_store_url": "https://apps.apple.com/nl/app/id6780575828?pt=118326163&ct=iag_data_nl_nl&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Voor een pasfoto van een baby mag er niemand anders op de foto staan en moet de achtergrond effen zijn — maar bij baby's hoeven de ogen niet volledig open te zijn.",
+      "verified_live": true
+    },
+    "no": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Last ned Snapport i App Store →",
+      "app_store_url": "https://apps.apple.com/no/app/id6780575828?pt=118326163&ct=iag_data_no&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "For babyens passfoto kan ingen andre være med i bildet, og bakgrunnen må være ensfarget — men for spedbarn trenger ikke øynene være helt åpne.",
+      "verified_live": true
+    },
+    "or-IN": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store ରୁ Snapport ଡାଉନଲୋଡ୍ କରନ୍ତୁ →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_or_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "ଶିଶୁଙ୍କର ପାସପୋର୍ଟ ଫଟୋ ପାଇଁ, ଅନ୍ୟ କୌଣସି ବ୍ୟକ୍ତି ଫଟୋରେ ଥିବା ନାହିଁ ଏବଂ ପୃଷ୍ଠଭୂମି ସାଧାରଣ ହେବା ଆବଶ୍ୟକ — କିନ୍ତୁ ଶିଶୁଙ୍କ ପାଇଁ ଆଖି ସମ୍ପୂର୍ଣ୍ଣ ଖୋଲା ରହିବା ଆବଶ୍ୟକ ନୁହେଁ।",
+      "verified_live": true
+    },
+    "pa-IN": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store 'ਤੇ Snapport ਪ੍ਰਾਪਤ ਕਰੋ →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_pa_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "ਬੱਚੇ ਦੀ ਪਾਸਪੋਰਟ ਫੋਟੋ ਲਈ, ਹੋਰ ਕੋਈ ਵੀ ਫੋਟੋ ਵਿੱਚ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ ਅਤੇ ਪਿਛੋਕੜ ਸਾਫ਼ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ — ਪਰ ਨੰਨੇ ਬੱਚਿਆਂ ਲਈ ਅੱਖਾਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਖੁੱਲੀਆਂ ਹੋਣ ਦੀ ਲੋੜ ਨਹੀਂ।",
+      "verified_live": true
+    },
+    "pl": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Pobierz Snapport w App Store →",
+      "app_store_url": "https://apps.apple.com/pl/app/id6780575828?pt=118326163&ct=iag_data_pl&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Na zdjęciu paszportowym niemowlęcia nie może być innych osób, a tło musi być jednolite — ale oczy niemowląt nie muszą być całkowicie otwarte.",
+      "verified_live": true
+    },
+    "pt-BR": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Baixe o Snapport na App Store →",
+      "app_store_url": "https://apps.apple.com/br/app/id6780575828?pt=118326163&ct=iag_data_pt_br&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Para foto de passaporte de bebê, ninguém mais pode aparecer na foto e o fundo deve ser liso — mas para bebês os olhos não precisam estar totalmente abertos.",
+      "verified_live": true
+    },
+    "pt-PT": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Obtenha o Snapport na App Store →",
+      "app_store_url": "https://apps.apple.com/pt/app/id6780575828?pt=118326163&ct=iag_data_pt_pt&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Para a foto de passaporte do bebé, ninguém mais pode estar na foto e o fundo deve ser liso — mas para bebés os olhos não têm de estar totalmente abertos.",
+      "verified_live": true
+    },
+    "ro": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Descarcă Snapport din App Store →",
+      "app_store_url": "https://apps.apple.com/ro/app/id6780575828?pt=118326163&ct=iag_data_ro&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Pentru fotografia de pașaport a bebelușului, nimeni altcineva nu poate fi în cadru și fundalul trebuie să fie simplu — dar pentru sugari ochii nu trebuie să fie complet deschiși.",
+      "verified_live": true
+    },
+    "ru": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Скачайте Snapport в App Store →",
+      "app_store_url": "https://apps.apple.com/ru/app/id6780575828?pt=118326163&ct=iag_data_ru&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Для фото на паспорт ребёнка в кадре не должно быть других людей, фон должен быть однотонным — но для младенцев глаза могут быть не полностью открыты.",
+      "verified_live": true
+    },
+    "sk": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Stiahnite si Snapport v App Store →",
+      "app_store_url": "https://apps.apple.com/sk/app/id6780575828?pt=118326163&ct=iag_data_sk&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Pre pasovú fotografiu bábätka nesmie byť v zábere nikto iný a pozadie musí byť jednoliate — ale u dojčiat nemusia byť oči úplne otvorené.",
+      "verified_live": true
+    },
+    "sl-SI": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Prenesite Snapport iz App Store →",
+      "app_store_url": "https://apps.apple.com/si/app/id6780575828?pt=118326163&ct=iag_data_sl_si&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Za potniško fotografijo dojenčka ne sme biti drugih oseb v kadru, ozadje mora biti enobarvno — za dojenčke oči ne morajo biti popolnoma odprte.",
+      "verified_live": true
+    },
+    "sv": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Skaffa Snapport i App Store →",
+      "app_store_url": "https://apps.apple.com/se/app/id6780575828?pt=118326163&ct=iag_data_sv&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "För bebisens passfoto får ingen annan synas och bakgrunden måste vara enfärgad – men för spädbarn behöver ögonen inte vara helt öppna.",
+      "verified_live": true
+    },
+    "ta-IN": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store இல் Snapport ஐப் பெறுங்கள் →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_ta_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "குழந்தையின் பாஸ்போர்ட் புகைப்படத்திற்கு, வேறு யாரும் படத்தில் இருக்கக்கூடாது மற்றும் பின்னணி சுத்தமாக இருக்க வேண்டும் — ஆனால் குழந்தைகளுக்கு கண்கள் முழுமையாக திறந்திருப்பதற்கான கட்டாயம் இல்லை.",
+      "verified_live": true
+    },
+    "te-IN": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Storeలో Snapport పొందండి →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780575828?pt=118326163&ct=iag_data_te_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "బిడ్డల పాస్‌పోర్ట్ ఫోటో కోసం, మరొకరు చిత్రంలో ఉండకూడదు మరియు నేపథ్యం సాధారణంగా ఉండాలి — కానీ శిశువుల కోసం కళ్ళు పూర్తిగా తెరవాల్సిన అవసరం లేదు.",
+      "verified_live": true
+    },
+    "th": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "ดาวน์โหลด Snapport ใน App Store →",
+      "app_store_url": "https://apps.apple.com/th/app/id6780575828?pt=118326163&ct=iag_data_th&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "สำหรับรูปหนังสือเดินทางเด็ก ไม่มีคนอื่นในภาพและพื้นหลังต้องเรียบ แต่สำหรับทารก ดวงตาไม่จำเป็นต้องเปิดเต็มที่",
+      "verified_live": true
+    },
+    "tr": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Snapport’u App Store’dan edinin →",
+      "app_store_url": "https://apps.apple.com/tr/app/id6780575828?pt=118326163&ct=iag_data_tr&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Bebek pasaport fotoğrafında başka kimse olmamalı ve arka plan sade olmalıdır — ancak bebeklerde gözlerin tamamen açık olması gerekmez.",
+      "verified_live": true
+    },
+    "uk": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Отримайте Snapport в App Store →",
+      "app_store_url": "https://apps.apple.com/ua/app/id6780575828?pt=118326163&ct=iag_data_uk&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Для фото на паспорт дитини ніхто інший не повинен бути в кадрі, а фон має бути однотонним — але для немовлят очі не обов’язково мають бути повністю відкриті.",
+      "verified_live": true
+    },
+    "ur-PK": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "App Store سے Snapport حاصل کریں →",
+      "app_store_url": "https://apps.apple.com/pk/app/id6780575828?pt=118326163&ct=iag_data_ur_pk&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "بچے کے پاسپورٹ فوٹو میں کوئی دوسرا شخص تصویر میں نہیں ہونا چاہیے اور پس منظر سادہ ہونا چاہیے — لیکن شیر خوار بچوں کے لیے آنکھیں مکمل طور پر کھلی ہونا ضروری نہیں۔",
+      "verified_live": true
+    },
+    "vi": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "Tải Snapport trên App Store →",
+      "app_store_url": "https://apps.apple.com/vn/app/id6780575828?pt=118326163&ct=iag_data_vi&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "Ảnh hộ chiếu bé không được có người khác trong ảnh và nền phải trơn — nhưng với trẻ nhỏ, mắt không cần mở hoàn toàn.",
+      "verified_live": true
+    },
+    "zh-Hans": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "在App Store获取Snapport →",
+      "app_store_url": "https://apps.apple.com/cn/app/id6780575828?pt=118326163&ct=iag_data_zh_hans&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "婴儿护照照片中不能有其他人，背景必须纯净——但婴儿眼睛不必完全睁开。",
+      "verified_live": true
+    },
+    "zh-Hant": {
+      "app_name": "Snapport",
+      "app_store_cta_label": "在 App Store 取得 Snapport →",
+      "app_store_url": "https://apps.apple.com/tw/app/id6780575828?pt=118326163&ct=iag_data_zh_hant&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780575828",
+      "decision_context": "嬰兒護照照片中不得有其他人，背景必須純色——但嬰幼兒眼睛不必完全睜開。",
+      "verified_live": true
+    }
+  },
+  "contract": {
+    "catalog_digest": "73e695215f5c1f227535719048669c08733c71a1a22883e73aea0831f34fb764",
+    "config_digest": "ed2194ced7aeaa2ad2999d4335c2f5f19e8bf008a3f0cddcd2fe325107557e8e",
+    "digest": "58f2bdf84b6fd6a2825b88c6898546c1acb5bb486207528214c49b7d1b923395",
+    "schema": "support-surface-contract/v1"
+  },
+  "dynamic_app_link_exempt": [],
+  "exact_replacements": [
+    {
+      "new": "Pay once",
+      "old": "Pay once: US$4.99",
+      "path": "index.html"
+    },
+    {
+      "new": "Paid upfront.",
+      "old": "Paid upfront US$4.99.",
+      "path": "index.html"
+    },
+    {
+      "new": "<span class=\"mini\">Paid upfront</span>",
+      "old": "<span class=\"mini\">US$4.99</span>",
+      "path": "index.html"
+    },
+    {
+      "new": "一次付費",
+      "old": "一次付費：US$4.99",
+      "path": "index.html"
+    },
+    {
+      "new": "一次付費。",
+      "old": "一次付費 US$4.99。",
+      "path": "index.html"
+    },
+    {
+      "new": "買い切り",
+      "old": "買い切り: US$4.99",
+      "path": "index.html"
+    },
+    {
+      "new": "前払いです。",
+      "old": "前払い US$4.99。",
+      "path": "index.html"
+    },
+    {
+      "new": "일회성 결제",
+      "old": "일회성 결제: US$4.99",
+      "path": "index.html"
+    },
+    {
+      "new": "선불입니다.",
+      "old": "선불 US$4.99.",
+      "path": "index.html"
+    },
+    {
+      "new": "paid upfront",
+      "old": "paid upfront US$4.99",
+      "path": "support.html"
+    },
+    {
+      "new": "一次付費",
+      "old": "一次付費 US$4.99",
+      "path": "support.html"
+    },
+    {
+      "new": "前払い",
+      "old": "前払い US$4.99",
+      "path": "support.html"
+    },
+    {
+      "new": "선불",
+      "old": "선불 US$4.99",
+      "path": "support.html"
+    },
+    {
+      "new": "paid upfront app",
+      "old": "paid upfront app (US$4.99)",
+      "path": "privacy.html"
+    },
+    {
+      "new": "一次付費 App",
+      "old": "一次付費 App（US$4.99）",
+      "path": "privacy.html"
+    },
+    {
+      "new": "前払いアプリ",
+      "old": "前払いアプリ（US$4.99）",
+      "path": "privacy.html"
+    },
+    {
+      "new": "선불 앱",
+      "old": "선불 앱(US$4.99)",
+      "path": "privacy.html"
+    }
+  ],
+  "locale_names": {
+    "ar-SA": "العربية",
+    "bn-BD": "বাংলা",
+    "ca": "Català",
+    "cs": "Čeština",
+    "da": "Dansk",
+    "de-DE": "Deutsch",
+    "el": "Ελληνικά",
+    "en-AU": "English (Australia)",
+    "en-CA": "English (Canada)",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (United States)",
+    "es-ES": "Español",
+    "es-MX": "Español (México)",
+    "fi": "Suomi",
+    "fr-CA": "Français (Canada)",
+    "fr-FR": "Français",
+    "gu-IN": "ગુજરાતી",
+    "he": "עברית",
+    "hi": "हिन्दी",
+    "hr": "Hrvatski",
+    "hu": "Magyar",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "ja": "日本語",
+    "kn-IN": "ಕನ್ನಡ",
+    "ko": "한국어",
+    "ml-IN": "മലയാളം",
+    "mr-IN": "मराठी",
+    "ms": "Bahasa Melayu",
+    "nl-NL": "Nederlands",
+    "no": "Norsk bokmål",
+    "or-IN": "ଓଡ଼ିଆ",
+    "pa-IN": "ਪੰਜਾਬੀ",
+    "pl": "Polski",
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "ro": "Română",
+    "ru": "Русский",
+    "sk": "Slovenčina",
+    "sl-SI": "Slovenščina",
+    "sv": "Svenska",
+    "ta-IN": "தமிழ்",
+    "te-IN": "తెలుగు",
+    "th": "ไทย",
+    "tr": "Türkçe",
+    "uk": "Українська",
+    "ur-PK": "اردو",
+    "vi": "Tiếng Việt",
+    "zh-Hans": "简体中文",
+    "zh-Hant": "繁體中文"
+  },
+  "managed_cells": {
+    "index": [
+      "en-AU",
+      "en-CA",
+      "en-GB",
+      "or-IN"
+    ],
+    "privacy": [
+      "ar-SA",
+      "bn-BD",
+      "ca",
+      "zh-Hans",
+      "zh-Hant",
+      "hr",
+      "cs",
+      "da",
+      "nl-NL",
+      "en-AU",
+      "en-CA",
+      "en-GB",
+      "fi",
+      "fr-CA",
+      "fr-FR",
+      "de-DE",
+      "el",
+      "gu-IN",
+      "he",
+      "hi",
+      "hu",
+      "id",
+      "it",
+      "ja",
+      "kn-IN",
+      "ko",
+      "ms",
+      "ml-IN",
+      "mr-IN",
+      "no",
+      "or-IN",
+      "pl",
+      "pt-BR",
+      "pt-PT",
+      "pa-IN",
+      "ro",
+      "ru",
+      "sk",
+      "sl-SI",
+      "es-MX",
+      "es-ES",
+      "sv",
+      "ta-IN",
+      "te-IN",
+      "th",
+      "tr",
+      "uk",
+      "ur-PK",
+      "vi"
+    ],
+    "support": [
+      "en-AU",
+      "en-CA",
+      "en-GB",
+      "or-IN"
+    ]
+  },
+  "official_locales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-CA",
+    "fr-FR",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "paid_cleanup_questions": {
+    "ar-SA": [
+      "ما الذي يمكنني استخدامه مجانًا؟",
+      "إذا غيّرت الـ iPhone، هل تبقى عملية الشراء؟"
+    ],
+    "bn-BD": [
+      "বিনামূল্যে কী কী ব্যবহার করা যায়?",
+      "iPhone বদলালে কেনাকাটা কি থেকে যায়?"
+    ],
+    "ca": [
+      "Què puc fer servir gratuïtament?",
+      "Si canvio d'iPhone, mantinc la compra?"
+    ],
+    "cs": [
+      "Co můžu používat zdarma?",
+      "Zůstane mi nákup, když vyměním iPhone?"
+    ],
+    "da": [
+      "Hvad kan jeg bruge gratis?",
+      "Beholder jeg mit køb, hvis jeg skifter iPhone?"
+    ],
+    "de-DE": [
+      "Wie viel kann ich kostenlos nutzen?",
+      "Bleibt mein Kauf beim Gerätewechsel erhalten?"
+    ],
+    "el": [
+      "Τι μπορώ να χρησιμοποιήσω δωρεάν;",
+      "Αν αλλάξω iPhone, κρατάω την αγορά μου;"
+    ],
+    "en-AU": [
+      "What can I use before purchasing?",
+      "How much can I use for free?",
+      "How do I restore my purchase on another device?",
+      "Does my purchase remain when I change devices?"
+    ],
+    "en-CA": [
+      "What can I use before purchasing?",
+      "How much can I use for free?",
+      "How do I restore my purchase on another device?",
+      "Does my purchase remain when I change devices?"
+    ],
+    "en-GB": [
+      "What can I use before purchasing?",
+      "How much can I use for free?",
+      "How do I restore my purchase on another device?",
+      "Does my purchase remain when I change devices?"
+    ],
+    "en-US": [
+      "What can I use before purchasing?",
+      "How much can I use for free?",
+      "How do I restore my purchase on another device?",
+      "Does my purchase remain when I change devices?"
+    ],
+    "es-ES": [
+      "¿Hasta dónde puedo usarla gratis?",
+      "¿Se mantiene mi compra al cambiar de dispositivo?"
+    ],
+    "es-MX": [
+      "¿Qué puedo usar gratis?",
+      "Si cambio de iPhone, ¿conservo mi compra?"
+    ],
+    "fi": [
+      "Mitä voin käyttää ilmaiseksi?",
+      "Säilyykö ostoni, jos vaihdan iPhonea?"
+    ],
+    "fr-CA": [
+      "Qu'est-ce que je peux utiliser gratuitement ?",
+      "Si je change d'iPhone, est-ce que je garde mon achat ?"
+    ],
+    "fr-FR": [
+      "Que puis-je faire gratuitement ?",
+      "Mon achat est-il conservé si je change d'appareil ?"
+    ],
+    "gu-IN": [
+      "મફતમાં શું વાપરી શકાય?",
+      "iPhone બદલું તો ખરીદી રહે છે?"
+    ],
+    "he": [
+      "מה אפשר להשתמש בחינם?",
+      "אם אחליף iPhone, הרכישה נשמרת?"
+    ],
+    "hi": [
+      "मुफ़्त में क्या-क्या इस्तेमाल कर सकता हूँ?",
+      "iPhone बदलने पर क्या मेरी ख़रीद बनी रहेगी?"
+    ],
+    "hr": [
+      "Što mogu koristiti besplatno?",
+      "Ostaje li mi kupnja ako promijenim iPhone?"
+    ],
+    "hu": [
+      "Mit használhatok ingyen?",
+      "Megmarad a vásárlásom, ha iPhone-t váltok?"
+    ],
+    "id": [
+      "Apa yang bisa saya pakai gratis?",
+      "Kalau ganti iPhone, apakah pembelian saya tetap berlaku?"
+    ],
+    "it": [
+      "Che cosa posso usare gratuitamente?",
+      "Se cambio iPhone, l'acquisto resta valido?"
+    ],
+    "ja": [
+      "無料でどこまで使えますか?",
+      "機種変更しても購入は引き継げますか?"
+    ],
+    "kn-IN": [
+      "ಉಚಿತವಾಗಿ ಏನನ್ನು ಬಳಸಬಹುದು?",
+      "iPhone ಬದಲಾಯಿಸಿದರೆ ನನ್ನ ಖರೀದಿ ಉಳಿಯುತ್ತದೆಯೇ?"
+    ],
+    "ko": [
+      "무료로 어디까지 쓸 수 있나요?",
+      "기기를 바꿔도 구매 내역이 유지되나요?"
+    ],
+    "ml-IN": [
+      "സൗജന്യമായി എന്തൊക്കെ ഉപയോഗിക്കാം?",
+      "iPhone മാറ്റിയാൽ ഞാൻ വാങ്ങിയത് നിലനിൽക്കുമോ?"
+    ],
+    "mr-IN": [
+      "मोफत काय वापरता येते?",
+      "iPhone बदलल्यावर खरेदी टिकते का?"
+    ],
+    "ms": [
+      "Apa yang boleh saya guna secara percuma?",
+      "Jika saya tukar iPhone, adakah pembelian saya kekal?"
+    ],
+    "nl-NL": [
+      "Wat kan ik gratis gebruiken?",
+      "Blijft mijn aankoop geldig op een nieuwe iPhone?"
+    ],
+    "no": [
+      "Hva kan jeg bruke gratis?",
+      "Beholder jeg kjøpet hvis jeg bytter iPhone?"
+    ],
+    "or-IN": [
+      "କିଣିବା ପୂର୍ବରୁ କ’ଣ ବ୍ୟବହାର କରିପାରିବି?",
+      "ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ କିଣାକୁ କିପରି ପୁନରୁଦ୍ଧାର କରିବି?"
+    ],
+    "pa-IN": [
+      "ਮੁਫ਼ਤ ਵਿੱਚ ਕੀ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ?",
+      "iPhone ਬਦਲਣ ਉੱਤੇ ਕੀ ਮੇਰੀ ਖ਼ਰੀਦ ਰਹਿੰਦੀ ਹੈ?"
+    ],
+    "pl": [
+      "Z czego mogę korzystać bezpłatnie?",
+      "Czy po zmianie iPhone'a zachowam zakup?"
+    ],
+    "pt-BR": [
+      "Até onde dá para usar de graça?",
+      "Minha compra continua valendo se eu trocar de aparelho?"
+    ],
+    "pt-PT": [
+      "O que posso usar gratuitamente?",
+      "Se mudar de iPhone, mantenho a compra?"
+    ],
+    "ro": [
+      "Ce pot folosi gratuit?",
+      "Dacă schimb iPhone-ul, îmi păstrez achiziția?"
+    ],
+    "ru": [
+      "Что доступно бесплатно?",
+      "Сохранится ли покупка при смене iPhone?"
+    ],
+    "sk": [
+      "Čo môžem používať zadarmo?",
+      "Zostane mi nákup, keď vymením iPhone?"
+    ],
+    "sl-SI": [
+      "Kaj lahko uporabljam brezplačno?",
+      "Ali mi nakup ostane, če zamenjam iPhone?"
+    ],
+    "sv": [
+      "Vad kan jag använda gratis?",
+      "Får jag behålla mitt köp om jag byter iPhone?"
+    ],
+    "ta-IN": [
+      "இலவசமாக எதைப் பயன்படுத்தலாம்?",
+      "iPhone ஐ மாற்றினால் நான் வாங்கியது இருக்குமா?"
+    ],
+    "te-IN": [
+      "ఉచితంగా ఏం వాడవచ్చు?",
+      "iPhone మార్చితే నా కొనుగోలు ఉంటుందా?"
+    ],
+    "th": [
+      "ใช้ฟรีได้แค่ไหน",
+      "ถ้าเปลี่ยน iPhone สิ่งที่ซื้อไว้ยังอยู่ไหม"
+    ],
+    "tr": [
+      "Ücretsiz olarak neleri kullanabilirim?",
+      "iPhone değiştirirsem satın alımım kalır mı?"
+    ],
+    "uk": [
+      "Що доступно безкоштовно?",
+      "Чи збережеться покупка після заміни iPhone?"
+    ],
+    "ur-PK": [
+      "مفت میں کیا کچھ استعمال کر سکتا ہوں؟",
+      "iPhone بدلنے پر کیا میری خریداری برقرار رہے گی؟"
+    ],
+    "vi": [
+      "Tôi được dùng miễn phí những gì?",
+      "Đổi iPhone thì tôi có giữ được khoản đã mua không?"
+    ],
+    "zh-Hans": [
+      "免费可以用到什么程度?",
+      "换手机后购买记录还在吗?"
+    ],
+    "zh-Hant": [
+      "免費可以用到什麼程度?",
+      "換手機後購買紀錄還在嗎?"
+    ]
+  },
+  "paid_privacy_overrides": {},
+  "privacy_authority": {
+    "digest": "ad0e42b6f1216034759d70cd7b98e11882596792e5d25f29a4b7e35074c33c93",
+    "sources": [
+      {
+        "path": "privacy.html",
+        "role": "site-owned English privacy policy",
+        "sha256": "6644f6978f1b4c1748fefa36d929ad4a8cca8286395281e6bf93962c3feefd95"
+      }
+    ],
+    "status": "verified",
+    "updated": "2026-08-29"
+  },
+  "privacy_locales": {
+    "ar-SA": {
+      "description": "باختصار: بلا حساب، وبلا جمع لبيانات شخصية، وبلا إعلانات من أطراف أخرى، وبلا تحليلات من أطراف أخرى.",
+      "eyebrow": "سياسة الخصوصية",
+      "lead": "توضح هذه الصفحة البيانات التي يتعامل معها {app}، وأين تبقى، وما الذي تقرره أنت.",
+      "sections": [
+        {
+          "body": "نحن لا نجمع أي بيانات شخصية ولا نخزّنها ولا نرسلها إلى خوادمنا. ولا يوجد في {app} حسابات مستخدمين ولا تسجيل دخول.",
+          "heading": "المعلومات التي نجمعها",
+          "topic": "collect"
+        },
+        {
+          "body": "تتم معالجة الصور التي تختارها على جهازك فقط. ولا نرفعها إلى أي خادم ولا نحتفظ بنسخ منها، وأنت من يقرر حفظ النتيجة أو مشاركتها.",
+          "heading": "الصور والكاميرا",
+          "topic": "photos"
+        },
+        {
+          "body": "الوظائف الأساسية لا تحتاج إلى اتصال. وحدها بعض الوظائف الاختيارية — مثل التحقق من وجود محتوى أو قوالب جديدة — ترسل طلبًا عبر الشبكة، ولا تُرسل معه أي بيانات شخصية.",
+          "heading": "اتصالات الشبكة الاختيارية",
+          "topic": "network"
+        },
+        {
+          "body": "لا. لا توجد اشتراكات في {app}. الجزء المدفوع عملية شراء واحدة لا تتجدد.",
+          "heading": "المشتريات",
+          "topic": "purchase"
+        },
+        {
+          "body": "لا يحتوي التطبيق على إعلانات من أطراف أخرى ولا على حزم تحليلات أو تتبّع. ولا نبني عنك ملفًا شخصيًا عبر التطبيقات أو المواقع.",
+          "heading": "الأطراف الأخرى",
+          "topic": "third"
+        },
+        {
+          "body": "لأننا لا نجمع بيانات شخصية عن أي شخص، فنحن لا نجمعها عن الأطفال أيضًا. ولا نطلب اسم الطفل ولا تاريخ ميلاده ولا بيانات التواصل معه ولا صوره ولا بياناته الصحية.",
+          "heading": "خصوصية الأطفال",
+          "topic": "child"
+        },
+        {
+          "body": "إذا تغيّرت إحدى ميزات التطبيق بما يمسّ هذه السياسة، فسنحدّث هذه الصفحة وتاريخ التحديث في الأعلى.",
+          "heading": "التغييرات على هذه السياسة",
+          "topic": "change"
+        },
+        {
+          "body": "لأي سؤال يتعلق بالخصوصية راسلنا على {email} .",
+          "heading": "التواصل معنا",
+          "topic": "contact"
+        }
+      ],
+      "title": "سياسة الخصوصية لتطبيق {app}",
+      "translation_note": "",
+      "updated_label": "آخر تحديث"
+    },
+    "bn-BD": {
+      "description": "সংক্ষেপে: কোনো অ্যাকাউন্ট নেই, ব্যক্তিগত তথ্য সংগ্রহ নেই, তৃতীয় পক্ষের বিজ্ঞাপন নেই, তৃতীয় পক্ষের অ্যানালিটিক্স নেই।",
+      "eyebrow": "গোপনীয়তা নীতি",
+      "lead": "এই পৃষ্ঠায় বলা আছে {app} কোন তথ্য নিয়ে কাজ করে, সেগুলো কোথায় থাকে এবং কোন সিদ্ধান্ত আপনার হাতে।",
+      "sections": [
+        {
+          "body": "আমরা আমাদের সার্ভারে কোনো ব্যক্তিগত তথ্য সংগ্রহ, সংরক্ষণ বা প্রেরণ করি না। {app}-এ ব্যবহারকারী অ্যাকাউন্ট বা সাইন-ইনের কোনো ব্যবস্থা নেই।",
+          "heading": "আমরা কী তথ্য সংগ্রহ করি",
+          "topic": "collect"
+        },
+        {
+          "body": "আপনার বেছে নেওয়া ছবিগুলোর প্রক্রিয়াকরণ কেবল আপনার ডিভাইসেই হয়। আমরা সেগুলো কোনো সার্ভারে পাঠাই না, অনুলিপিও রাখি না; ফল সংরক্ষণ বা শেয়ার করবেন কি না তা আপনার সিদ্ধান্ত।",
+          "heading": "ছবি ও ক্যামেরা",
+          "topic": "photos"
+        },
+        {
+          "body": "মূল কাজগুলোর জন্য সংযোগ লাগে না। কেবল কিছু ঐচ্ছিক সুবিধা — যেমন নতুন বিষয়বস্তু বা টেমপ্লেট আছে কি না দেখা — নেটওয়ার্ক অনুরোধ পাঠায়, আর তার সঙ্গে কোনো ব্যক্তিগত তথ্য যায় না।",
+          "heading": "ঐচ্ছিক নেটওয়ার্ক সংযোগ",
+          "topic": "network"
+        },
+        {
+          "body": "না। {app}-এ কোনো সাবস্ক্রিপশন নেই। যে অংশটুকু সশুল্ক, সেটি একবারের কেনাকাটা এবং নিজে থেকে নবায়ন হয় না।",
+          "heading": "কেনাকাটা",
+          "topic": "purchase"
+        },
+        {
+          "body": "অ্যাপে তৃতীয় পক্ষের বিজ্ঞাপন, অ্যানালিটিক্স বা ট্র্যাকিং SDK নেই। বিভিন্ন অ্যাপ বা ওয়েবসাইটের মধ্যে আপনার কোনো প্রোফাইল আমরা তৈরি করি না।",
+          "heading": "তৃতীয় পক্ষ",
+          "topic": "third"
+        },
+        {
+          "body": "যেহেতু আমরা কারও ব্যক্তিগত তথ্যই সংগ্রহ করি না, শিশুদেরটাও করি না। কোনো শিশুর নাম, জন্মতারিখ, যোগাযোগের তথ্য, ছবি বা স্বাস্থ্য সংক্রান্ত তথ্য আমরা চাই না।",
+          "heading": "শিশুদের গোপনীয়তা",
+          "topic": "child"
+        },
+        {
+          "body": "অ্যাপের কোনো সুবিধা এমনভাবে বদলালে যা এই নীতিকে স্পর্শ করে, আমরা এই পৃষ্ঠা ও উপরের তারিখ হালনাগাদ করব।",
+          "heading": "এই নীতির পরিবর্তন",
+          "topic": "change"
+        },
+        {
+          "body": "গোপনীয়তা সংক্রান্ত প্রশ্নের জন্য {email} ঠিকানায় লিখুন।",
+          "heading": "যোগাযোগ",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app}-এর গোপনীয়তা নীতি",
+      "translation_note": "",
+      "updated_label": "সর্বশেষ হালনাগাদ"
+    },
+    "ca": {
+      "description": "En resum: cap compte, cap recollida de dades personals, cap publicitat de tercers, cap analítica de tercers.",
+      "eyebrow": "Política de privadesa",
+      "lead": "En aquesta pàgina expliquem quines dades tracta {app}, on es queden i què pots decidir tu.",
+      "sections": [
+        {
+          "body": "No recollim, no desem ni transmetem cap dada personal als nostres servidors. {app} no té comptes d'usuari ni sistema d'inici de sessió.",
+          "heading": "Quina informació recollim",
+          "topic": "collect"
+        },
+        {
+          "body": "Les fotos que tries es processen només al teu dispositiu. No les pugem a cap servidor ni en guardem còpies; tu decideixes si deses o comparteixes el resultat.",
+          "heading": "Fotos i càmera",
+          "topic": "photos"
+        },
+        {
+          "body": "Les funcions principals no necessiten connexió. Només algunes funcions opcionals — per exemple comprovar si hi ha contingut o plantilles noves — fan una petició de xarxa, i no hi viatja cap dada personal.",
+          "heading": "Connexions de xarxa opcionals",
+          "topic": "network"
+        },
+        {
+          "body": "No. {app} no té subscripcions. La part de pagament és una compra única que no es renova.",
+          "heading": "Compres",
+          "topic": "purchase"
+        },
+        {
+          "body": "L'app no conté publicitat de tercers ni SDK d'analítica o de seguiment. No construïm cap perfil teu entre apps ni entre webs.",
+          "heading": "Tercers",
+          "topic": "third"
+        },
+        {
+          "body": "Com que no recollim dades personals de ningú, tampoc no en recollim dels infants. No demanem el nom, la data de naixement, les dades de contacte, les fotos ni les dades de salut de cap menor.",
+          "heading": "Privadesa dels menors",
+          "topic": "child"
+        },
+        {
+          "body": "Si una funció de l'app canvia d'una manera que afecti aquesta política, actualitzarem aquesta pàgina i la data d'actualització de dalt.",
+          "heading": "Canvis en aquesta política",
+          "topic": "change"
+        },
+        {
+          "body": "Per a qualsevol pregunta sobre privadesa, escriu a {email} .",
+          "heading": "Contacte",
+          "topic": "contact"
+        }
+      ],
+      "title": "Política de privadesa de {app}",
+      "translation_note": "",
+      "updated_label": "Última actualització"
+    },
+    "cs": {
+      "description": "Ve zkratce: žádný účet, žádný sběr osobních údajů, žádná reklama třetích stran, žádná cizí analytika.",
+      "eyebrow": "Zásady ochrany soukromí",
+      "lead": "Tato stránka vysvětluje, jaká data {app} zpracovává, kde zůstávají a o čem rozhodujete vy.",
+      "sections": [
+        {
+          "body": "Neshromažďujeme, neukládáme ani neposíláme na naše servery žádné osobní údaje. {app} nemá uživatelské účty ani přihlašování.",
+          "heading": "Jaké údaje shromažďujeme",
+          "topic": "collect"
+        },
+        {
+          "body": "Fotky, které vyberete, se zpracovávají jen ve vašem zařízení. Neposíláme je na žádný server ani si neukládáme kopie; jestli výsledek uložíte nebo budete sdílet, rozhodujete vy.",
+          "heading": "Fotky a fotoaparát",
+          "topic": "photos"
+        },
+        {
+          "body": "Hlavní funkce připojení nepotřebují. Síťový požadavek posílají jen jednotlivé volitelné funkce — třeba kontrola nového obsahu nebo šablon — a žádné osobní údaje s ním neodcházejí.",
+          "heading": "Volitelná síťová spojení",
+          "topic": "network"
+        },
+        {
+          "body": "Ne. {app} žádné předplatné nemá. Placená část je jednorázový nákup, který se neobnovuje.",
+          "heading": "Nákupy",
+          "topic": "purchase"
+        },
+        {
+          "body": "Aplikace neobsahuje reklamy třetích stran ani analytické či sledovací SDK. Nevytváříme o vás profil napříč aplikacemi ani weby.",
+          "heading": "Třetí strany",
+          "topic": "third"
+        },
+        {
+          "body": "Protože nesbíráme osobní údaje nikoho, nesbíráme je ani od dětí. Neptáme se na jméno, datum narození, kontakty, fotografie ani zdravotní údaje dítěte.",
+          "heading": "Soukromí dětí",
+          "topic": "child"
+        },
+        {
+          "body": "Pokud se funkce aplikace změní způsobem, který se těchto zásad týká, tuto stránku i datum nahoře aktualizujeme.",
+          "heading": "Změny těchto zásad",
+          "topic": "change"
+        },
+        {
+          "body": "Dotazy k soukromí posílejte na {email} .",
+          "heading": "Kontakt",
+          "topic": "contact"
+        }
+      ],
+      "title": "Zásady ochrany soukromí aplikace {app}",
+      "translation_note": "",
+      "updated_label": "Poslední aktualizace"
+    },
+    "da": {
+      "description": "Kort fortalt: ingen konto, ingen indsamling af personoplysninger, ingen tredjepartsreklamer, ingen tredjepartsanalyse.",
+      "eyebrow": "Privatlivspolitik",
+      "lead": "Denne side forklarer, hvilke data {app} behandler, hvor de bliver, og hvad du selv bestemmer.",
+      "sections": [
+        {
+          "body": "Vi indsamler, gemmer og sender ingen personoplysninger til vores servere. {app} har hverken brugerkonti eller login.",
+          "heading": "Hvilke oplysninger vi indsamler",
+          "topic": "collect"
+        },
+        {
+          "body": "De billeder, du vælger, behandles kun på din enhed. Vi uploader dem ikke til nogen server og gemmer ingen kopier; du bestemmer selv, om resultatet skal gemmes eller deles.",
+          "heading": "Fotos og kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Kernefunktionerne kræver ingen forbindelse. Kun enkelte valgfrie funktioner — for eksempel tjek for nyt indhold eller nye skabeloner — sender en netværksforespørgsel, og der følger ingen personoplysninger med.",
+          "heading": "Valgfrie netværksforbindelser",
+          "topic": "network"
+        },
+        {
+          "body": "Nej. {app} har ingen abonnementer. Det betalte er et enkeltstående køb, der ikke fornyes.",
+          "heading": "Køb",
+          "topic": "purchase"
+        },
+        {
+          "body": "Appen indeholder hverken tredjepartsreklamer eller analyse- og sporings-SDK'er. Vi opbygger ingen profil af dig på tværs af apps eller websteder.",
+          "heading": "Tredjeparter",
+          "topic": "third"
+        },
+        {
+          "body": "Da vi ikke indsamler personoplysninger om nogen, indsamler vi dem heller ikke om børn. Vi beder ikke om et barns navn, fødselsdato, kontaktoplysninger, billeder eller helbredsoplysninger.",
+          "heading": "Børns privatliv",
+          "topic": "child"
+        },
+        {
+          "body": "Hvis en funktion i appen ændrer sig på en måde, der har betydning for denne politik, opdaterer vi denne side og datoen øverst.",
+          "heading": "Ændringer af denne politik",
+          "topic": "change"
+        },
+        {
+          "body": "Spørgsmål om privatliv kan sendes til {email} .",
+          "heading": "Kontakt",
+          "topic": "contact"
+        }
+      ],
+      "title": "Privatlivspolitik for {app}",
+      "translation_note": "",
+      "updated_label": "Sidst opdateret"
+    },
+    "de-DE": {
+      "description": "Kurz gefasst: kein Konto nötig, keine Erhebung personenbezogener Daten, keine Werbung Dritter, keine Analyse-Dienste Dritter.",
+      "eyebrow": "Datenschutzerklärung",
+      "lead": "Diese Seite erklärt, welche Daten {app} verarbeitet, wo sie liegen und was Sie selbst steuern können.",
+      "sections": [
+        {
+          "body": "Wir erheben, speichern und übertragen keine personenbezogenen Daten an unsere Server. {app} hat keine Benutzerkonten und keine Anmeldung.",
+          "heading": "Welche Daten wir erheben",
+          "topic": "collect"
+        },
+        {
+          "body": "Von Ihnen ausgewählte Fotos werden ausschließlich auf Ihrem Gerät verarbeitet. Wir laden keine Fotos auf Server und behalten keine Kopien; ob Sie das Ergebnis sichern oder teilen, entscheiden Sie.",
+          "heading": "Fotos und Kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Für die Kernfunktionen ist keine Verbindung nötig. Nur einzelne optionale Funktionen — etwa die Prüfung auf neue Inhalte oder Vorlagen — stellen eine Netzwerkanfrage, und dabei werden keine personenbezogenen Daten mitgeschickt.",
+          "heading": "Optionale Netzwerkverbindungen",
+          "topic": "network"
+        },
+        {
+          "body": "Nein. {app} hat kein Abo. Bezahlinhalte sind ein einmaliger Kauf, es gibt keine wiederkehrende Abbuchung.",
+          "heading": "Käufe",
+          "topic": "purchase"
+        },
+        {
+          "body": "Die App enthält keine Werbung Dritter und keine Analyse- oder Tracking-SDKs von Dritten. Wir erstellen kein App- oder websiteübergreifendes Profil von Ihnen.",
+          "heading": "Dritte",
+          "topic": "third"
+        },
+        {
+          "body": "Da die App von niemandem personenbezogene Daten erhebt, erhebt sie auch keine Daten von Kindern. Wir fragen weder Name, Geburtsdatum, Kontaktdaten, Fotos noch Gesundheitsdaten eines Kindes ab.",
+          "heading": "Datenschutz für Kinder",
+          "topic": "child"
+        },
+        {
+          "body": "Ändern sich Funktionen der App in einer Weise, die diese Erklärung betrifft, aktualisieren wir diese Seite und das Datum oben.",
+          "heading": "Änderungen dieser Erklärung",
+          "topic": "change"
+        },
+        {
+          "body": "Fragen zum Datenschutz richten Sie bitte an {email} .",
+          "heading": "Kontakt",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Datenschutzerklärung",
+      "translation_note": "",
+      "updated_label": "Zuletzt aktualisiert"
+    },
+    "el": {
+      "description": "Με λίγα λόγια: χωρίς λογαριασμό, χωρίς συλλογή προσωπικών δεδομένων, χωρίς διαφημίσεις τρίτων, χωρίς αναλυτικά εργαλεία τρίτων.",
+      "eyebrow": "Πολιτική απορρήτου",
+      "lead": "Αυτή η σελίδα εξηγεί ποια δεδομένα επεξεργάζεται το {app}, πού παραμένουν και τι αποφασίζετε εσείς.",
+      "sections": [
+        {
+          "body": "Δεν συλλέγουμε, δεν αποθηκεύουμε και δεν στέλνουμε στους διακομιστές μας κανένα προσωπικό δεδομένο. Το {app} δεν έχει λογαριασμούς χρήστη ούτε σύνδεση.",
+          "heading": "Ποιες πληροφορίες συλλέγουμε",
+          "topic": "collect"
+        },
+        {
+          "body": "Οι φωτογραφίες που επιλέγετε επεξεργάζονται μόνο στη συσκευή σας. Δεν τις ανεβάζουμε σε κανέναν διακομιστή και δεν κρατάμε αντίγραφα· εσείς αποφασίζετε αν θα αποθηκεύσετε ή θα μοιραστείτε το αποτέλεσμα.",
+          "heading": "Φωτογραφίες και κάμερα",
+          "topic": "photos"
+        },
+        {
+          "body": "Οι βασικές λειτουργίες δεν χρειάζονται σύνδεση. Μόνο μεμονωμένες προαιρετικές λειτουργίες — για παράδειγμα ο έλεγχος για νέο περιεχόμενο ή πρότυπα — κάνουν αίτημα δικτύου, χωρίς να στέλνονται προσωπικά δεδομένα.",
+          "heading": "Προαιρετικές συνδέσεις δικτύου",
+          "topic": "network"
+        },
+        {
+          "body": "Όχι. Το {app} δεν έχει συνδρομές. Το επί πληρωμή μέρος είναι μία εφάπαξ αγορά που δεν ανανεώνεται.",
+          "heading": "Αγορές",
+          "topic": "purchase"
+        },
+        {
+          "body": "Η εφαρμογή δεν περιέχει διαφημίσεις τρίτων ούτε SDK ανάλυσης ή παρακολούθησης. Δεν δημιουργούμε προφίλ σας μεταξύ εφαρμογών ή ιστότοπων.",
+          "heading": "Τρίτα μέρη",
+          "topic": "third"
+        },
+        {
+          "body": "Επειδή δεν συλλέγουμε προσωπικά δεδομένα κανενός, δεν συλλέγουμε ούτε των παιδιών. Δεν ζητάμε όνομα, ημερομηνία γέννησης, στοιχεία επικοινωνίας, φωτογραφίες ή δεδομένα υγείας παιδιού.",
+          "heading": "Απόρρητο των παιδιών",
+          "topic": "child"
+        },
+        {
+          "body": "Αν κάποια λειτουργία της εφαρμογής αλλάξει με τρόπο που αφορά αυτή την πολιτική, θα ενημερώσουμε τη σελίδα και την ημερομηνία στην κορυφή.",
+          "heading": "Αλλαγές σε αυτή την πολιτική",
+          "topic": "change"
+        },
+        {
+          "body": "Για ερωτήσεις σχετικά με το απόρρητο γράψτε στο {email} .",
+          "heading": "Επικοινωνία",
+          "topic": "contact"
+        }
+      ],
+      "title": "Πολιτική απορρήτου του {app}",
+      "translation_note": "",
+      "updated_label": "Τελευταία ενημέρωση"
+    },
+    "en-AU": {
+      "description": "{app} privacy policy: data handling, on-device processing, Apple services, purchases, and contact.",
+      "eyebrow": "Privacy Policy",
+      "lead": "How {app} handles information, where eligible data stays, and which choices remain under your control.",
+      "sections": [
+        {
+          "body": "None. {app} does not collect, transmit, sell, or share personal data. There is no developer-run account or sign-in system.",
+          "heading": "Data we collect",
+          "topic": "collect"
+        },
+        {
+          "body": "Photos you choose are processed on your device. {app} does not upload them to a developer server or keep a server copy; you decide whether to save or share an output.",
+          "heading": "Photos and camera",
+          "topic": "photos"
+        },
+        {
+          "body": "Core work stays on your device. The optional template-update check downloads a public list and does not send photos or personal data.",
+          "heading": "Optional network use",
+          "topic": "network"
+        },
+        {
+          "body": "This is a paid App Store download with a one-time purchase. There is no subscription or in-app purchase. Apple processes the purchase; the developer does not receive payment-card details.",
+          "heading": "Purchases",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} contains no third-party advertising, analytics, attribution, or tracking SDK. The developer does not build a cross-app or cross-site profile.",
+          "heading": "Advertising, analytics, and tracking",
+          "topic": "third"
+        },
+        {
+          "body": "Because {app} does not collect personal data, it does not collect a child's personal data. It does not ask the developer for a child's name, birth date, contact details, photos, or health information.",
+          "heading": "Children's privacy",
+          "topic": "child"
+        },
+        {
+          "body": "If the app changes in a way that affects this policy, this page and its last-updated date will be revised.",
+          "heading": "Changes to this policy",
+          "topic": "change"
+        },
+        {
+          "body": "For privacy questions, email {email}.",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Privacy Policy",
+      "translation_note": "",
+      "updated_label": "Last updated"
+    },
+    "en-CA": {
+      "description": "{app} privacy policy: data handling, on-device processing, Apple services, purchases, and contact.",
+      "eyebrow": "Privacy Policy",
+      "lead": "How {app} handles information, where eligible data stays, and which choices remain under your control.",
+      "sections": [
+        {
+          "body": "None. {app} does not collect, transmit, sell, or share personal data. There is no developer-run account or sign-in system.",
+          "heading": "Data we collect",
+          "topic": "collect"
+        },
+        {
+          "body": "Photos you choose are processed on your device. {app} does not upload them to a developer server or keep a server copy; you decide whether to save or share an output.",
+          "heading": "Photos and camera",
+          "topic": "photos"
+        },
+        {
+          "body": "Core work stays on your device. The optional template-update check downloads a public list and does not send photos or personal data.",
+          "heading": "Optional network use",
+          "topic": "network"
+        },
+        {
+          "body": "This is a paid App Store download with a one-time purchase. There is no subscription or in-app purchase. Apple processes the purchase; the developer does not receive payment-card details.",
+          "heading": "Purchases",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} contains no third-party advertising, analytics, attribution, or tracking SDK. The developer does not build a cross-app or cross-site profile.",
+          "heading": "Advertising, analytics, and tracking",
+          "topic": "third"
+        },
+        {
+          "body": "Because {app} does not collect personal data, it does not collect a child's personal data. It does not ask the developer for a child's name, birth date, contact details, photos, or health information.",
+          "heading": "Children's privacy",
+          "topic": "child"
+        },
+        {
+          "body": "If the app changes in a way that affects this policy, this page and its last-updated date will be revised.",
+          "heading": "Changes to this policy",
+          "topic": "change"
+        },
+        {
+          "body": "For privacy questions, email {email}.",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Privacy Policy",
+      "translation_note": "",
+      "updated_label": "Last updated"
+    },
+    "en-GB": {
+      "description": "{app} privacy policy: data handling, on-device processing, Apple services, purchases, and contact.",
+      "eyebrow": "Privacy Policy",
+      "lead": "How {app} handles information, where eligible data stays, and which choices remain under your control.",
+      "sections": [
+        {
+          "body": "None. {app} does not collect, transmit, sell, or share personal data. There is no developer-run account or sign-in system.",
+          "heading": "Data we collect",
+          "topic": "collect"
+        },
+        {
+          "body": "Photos you choose are processed on your device. {app} does not upload them to a developer server or keep a server copy; you decide whether to save or share an output.",
+          "heading": "Photos and camera",
+          "topic": "photos"
+        },
+        {
+          "body": "Core work stays on your device. The optional template-update check downloads a public list and does not send photos or personal data.",
+          "heading": "Optional network use",
+          "topic": "network"
+        },
+        {
+          "body": "This is a paid App Store download with a one-time purchase. There is no subscription or in-app purchase. Apple processes the purchase; the developer does not receive payment-card details.",
+          "heading": "Purchases",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} contains no third-party advertising, analytics, attribution, or tracking SDK. The developer does not build a cross-app or cross-site profile.",
+          "heading": "Advertising, analytics, and tracking",
+          "topic": "third"
+        },
+        {
+          "body": "Because {app} does not collect personal data, it does not collect a child's personal data. It does not ask the developer for a child's name, birth date, contact details, photos, or health information.",
+          "heading": "Children's privacy",
+          "topic": "child"
+        },
+        {
+          "body": "If the app changes in a way that affects this policy, this page and its last-updated date will be revised.",
+          "heading": "Changes to this policy",
+          "topic": "change"
+        },
+        {
+          "body": "For privacy questions, email {email}.",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Privacy Policy",
+      "translation_note": "",
+      "updated_label": "Last updated"
+    },
+    "es-ES": {
+      "description": "En resumen: no hace falta cuenta, no se recopilan datos personales, no hay publicidad de terceros ni analítica de terceros.",
+      "eyebrow": "Política de privacidad",
+      "lead": "Esta página explica qué datos trata {app}, dónde se guardan y qué puedes controlar tú.",
+      "sections": [
+        {
+          "body": "No recopilamos, almacenamos ni enviamos datos personales a nuestros servidores. {app} no tiene cuentas de usuario ni inicio de sesión.",
+          "heading": "Qué datos recopilamos",
+          "topic": "collect"
+        },
+        {
+          "body": "Las fotos que seleccionas se procesan únicamente en tu dispositivo. No subimos ninguna foto a servidores ni guardamos copias; tú decides si guardas o compartes el resultado.",
+          "heading": "Fotos y cámara",
+          "topic": "photos"
+        },
+        {
+          "body": "Las funciones principales no necesitan conexión. Solo algunas funciones opcionales —por ejemplo, comprobar si hay contenidos o plantillas nuevas— hacen una petición de red, y en ella no viajan datos personales.",
+          "heading": "Conexiones de red opcionales",
+          "topic": "network"
+        },
+        {
+          "body": "No. {app} no tiene suscripción. El contenido de pago es una compra única, sin cargos recurrentes.",
+          "heading": "Compras",
+          "topic": "purchase"
+        },
+        {
+          "body": "La app no incluye publicidad de terceros ni SDK de analítica o rastreo de terceros. No creamos ningún perfil tuyo entre apps o sitios web.",
+          "heading": "Terceros",
+          "topic": "third"
+        },
+        {
+          "body": "Como la app no recopila datos personales de nadie, tampoco los recopila de menores. No pedimos el nombre, la fecha de nacimiento, los contactos, las fotos ni datos de salud de ningún menor.",
+          "heading": "Privacidad de los menores",
+          "topic": "child"
+        },
+        {
+          "body": "Si las funciones de la app cambian de forma que afecte a esta política, actualizaremos esta página y la fecha que aparece arriba.",
+          "heading": "Cambios en esta política",
+          "topic": "change"
+        },
+        {
+          "body": "Para cuestiones de privacidad, escribe a {email} .",
+          "heading": "Contacto",
+          "topic": "contact"
+        }
+      ],
+      "title": "Política de privacidad de {app}",
+      "translation_note": "",
+      "updated_label": "Última actualización"
+    },
+    "es-MX": {
+      "description": "En resumen: sin cuenta, sin recolección de datos personales, sin publicidad de terceros y sin analítica de terceros.",
+      "eyebrow": "Aviso de privacidad",
+      "lead": "En esta página te explicamos qué datos maneja {app}, dónde se quedan y qué puedes decidir tú.",
+      "sections": [
+        {
+          "body": "No recopilamos, no guardamos ni enviamos ningún dato personal a nuestros servidores. {app} no tiene cuentas de usuario ni inicio de sesión.",
+          "heading": "Qué información recopilamos",
+          "topic": "collect"
+        },
+        {
+          "body": "Las fotos que elijas se procesan solo en tu dispositivo. No las subimos a ningún servidor ni guardamos copias; tú decides si guardas o compartes el resultado.",
+          "heading": "Fotos y cámara",
+          "topic": "photos"
+        },
+        {
+          "body": "Las funciones principales no necesitan conexión. Solo algunas funciones opcionales — como buscar contenido o plantillas nuevas — hacen una petición de red, y en ella no viajan datos personales.",
+          "heading": "Conexiones de red opcionales",
+          "topic": "network"
+        },
+        {
+          "body": "No. {app} no tiene suscripciones. La parte de pago es una compra única que no se renueva.",
+          "heading": "Compras",
+          "topic": "purchase"
+        },
+        {
+          "body": "La app no incluye publicidad de terceros ni SDK de analítica o de rastreo. No construimos un perfil tuyo entre apps ni entre sitios web.",
+          "heading": "Terceros",
+          "topic": "third"
+        },
+        {
+          "body": "Como no recopilamos datos personales de nadie, tampoco los recopilamos de los niños. No pedimos nombre, fecha de nacimiento, datos de contacto, fotos ni datos de salud de un menor.",
+          "heading": "Privacidad de los menores",
+          "topic": "child"
+        },
+        {
+          "body": "Si alguna función de la app cambia de forma que afecte este aviso, actualizaremos esta página y la fecha de actualización de arriba.",
+          "heading": "Cambios a este aviso",
+          "topic": "change"
+        },
+        {
+          "body": "Para cualquier duda de privacidad escribe a {email} .",
+          "heading": "Contacto",
+          "topic": "contact"
+        }
+      ],
+      "title": "Aviso de privacidad de {app}",
+      "translation_note": "",
+      "updated_label": "Última actualización"
+    },
+    "fi": {
+      "description": "Lyhyesti: ei tiliä, ei henkilötietojen keräämistä, ei kolmansien osapuolten mainoksia eikä analytiikkaa.",
+      "eyebrow": "Tietosuojakäytäntö",
+      "lead": "Tällä sivulla kerrotaan, mitä tietoja {app} käsittelee, minne ne jäävät ja mistä voit itse päättää.",
+      "sections": [
+        {
+          "body": "Emme kerää, säilytä emmekä lähetä palvelimillemme mitään henkilötietoja. Sovelluksessa {app} ei ole käyttäjätilejä eikä kirjautumista.",
+          "heading": "Mitä tietoja keräämme",
+          "topic": "collect"
+        },
+        {
+          "body": "Valitsemasi kuvat käsitellään vain laitteessasi. Emme lähetä niitä millekään palvelimelle emmekä säilytä kopioita; sinä päätät, tallennatko vai jaatko lopputuloksen.",
+          "heading": "Kuvat ja kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Ydintoiminnot eivät vaadi yhteyttä. Vain yksittäiset valinnaiset toiminnot — esimerkiksi uuden sisällön tai mallipohjien tarkistus — tekevät verkkopyynnön, eikä mukana lähde henkilötietoja.",
+          "heading": "Valinnaiset verkkoyhteydet",
+          "topic": "network"
+        },
+        {
+          "body": "Ei. Sovelluksessa {app} ei ole tilauksia. Maksullinen osa on kertaosto, joka ei uusiudu.",
+          "heading": "Ostot",
+          "topic": "purchase"
+        },
+        {
+          "body": "Sovelluksessa ei ole kolmansien osapuolten mainoksia eikä analytiikka- tai seuranta-SDK:ita. Emme muodosta sinusta profiilia sovellusten tai verkkosivustojen välillä.",
+          "heading": "Kolmannet osapuolet",
+          "topic": "third"
+        },
+        {
+          "body": "Koska emme kerää kenenkään henkilötietoja, emme kerää niitä myöskään lapsilta. Emme kysy lapsen nimeä, syntymäaikaa, yhteystietoja, valokuvia emmekä terveystietoja.",
+          "heading": "Lasten tietosuoja",
+          "topic": "child"
+        },
+        {
+          "body": "Jos sovelluksen ominaisuus muuttuu tavalla, joka vaikuttaa tähän käytäntöön, päivitämme tämän sivun ja ylhäällä näkyvän päivämäärän.",
+          "heading": "Tämän käytännön muutokset",
+          "topic": "change"
+        },
+        {
+          "body": "Tietosuojaa koskevat kysymykset voi lähettää osoitteeseen {email} .",
+          "heading": "Yhteystiedot",
+          "topic": "contact"
+        }
+      ],
+      "title": "Sovelluksen {app} tietosuojakäytäntö",
+      "translation_note": "",
+      "updated_label": "Viimeksi päivitetty"
+    },
+    "fr-CA": {
+      "description": "En bref : aucun compte, aucune collecte de données personnelles, aucune publicité tierce, aucun outil d'analyse tiers.",
+      "eyebrow": "Politique de confidentialité",
+      "lead": "Cette page explique quelles données {app} traite, où elles restent et ce que vous pouvez décider.",
+      "sections": [
+        {
+          "body": "Nous ne recueillons, ne conservons ni ne transmettons aucune donnée personnelle vers nos serveurs. {app} n'a ni compte utilisateur ni mécanisme de connexion.",
+          "heading": "Les renseignements que nous recueillons",
+          "topic": "collect"
+        },
+        {
+          "body": "Les photos que vous choisissez sont traitées uniquement sur votre appareil. Nous ne les téléversons vers aucun serveur et n'en conservons aucune copie ; c'est vous qui décidez d'enregistrer ou de partager le résultat.",
+          "heading": "Photos et appareil photo",
+          "topic": "photos"
+        },
+        {
+          "body": "Les fonctions principales n'exigent aucune connexion. Seules quelques fonctions facultatives — par exemple la vérification de nouveaux contenus ou modèles — font une requête réseau, sans transmettre de données personnelles.",
+          "heading": "Connexions réseau facultatives",
+          "topic": "network"
+        },
+        {
+          "body": "Non. {app} n'a aucun abonnement. La partie payante est un achat unique qui ne se renouvelle pas.",
+          "heading": "Achats",
+          "topic": "purchase"
+        },
+        {
+          "body": "L'app ne contient aucune publicité tierce ni trousse d'analyse ou de suivi. Nous ne bâtissons aucun profil vous concernant d'une app ou d'un site à l'autre.",
+          "heading": "Tiers",
+          "topic": "third"
+        },
+        {
+          "body": "Comme nous ne recueillons les données personnelles de personne, nous n'en recueillons pas non plus des enfants. Nous ne demandons ni le nom, ni la date de naissance, ni les coordonnées, ni les photos, ni les données de santé d'un enfant.",
+          "heading": "Vie privée des enfants",
+          "topic": "child"
+        },
+        {
+          "body": "Si une fonction de l'app change d'une manière qui touche cette politique, nous mettons cette page à jour ainsi que la date affichée en haut.",
+          "heading": "Modifications de cette politique",
+          "topic": "change"
+        },
+        {
+          "body": "Pour toute question de confidentialité, écrivez à {email} .",
+          "heading": "Nous joindre",
+          "topic": "contact"
+        }
+      ],
+      "title": "Politique de confidentialité de {app}",
+      "translation_note": "",
+      "updated_label": "Dernière mise à jour"
+    },
+    "fr-FR": {
+      "description": "En résumé : aucun compte requis, aucune donnée personnelle collectée, aucune publicité tierce, aucun outil d'analyse tiers.",
+      "eyebrow": "Politique de confidentialité",
+      "lead": "Cette page explique quelles données {app} traite, où elles sont conservées et ce que vous pouvez contrôler.",
+      "sections": [
+        {
+          "body": "Nous ne collectons, ne stockons ni ne transmettons de données personnelles vers nos serveurs. {app} n'a ni compte utilisateur ni connexion.",
+          "heading": "Les données que nous collectons",
+          "topic": "collect"
+        },
+        {
+          "body": "Les photos que vous sélectionnez sont traitées uniquement sur votre appareil. Nous n'envoyons aucune photo vers un serveur et n'en conservons aucune copie ; c'est vous qui décidez d'enregistrer ou de partager le résultat.",
+          "heading": "Photos et appareil photo",
+          "topic": "photos"
+        },
+        {
+          "body": "Les fonctions principales ne nécessitent aucune connexion. Seules quelques fonctions facultatives — par exemple la vérification de nouveaux contenus ou modèles — émettent une requête réseau, sans transmettre de données personnelles.",
+          "heading": "Connexions réseau facultatives",
+          "topic": "network"
+        },
+        {
+          "body": "Non. {app} ne propose pas d'abonnement. Le contenu payant s'obtient par un achat unique, sans prélèvement récurrent.",
+          "heading": "Achats",
+          "topic": "purchase"
+        },
+        {
+          "body": "L'app ne contient aucune publicité tierce, ni SDK d'analyse ou de suivi tiers. Nous ne constituons aucun profil vous concernant entre apps ou sites web.",
+          "heading": "Tiers",
+          "topic": "third"
+        },
+        {
+          "body": "Comme l'app ne collecte les données personnelles de personne, elle n'en collecte pas non plus auprès des enfants. Nous ne demandons ni nom, ni date de naissance, ni contacts, ni photos, ni données de santé d'un enfant.",
+          "heading": "Confidentialité des enfants",
+          "topic": "child"
+        },
+        {
+          "body": "Si les fonctionnalités de l'app évoluent et affectent cette politique, nous mettrons cette page à jour et modifierons la date ci-dessus.",
+          "heading": "Modifications de cette politique",
+          "topic": "change"
+        },
+        {
+          "body": "Pour toute question de confidentialité, écrivez à {email} .",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "Politique de confidentialité de {app}",
+      "translation_note": "",
+      "updated_label": "Dernière mise à jour"
+    },
+    "gu-IN": {
+      "description": "ટૂંકમાં: ખાતું નહીં, અંગત માહિતીનો સંગ્રહ નહીં, ત્રીજા પક્ષની જાહેરાત નહીં, ત્રીજા પક્ષનું એનાલિટિક્સ નહીં.",
+      "eyebrow": "ગોપનીયતા નીતિ",
+      "lead": "આ પાનું જણાવે છે કે {app} કઈ માહિતી વાપરે છે, તે ક્યાં રહે છે અને શેનો નિર્ણય તમે લો છો.",
+      "sections": [
+        {
+          "body": "અમે અમારા સર્વર પર કોઈ પણ અંગત માહિતી એકઠી, સંગ્રહિત કે પ્રસારિત કરતા નથી. {app} માં વપરાશકર્તા ખાતું કે સાઇન-ઇનની વ્યવસ્થા જ નથી.",
+          "heading": "અમે કઈ માહિતી એકઠી કરીએ છીએ",
+          "topic": "collect"
+        },
+        {
+          "body": "તમે પસંદ કરેલા ફોટા પરની પ્રક્રિયા ફક્ત તમારા ઉપકરણ પર થાય છે. અમે તેમને કોઈ સર્વર પર ચઢાવતા નથી અને નકલ રાખતા નથી; પરિણામ સાચવવું કે વહેંચવું તે તમારો નિર્ણય છે.",
+          "heading": "ફોટા અને કૅમેરા",
+          "topic": "photos"
+        },
+        {
+          "body": "મુખ્ય કામ માટે જોડાણ જરૂરી નથી. ફક્ત થોડી વૈકલ્પિક સુવિધાઓ — જેમ કે નવી સામગ્રી કે ટેમ્પ્લેટ છે કે નહીં તે તપાસવું — નેટવર્ક વિનંતી મોકલે છે, અને તેની સાથે કોઈ અંગત માહિતી જતી નથી.",
+          "heading": "વૈકલ્પિક નેટવર્ક જોડાણ",
+          "topic": "network"
+        },
+        {
+          "body": "ના. {app} માં કોઈ સબ્સ્ક્રિપ્શન નથી. જે ભાગ ચૂકવણીવાળો છે તે એક વખતની ખરીદી છે, જે આપોઆપ રિન્યુ થતી નથી.",
+          "heading": "ખરીદી",
+          "topic": "purchase"
+        },
+        {
+          "body": "ઍપમાં ત્રીજા પક્ષની જાહેરાત, એનાલિટિક્સ કે ટ્રૅકિંગ SDK નથી. જુદી જુદી ઍપ કે વેબસાઇટ વચ્ચે અમે તમારી કોઈ પ્રોફાઇલ બનાવતા નથી.",
+          "heading": "ત્રીજા પક્ષ",
+          "topic": "third"
+        },
+        {
+          "body": "અમે કોઈની પણ અંગત માહિતી એકઠી કરતા ન હોવાથી બાળકોની પણ કરતા નથી. અમે બાળકનું નામ, જન્મતારીખ, સંપર્ક વિગત, તસવીરો કે આરોગ્ય માહિતી માગતા નથી.",
+          "heading": "બાળકોની ગોપનીયતા",
+          "topic": "child"
+        },
+        {
+          "body": "ઍપની કોઈ સુવિધા આ નીતિને સ્પર્શે એ રીતે બદલાય તો અમે આ પાનું અને ઉપરની તારીખ અપડેટ કરીશું.",
+          "heading": "આ નીતિમાં ફેરફાર",
+          "topic": "change"
+        },
+        {
+          "body": "ગોપનીયતા વિશેના પ્રશ્નો માટે {email} પર લખો.",
+          "heading": "સંપર્ક",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} ની ગોપનીયતા નીતિ",
+      "translation_note": "",
+      "updated_label": "છેલ્લે અપડેટ"
+    },
+    "he": {
+      "description": "בקצרה: בלי חשבון, בלי איסוף מידע אישי, בלי פרסומות של צד שלישי ובלי אנליטיקה של צד שלישי.",
+      "eyebrow": "מדיניות פרטיות",
+      "lead": "הדף הזה מסביר אילו נתונים {app} מעבד, היכן הם נשארים ומה נתון להחלטתך.",
+      "sections": [
+        {
+          "body": "איננו אוספים, שומרים או שולחים לשרתים שלנו שום מידע אישי. ב-{app} אין חשבונות משתמש ואין התחברות.",
+          "heading": "איזה מידע אנחנו אוספים",
+          "topic": "collect"
+        },
+        {
+          "body": "התמונות שתבחרו מעובדות רק במכשיר שלכם. איננו מעלים אותן לשום שרת ואיננו שומרים עותקים; אתם מחליטים אם לשמור את התוצאה או לשתף אותה.",
+          "heading": "תמונות ומצלמה",
+          "topic": "photos"
+        },
+        {
+          "body": "הפעולות המרכזיות אינן דורשות חיבור. רק פעולות אופציונליות בודדות — למשל בדיקה אם יש תוכן או תבניות חדשות — מבצעות בקשת רשת, ובלי לשלוח מידע אישי.",
+          "heading": "חיבורי רשת אופציונליים",
+          "topic": "network"
+        },
+        {
+          "body": "לא. ל-{app} אין מנויים. החלק בתשלום הוא רכישה חד-פעמית שאינה מתחדשת.",
+          "heading": "רכישות",
+          "topic": "purchase"
+        },
+        {
+          "body": "באפליקציה אין פרסומות של צד שלישי ואין ערכות אנליטיקה או מעקב. איננו בונים עליכם פרופיל בין אפליקציות או אתרים.",
+          "heading": "צדדים שלישיים",
+          "topic": "third"
+        },
+        {
+          "body": "מכיוון שאיננו אוספים מידע אישי על אף אחד, איננו אוספים אותו גם על ילדים. איננו מבקשים שם של ילד, תאריך לידה, פרטי קשר, תמונות או מידע רפואי.",
+          "heading": "פרטיות ילדים",
+          "topic": "child"
+        },
+        {
+          "body": "אם תכונה באפליקציה תשתנה באופן שנוגע למדיניות הזו, נעדכן את הדף הזה ואת תאריך העדכון שלמעלה.",
+          "heading": "שינויים במדיניות הזו",
+          "topic": "change"
+        },
+        {
+          "body": "בשאלות בנושא פרטיות אפשר לכתוב אל {email} .",
+          "heading": "יצירת קשר",
+          "topic": "contact"
+        }
+      ],
+      "title": "מדיניות הפרטיות של {app}",
+      "translation_note": "",
+      "updated_label": "עודכן לאחרונה"
+    },
+    "hi": {
+      "description": "संक्षेप में: कोई अकाउंट नहीं, कोई व्यक्तिगत डेटा संग्रह नहीं, तीसरे पक्ष के विज्ञापन नहीं, तीसरे पक्ष का एनालिटिक्स नहीं।",
+      "eyebrow": "निजता नीति",
+      "lead": "यह पेज बताता है कि {app} किस तरह का डेटा इस्तेमाल करता है, वह कहाँ रहता है, और किन बातों का फ़ैसला आप करते हैं।",
+      "sections": [
+        {
+          "body": "हम अपने सर्वर पर कोई भी व्यक्तिगत डेटा एकत्र, संग्रहीत या प्रेषित नहीं करते। {app} में उपयोगकर्ता अकाउंट या साइन-इन की कोई व्यवस्था नहीं है।",
+          "heading": "हम कौन-सी जानकारी एकत्र करते हैं",
+          "topic": "collect"
+        },
+        {
+          "body": "आप जो फ़ोटो चुनते हैं उनका प्रोसेस केवल आपके डिवाइस पर होता है। हम उन्हें किसी सर्वर पर अपलोड नहीं करते और न कोई प्रति रखते हैं; नतीजा सहेजना या साझा करना आपका फ़ैसला है।",
+          "heading": "फ़ोटो और कैमरा",
+          "topic": "photos"
+        },
+        {
+          "body": "मुख्य सुविधाओं के लिए कनेक्शन की ज़रूरत नहीं। केवल कुछ वैकल्पिक सुविधाएँ — जैसे नई सामग्री या टेम्पलेट की जाँच — नेटवर्क अनुरोध भेजती हैं, और उसके साथ कोई व्यक्तिगत डेटा नहीं जाता।",
+          "heading": "वैकल्पिक नेटवर्क कनेक्शन",
+          "topic": "network"
+        },
+        {
+          "body": "नहीं। {app} में कोई सब्सक्रिप्शन नहीं है। जो हिस्सा सशुल्क है वह एक बार की ख़रीद है, जो अपने आप नवीनीकृत नहीं होती।",
+          "heading": "ख़रीदारी",
+          "topic": "purchase"
+        },
+        {
+          "body": "ऐप में तीसरे पक्ष के विज्ञापन, एनालिटिक्स या ट्रैकिंग SDK नहीं हैं। हम अलग-अलग ऐप्स या वेबसाइटों के बीच आपकी कोई प्रोफ़ाइल नहीं बनाते।",
+          "heading": "तीसरे पक्ष",
+          "topic": "third"
+        },
+        {
+          "body": "चूँकि हम किसी का भी व्यक्तिगत डेटा एकत्र नहीं करते, इसलिए बच्चों का भी नहीं करते। हम किसी बच्चे का नाम, जन्मतिथि, संपर्क विवरण, तस्वीरें या स्वास्थ्य जानकारी नहीं माँगते।",
+          "heading": "बच्चों की निजता",
+          "topic": "child"
+        },
+        {
+          "body": "अगर ऐप की कोई सुविधा इस तरह बदलती है कि उसका असर इस नीति पर पड़े, तो हम यह पेज और ऊपर दी गई तारीख़ अपडेट कर देंगे।",
+          "heading": "इस नीति में बदलाव",
+          "topic": "change"
+        },
+        {
+          "body": "निजता से जुड़े सवालों के लिए {email} पर लिखें।",
+          "heading": "संपर्क",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} की निजता नीति",
+      "translation_note": "",
+      "updated_label": "अंतिम अपडेट"
+    },
+    "hr": {
+      "description": "Ukratko: bez računa, bez prikupljanja osobnih podataka, bez oglasa trećih strana, bez tuđe analitike.",
+      "eyebrow": "Pravila privatnosti",
+      "lead": "Ova stranica objašnjava koje podatke {app} obrađuje, gdje oni ostaju i o čemu odlučujete vi.",
+      "sections": [
+        {
+          "body": "Ne prikupljamo, ne pohranjujemo i ne šaljemo na svoje poslužitelje nikakve osobne podatke. {app} nema korisničke račune ni prijavu.",
+          "heading": "Koje podatke prikupljamo",
+          "topic": "collect"
+        },
+        {
+          "body": "Fotografije koje odaberete obrađuju se samo na vašem uređaju. Ne šaljemo ih ni na jedan poslužitelj i ne zadržavamo kopije; vi odlučujete hoćete li rezultat spremiti ili podijeliti.",
+          "heading": "Fotografije i kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Glavne značajke ne trebaju vezu. Mrežni zahtjev šalju samo pojedine neobavezne značajke — primjerice provjera novog sadržaja ili predložaka — i pritom se ne šalju osobni podaci.",
+          "heading": "Neobavezne mrežne veze",
+          "topic": "network"
+        },
+        {
+          "body": "Nije. {app} nema pretplatu. Ono što se plaća jednokratna je kupnja koja se ne obnavlja.",
+          "heading": "Kupnje",
+          "topic": "purchase"
+        },
+        {
+          "body": "Aplikacija ne sadrži oglase trećih strana ni analitičke ili prateće SDK-ove. Ne gradimo vaš profil kroz različite aplikacije ni web-stranice.",
+          "heading": "Treće strane",
+          "topic": "third"
+        },
+        {
+          "body": "Budući da ni od koga ne prikupljamo osobne podatke, ne prikupljamo ih ni od djece. Ne tražimo djetetovo ime, datum rođenja, kontakte, fotografije ni zdravstvene podatke.",
+          "heading": "Privatnost djece",
+          "topic": "child"
+        },
+        {
+          "body": "Ako se značajka aplikacije promijeni na način bitan za ova pravila, ažurirat ćemo ovu stranicu i datum na vrhu.",
+          "heading": "Izmjene ovih pravila",
+          "topic": "change"
+        },
+        {
+          "body": "Pitanja o privatnosti šaljite na {email} .",
+          "heading": "Kontakt",
+          "topic": "contact"
+        }
+      ],
+      "title": "Pravila privatnosti aplikacije {app}",
+      "translation_note": "",
+      "updated_label": "Zadnje ažuriranje"
+    },
+    "hu": {
+      "description": "Röviden: nincs fiók, nincs személyesadat-gyűjtés, nincs külső hirdetés és nincs külső analitika.",
+      "eyebrow": "Adatvédelmi tájékoztató",
+      "lead": "Ez az oldal elmondja, milyen adatokat kezel a(z) {app}, hol maradnak ezek, és miről döntesz te.",
+      "sections": [
+        {
+          "body": "Semmilyen személyes adatot nem gyűjtünk, nem tárolunk és nem küldünk a szervereinkre. A(z) {app} alkalmazásban nincs felhasználói fiók és nincs bejelentkezés.",
+          "heading": "Milyen adatokat gyűjtünk",
+          "topic": "collect"
+        },
+        {
+          "body": "Az általad kiválasztott fotókat kizárólag a készülékeden dolgozzuk fel. Nem töltjük fel őket semmilyen szerverre és nem tartunk meg másolatot; te döntöd el, hogy elmented vagy megosztod-e az eredményt.",
+          "heading": "Fotók és kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Az alapfunkciók nem igényelnek kapcsolatot. Csak néhány választható funkció — például az új tartalmak vagy sablonok keresése — indít hálózati kérést, és ezzel nem küldünk személyes adatot.",
+          "heading": "Választható hálózati kapcsolatok",
+          "topic": "network"
+        },
+        {
+          "body": "Nem. A(z) {app} alkalmazásban nincs előfizetés. A fizetős rész egyszeri vásárlás, amely nem újul meg.",
+          "heading": "Vásárlások",
+          "topic": "purchase"
+        },
+        {
+          "body": "Az alkalmazás nem tartalmaz külső hirdetést, sem analitikai vagy követő SDK-t. Nem építünk rólad profilt alkalmazások vagy webhelyek között.",
+          "heading": "Harmadik felek",
+          "topic": "third"
+        },
+        {
+          "body": "Mivel senkiről nem gyűjtünk személyes adatot, gyermekekről sem gyűjtünk. Nem kérjük el gyermek nevét, születési dátumát, elérhetőségét, fényképét vagy egészségügyi adatait.",
+          "heading": "Gyermekek adatvédelme",
+          "topic": "child"
+        },
+        {
+          "body": "Ha az alkalmazás valamelyik funkciója úgy változik, hogy az érinti ezt a tájékoztatót, frissítjük ezt az oldalt és a fenti dátumot.",
+          "heading": "A tájékoztató változásai",
+          "topic": "change"
+        },
+        {
+          "body": "Adatvédelmi kérdésekkel írj a {email} címre.",
+          "heading": "Kapcsolat",
+          "topic": "contact"
+        }
+      ],
+      "title": "A(z) {app} adatvédelmi tájékoztatója",
+      "translation_note": "",
+      "updated_label": "Utolsó frissítés"
+    },
+    "id": {
+      "description": "Singkatnya: tanpa akun, tanpa pengumpulan data pribadi, tanpa iklan pihak ketiga, tanpa analitik pihak ketiga.",
+      "eyebrow": "Kebijakan privasi",
+      "lead": "Halaman ini menjelaskan data apa yang diproses {app}, di mana data itu tersimpan, dan apa yang Anda kendalikan.",
+      "sections": [
+        {
+          "body": "Kami tidak mengumpulkan, menyimpan, atau mengirim data pribadi apa pun ke server kami. {app} tidak punya akun pengguna maupun sistem masuk.",
+          "heading": "Informasi apa yang kami kumpulkan",
+          "topic": "collect"
+        },
+        {
+          "body": "Foto yang Anda pilih diproses hanya di perangkat Anda. Kami tidak mengunggahnya ke server mana pun dan tidak menyimpan salinan; Anda sendiri yang memutuskan apakah hasilnya disimpan atau dibagikan.",
+          "heading": "Foto dan kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Fungsi utamanya tidak butuh koneksi. Hanya beberapa fungsi opsional — misalnya memeriksa konten atau templat baru — yang mengirim permintaan jaringan, dan tidak ada data pribadi yang ikut terkirim.",
+          "heading": "Koneksi jaringan opsional",
+          "topic": "network"
+        },
+        {
+          "body": "Bukan. {app} tidak punya langganan. Bagian berbayarnya adalah pembelian sekali bayar yang tidak diperpanjang otomatis.",
+          "heading": "Pembelian",
+          "topic": "purchase"
+        },
+        {
+          "body": "Aplikasi ini tidak memuat iklan pihak ketiga maupun SDK analitik atau pelacakan. Kami tidak membangun profil Anda lintas aplikasi atau situs.",
+          "heading": "Pihak ketiga",
+          "topic": "third"
+        },
+        {
+          "body": "Karena kami tidak mengumpulkan data pribadi siapa pun, kami juga tidak mengumpulkannya dari anak-anak. Kami tidak menanyakan nama, tanggal lahir, kontak, foto, atau data kesehatan anak.",
+          "heading": "Privasi anak",
+          "topic": "child"
+        },
+        {
+          "body": "Kalau ada fitur aplikasi yang berubah dan memengaruhi kebijakan ini, kami akan memperbarui halaman ini beserta tanggal di bagian atas.",
+          "heading": "Perubahan kebijakan ini",
+          "topic": "change"
+        },
+        {
+          "body": "Untuk pertanyaan soal privasi, kirim email ke {email} .",
+          "heading": "Hubungi kami",
+          "topic": "contact"
+        }
+      ],
+      "title": "Kebijakan privasi {app}",
+      "translation_note": "",
+      "updated_label": "Terakhir diperbarui"
+    },
+    "it": {
+      "description": "In breve: nessun account, nessun dato personale raccolto, nessuna pubblicità di terze parti, nessun analytics di terze parti.",
+      "eyebrow": "Informativa sulla privacy",
+      "lead": "Questa pagina spiega quali dati tratta {app}, dove restano e che cosa puoi decidere tu.",
+      "sections": [
+        {
+          "body": "Non raccogliamo, non conserviamo e non trasmettiamo ai nostri server alcun dato personale. {app} non ha account utente né sistemi di accesso.",
+          "heading": "Quali informazioni raccogliamo",
+          "topic": "collect"
+        },
+        {
+          "body": "Le foto che scegli vengono elaborate solo sul tuo dispositivo. Non le carichiamo su alcun server e non ne conserviamo copie; sei tu a decidere se salvare o condividere il risultato.",
+          "heading": "Foto e fotocamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Le funzioni principali non richiedono connessione. Solo alcune funzioni facoltative — per esempio la verifica di nuovi contenuti o modelli — effettuano una richiesta di rete, senza inviare dati personali.",
+          "heading": "Connessioni di rete facoltative",
+          "topic": "network"
+        },
+        {
+          "body": "No. {app} non ha abbonamenti. Le parti a pagamento sono un acquisto singolo e non si rinnovano.",
+          "heading": "Acquisti",
+          "topic": "purchase"
+        },
+        {
+          "body": "L'app non contiene pubblicità di terze parti né SDK di analytics o di tracciamento. Non costruiamo profili su di te tra app o siti diversi.",
+          "heading": "Terze parti",
+          "topic": "third"
+        },
+        {
+          "body": "Poiché non raccogliamo dati personali di nessuno, non raccogliamo nemmeno quelli dei bambini. Non chiediamo nome, data di nascita, contatti, foto o dati sanitari di un minore.",
+          "heading": "Privacy dei minori",
+          "topic": "child"
+        },
+        {
+          "body": "Se una funzione dell'app cambia in modo rilevante per questa informativa, aggiorniamo questa pagina e la data di ultimo aggiornamento in alto.",
+          "heading": "Modifiche a questa informativa",
+          "topic": "change"
+        },
+        {
+          "body": "Per qualsiasi domanda sulla privacy scrivi a {email} .",
+          "heading": "Contatti",
+          "topic": "contact"
+        }
+      ],
+      "title": "Informativa sulla privacy di {app}",
+      "translation_note": "",
+      "updated_label": "Ultimo aggiornamento"
+    },
+    "ja": {
+      "description": "要点:アカウント不要、個人データの収集なし、第三者広告なし、第三者アナリティクスなし。",
+      "eyebrow": "プライバシーポリシー",
+      "lead": "このページでは、{app} が扱うデータ、その保存場所、そしてお客様が管理できる範囲について説明します。",
+      "sections": [
+        {
+          "body": "当方のサーバーでお客様の個人データを収集、保存、送信することはありません。{app} にユーザーアカウントやサインインの仕組みはありません。",
+          "heading": "収集する情報",
+          "topic": "collect"
+        },
+        {
+          "body": "選択した写真は端末内でのみ処理されます。当方が写真をサーバーへ送信したり、複製を保持したりすることはありません。結果を保存・共有するかどうかはお客様が決められます。",
+          "heading": "写真とカメラ",
+          "topic": "photos"
+        },
+        {
+          "body": "主要な機能に通信は不要です。新しいコンテンツやテンプレートの有無を確認するといった一部の任意機能でのみ通信が発生し、その際に個人データが送られることはありません。",
+          "heading": "任意の通信",
+          "topic": "network"
+        },
+        {
+          "body": "いいえ。{app} にサブスクリプションはありません。有料要素は買い切りで、継続課金は発生しません。",
+          "heading": "購入について",
+          "topic": "purchase"
+        },
+        {
+          "body": "本アプリには第三者の広告、第三者のアナリティクスやトラッキング SDK は含まれていません。アプリやウェブサイトをまたいでお客様のプロファイルを作成することもありません。",
+          "heading": "第三者について",
+          "topic": "third"
+        },
+        {
+          "body": "本アプリは誰の個人データも収集しないため、お子さまの情報も収集しません。お子さまの氏名、生年月日、連絡先、写真、健康情報をお尋ねすることはありません。",
+          "heading": "お子さまのプライバシー",
+          "topic": "child"
+        },
+        {
+          "body": "アプリの機能が変わり本ポリシーに影響する場合は、このページを更新し、上部の最終更新日を改めます。",
+          "heading": "ポリシーの変更",
+          "topic": "change"
+        },
+        {
+          "body": "プライバシーに関するお問い合わせは {email} までお願いします。",
+          "heading": "お問い合わせ",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} プライバシーポリシー",
+      "translation_note": "",
+      "updated_label": "最終更新"
+    },
+    "kn-IN": {
+      "description": "ಸಂಕ್ಷಿಪ್ತವಾಗಿ: ಖಾತೆ ಇಲ್ಲ, ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ ಸಂಗ್ರಹ ಇಲ್ಲ, ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಜಾಹೀರಾತು ಇಲ್ಲ, ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಅನಲಿಟಿಕ್ಸ್ ಇಲ್ಲ.",
+      "eyebrow": "ಗೌಪ್ಯತಾ ನೀತಿ",
+      "lead": "{app} ಯಾವ ಮಾಹಿತಿಯನ್ನು ಬಳಸುತ್ತದೆ, ಅದು ಎಲ್ಲಿ ಉಳಿಯುತ್ತದೆ ಮತ್ತು ಯಾವುದನ್ನು ನೀವು ನಿರ್ಧರಿಸುತ್ತೀರಿ ಎಂಬುದನ್ನು ಈ ಪುಟ ವಿವರಿಸುತ್ತದೆ.",
+      "sections": [
+        {
+          "body": "ನಮ್ಮ ಸರ್ವರ್‌ಗಳಿಗೆ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ನಾವು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ, ಸಂಗ್ರಹಿಸಿಡುವುದಿಲ್ಲ, ಕಳುಹಿಸುವುದಿಲ್ಲ. {app} ನಲ್ಲಿ ಬಳಕೆದಾರ ಖಾತೆ ಅಥವಾ ಸೈನ್-ಇನ್ ವ್ಯವಸ್ಥೆಯೇ ಇಲ್ಲ.",
+          "heading": "ನಾವು ಯಾವ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸುತ್ತೇವೆ",
+          "topic": "collect"
+        },
+        {
+          "body": "ನೀವು ಆಯ್ಕೆ ಮಾಡಿದ ಚಿತ್ರಗಳ ಸಂಸ್ಕರಣೆ ನಿಮ್ಮ ಸಾಧನದಲ್ಲೇ ನಡೆಯುತ್ತದೆ. ಅವನ್ನು ಯಾವ ಸರ್ವರ್‌ಗೂ ಅಪ್‌ಲೋಡ್ ಮಾಡುವುದಿಲ್ಲ, ಪ್ರತಿಗಳನ್ನೂ ಇಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ; ಫಲಿತಾಂಶವನ್ನು ಉಳಿಸುವುದೋ ಹಂಚುವುದೋ ನಿಮ್ಮ ನಿರ್ಧಾರ.",
+          "heading": "ಚಿತ್ರಗಳು ಮತ್ತು ಕ್ಯಾಮೆರಾ",
+          "topic": "photos"
+        },
+        {
+          "body": "ಮುಖ್ಯ ಕೆಲಸಗಳಿಗೆ ಸಂಪರ್ಕ ಬೇಕಿಲ್ಲ. ಹೊಸ ವಿಷಯ ಅಥವಾ ಟೆಂಪ್ಲೇಟ್ ಇದೆಯೇ ಎಂದು ನೋಡುವಂತಹ ಕೆಲವು ಐಚ್ಛಿಕ ಸೌಲಭ್ಯಗಳು ಮಾತ್ರ ನೆಟ್‌ವರ್ಕ್ ವಿನಂತಿ ಕಳುಹಿಸುತ್ತವೆ; ಅದರೊಂದಿಗೆ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ ಹೋಗುವುದಿಲ್ಲ.",
+          "heading": "ಐಚ್ಛಿಕ ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕಗಳು",
+          "topic": "network"
+        },
+        {
+          "body": "ಅಲ್ಲ. {app} ನಲ್ಲಿ ಯಾವುದೇ ಚಂದಾದಾರಿಕೆ ಇಲ್ಲ. ಶುಲ್ಕದ ಭಾಗವು ಒಂದೇ ಬಾರಿಯ ಖರೀದಿ; ಅದು ತಾನಾಗಿಯೇ ನವೀಕರಣಗೊಳ್ಳುವುದಿಲ್ಲ.",
+          "heading": "ಖರೀದಿಗಳು",
+          "topic": "purchase"
+        },
+        {
+          "body": "ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಜಾಹೀರಾತು, ಅನಲಿಟಿಕ್ಸ್ ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ SDK ಇಲ್ಲ. ಬೇರೆ ಬೇರೆ ಅಪ್ಲಿಕೇಶನ್ ಅಥವಾ ಜಾಲತಾಣಗಳ ನಡುವೆ ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಅನ್ನು ನಾವು ರೂಪಿಸುವುದಿಲ್ಲ.",
+          "heading": "ಮೂರನೇ ವ್ಯಕ್ತಿಗಳು",
+          "topic": "third"
+        },
+        {
+          "body": "ನಾವು ಯಾರ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನೂ ಸಂಗ್ರಹಿಸದ ಕಾರಣ ಮಕ್ಕಳದ್ದನ್ನೂ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ. ಮಗುವಿನ ಹೆಸರು, ಹುಟ್ಟಿದ ದಿನಾಂಕ, ಸಂಪರ್ಕ ವಿವರ, ಚಿತ್ರಗಳು ಅಥವಾ ಆರೋಗ್ಯ ಮಾಹಿತಿಯನ್ನು ನಾವು ಕೇಳುವುದಿಲ್ಲ.",
+          "heading": "ಮಕ್ಕಳ ಗೌಪ್ಯತೆ",
+          "topic": "child"
+        },
+        {
+          "body": "ಈ ನೀತಿಯನ್ನು ತಟ್ಟುವ ರೀತಿಯಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್‌ನ ಯಾವುದೇ ಸೌಲಭ್ಯ ಬದಲಾದರೆ, ಈ ಪುಟವನ್ನೂ ಮೇಲಿನ ದಿನಾಂಕವನ್ನೂ ನವೀಕರಿಸುತ್ತೇವೆ.",
+          "heading": "ಈ ನೀತಿಯಲ್ಲಿ ಬದಲಾವಣೆಗಳು",
+          "topic": "change"
+        },
+        {
+          "body": "ಗೌಪ್ಯತೆ ಕುರಿತ ಪ್ರಶ್ನೆಗಳಿಗೆ {email} ಗೆ ಬರೆಯಿರಿ.",
+          "heading": "ಸಂಪರ್ಕ",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} ಗೌಪ್ಯತಾ ನೀತಿ",
+      "translation_note": "",
+      "updated_label": "ಕೊನೆಯ ನವೀಕರಣ"
+    },
+    "ko": {
+      "description": "요약: 계정 불필요, 개인정보 미수집, 제3자 광고 없음, 제3자 분석 없음.",
+      "eyebrow": "개인정보 처리방침",
+      "lead": "이 페이지에서는 {app}이 어떤 데이터를 다루는지, 어디에 저장되는지, 이용자가 무엇을 통제할 수 있는지 설명합니다.",
+      "sections": [
+        {
+          "body": "저희 서버에서 이용자의 개인정보를 수집하거나 저장하거나 전송하지 않습니다. {app}에는 사용자 계정이나 로그인 절차가 없습니다.",
+          "heading": "수집하는 정보",
+          "topic": "collect"
+        },
+        {
+          "body": "선택한 사진은 기기 안에서만 처리됩니다. 저희가 사진을 서버로 올리거나 사본을 보관하지 않으며, 결과를 저장하거나 공유할지는 이용자가 결정합니다.",
+          "heading": "사진과 카메라",
+          "topic": "photos"
+        },
+        {
+          "body": "핵심 기능에는 인터넷이 필요 없습니다. 새로운 콘텐츠나 템플릿이 있는지 확인하는 등 일부 선택 기능에서만 네트워크 요청이 발생하며, 그때도 개인정보는 함께 전송되지 않습니다.",
+          "heading": "선택적 네트워크 연결",
+          "topic": "network"
+        },
+        {
+          "body": "아닙니다. {app}에는 구독이 없습니다. 유료 항목은 한 번만 결제하는 방식이며 정기 결제가 발생하지 않습니다.",
+          "heading": "구매",
+          "topic": "purchase"
+        },
+        {
+          "body": "이 앱에는 제3자 광고, 제3자 분석 또는 추적 SDK가 포함되어 있지 않습니다. 앱이나 웹사이트를 넘나들며 이용자 프로필을 만들지도 않습니다.",
+          "heading": "제3자",
+          "topic": "third"
+        },
+        {
+          "body": "이 앱은 누구의 개인정보도 수집하지 않으므로 아동의 정보도 수집하지 않습니다. 아동의 이름, 생년월일, 연락처, 사진, 건강 정보를 요청하지 않습니다.",
+          "heading": "아동의 개인정보",
+          "topic": "child"
+        },
+        {
+          "body": "앱의 기능이 바뀌어 이 방침에 영향을 주는 경우 이 페이지를 업데이트하고 위의 최종 업데이트 날짜를 변경합니다.",
+          "heading": "방침 변경",
+          "topic": "change"
+        },
+        {
+          "body": "개인정보 관련 문의는 {email} 로 보내주세요.",
+          "heading": "문의처",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} 개인정보 처리방침",
+      "translation_note": "",
+      "updated_label": "최종 업데이트"
+    },
+    "ml-IN": {
+      "description": "ചുരുക്കത്തിൽ: അക്കൗണ്ട് ഇല്ല, വ്യക്തിഗത വിവരശേഖരണം ഇല്ല, മൂന്നാം കക്ഷിയുടെ പരസ്യം ഇല്ല, മൂന്നാം കക്ഷിയുടെ അനലിറ്റിക്സ് ഇല്ല.",
+      "eyebrow": "സ്വകാര്യതാ നയം",
+      "lead": "{app} ഏതു വിവരമാണ് കൈകാര്യം ചെയ്യുന്നത്, അത് എവിടെ നിൽക്കുന്നു, എന്തൊക്കെ നിങ്ങൾ തീരുമാനിക്കുന്നു എന്ന് ഈ പേജ് വിശദീകരിക്കുന്നു.",
+      "sections": [
+        {
+          "body": "ഞങ്ങളുടെ സെർവറുകളിലേക്ക് ഒരു വ്യക്തിഗത വിവരവും ഞങ്ങൾ ശേഖരിക്കുകയോ സൂക്ഷിക്കുകയോ അയക്കുകയോ ചെയ്യുന്നില്ല. {app}-ൽ ഉപയോക്തൃ അക്കൗണ്ടോ സൈൻ-ഇൻ സംവിധാനമോ ഇല്ല.",
+          "heading": "ഞങ്ങൾ ഏതു വിവരം ശേഖരിക്കുന്നു",
+          "topic": "collect"
+        },
+        {
+          "body": "നിങ്ങൾ തിരഞ്ഞെടുക്കുന്ന ഫോട്ടോകളുടെ പ്രോസസ്സിംഗ് നിങ്ങളുടെ ഉപകരണത്തിൽ മാത്രം നടക്കുന്നു. അവ ഒരു സെർവറിലേക്കും അപ്‌ലോഡ് ചെയ്യുന്നില്ല, പകർപ്പുകളും സൂക്ഷിക്കുന്നില്ല; ഫലം സൂക്ഷിക്കണോ പങ്കിടണോ എന്നത് നിങ്ങളുടെ തീരുമാനം.",
+          "heading": "ഫോട്ടോകളും ക്യാമറയും",
+          "topic": "photos"
+        },
+        {
+          "body": "പ്രധാന പ്രവർത്തനങ്ങൾക്ക് കണക്ഷൻ വേണ്ട. പുതിയ ഉള്ളടക്കമോ ടെംപ്ലേറ്റുകളോ ഉണ്ടോ എന്നു നോക്കുന്നതുപോലുള്ള ചില ഐച്ഛിക സവിശേഷതകൾ മാത്രമാണ് നെറ്റ്‌വർക്ക് അഭ്യർത്ഥന അയക്കുന്നത്; അതിനൊപ്പം വ്യക്തിഗത വിവരമൊന്നും പോകുന്നില്ല.",
+          "heading": "ഐച്ഛിക നെറ്റ്‌വർക്ക് കണക്ഷനുകൾ",
+          "topic": "network"
+        },
+        {
+          "body": "അല്ല. {app}-ൽ സബ്സ്ക്രിപ്ഷൻ ഇല്ല. പണം നൽകേണ്ട ഭാഗം ഒറ്റത്തവണ വാങ്ങലാണ്; അത് സ്വയം പുതുക്കപ്പെടുന്നില്ല.",
+          "heading": "വാങ്ങലുകൾ",
+          "topic": "purchase"
+        },
+        {
+          "body": "ആപ്പിൽ മൂന്നാം കക്ഷിയുടെ പരസ്യം, അനലിറ്റിക്സ് അല്ലെങ്കിൽ ട്രാക്കിംഗ് SDK ഇല്ല. വിവിധ ആപ്പുകൾക്കോ വെബ്സൈറ്റുകൾക്കോ ഇടയിൽ നിങ്ങളുടെ പ്രൊഫൈൽ ഞങ്ങൾ ഉണ്ടാക്കുന്നില്ല.",
+          "heading": "മൂന്നാം കക്ഷികൾ",
+          "topic": "third"
+        },
+        {
+          "body": "ആരുടെയും വ്യക്തിഗത വിവരം ഞങ്ങൾ ശേഖരിക്കാത്തതിനാൽ കുട്ടികളുടേതും ശേഖരിക്കുന്നില്ല. ഒരു കുട്ടിയുടെ പേര്, ജനനത്തീയതി, ബന്ധപ്പെടാനുള്ള വിവരം, ചിത്രങ്ങൾ, ആരോഗ്യ വിവരം എന്നിവ ഞങ്ങൾ ചോദിക്കുന്നില്ല.",
+          "heading": "കുട്ടികളുടെ സ്വകാര്യത",
+          "topic": "child"
+        },
+        {
+          "body": "ഈ നയത്തെ ബാധിക്കുന്ന വിധത്തിൽ ആപ്പിന്റെ ഏതെങ്കിലും സവിശേഷത മാറിയാൽ, ഈ പേജും മുകളിലെ തീയതിയും ഞങ്ങൾ പുതുക്കും.",
+          "heading": "ഈ നയത്തിലെ മാറ്റങ്ങൾ",
+          "topic": "change"
+        },
+        {
+          "body": "സ്വകാര്യത സംബന്ധിച്ച ചോദ്യങ്ങൾക്ക് {email} എന്ന വിലാസത്തിൽ എഴുതുക.",
+          "heading": "ബന്ധപ്പെടുക",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} സ്വകാര്യതാ നയം",
+      "translation_note": "",
+      "updated_label": "അവസാനം പുതുക്കിയത്"
+    },
+    "mr-IN": {
+      "description": "थोडक्यात: खाते नाही, वैयक्तिक माहिती गोळा केली जात नाही, तिसऱ्या पक्षाच्या जाहिराती नाहीत, तिसऱ्या पक्षाचे अॅनालिटिक्स नाही.",
+      "eyebrow": "गोपनीयता धोरण",
+      "lead": "हे पान सांगते की {app} कोणती माहिती हाताळते, ती कुठे राहते आणि कशाचा निर्णय तुम्ही घेता.",
+      "sections": [
+        {
+          "body": "आम्ही आमच्या सर्व्हरवर कोणतीही वैयक्तिक माहिती गोळा करत नाही, साठवत नाही आणि पाठवत नाही. {app} मध्ये वापरकर्ता खाते किंवा साइन-इन ची व्यवस्थाच नाही.",
+          "heading": "आम्ही कोणती माहिती गोळा करतो",
+          "topic": "collect"
+        },
+        {
+          "body": "तुम्ही निवडलेल्या छायाचित्रांवरची प्रक्रिया फक्त तुमच्या उपकरणावर होते. आम्ही ती कोणत्याही सर्व्हरवर पाठवत नाही आणि प्रत ठेवत नाही; निकाल जतन करायचा की सामायिक करायचा हे तुम्ही ठरवता.",
+          "heading": "छायाचित्रे आणि कॅमेरा",
+          "topic": "photos"
+        },
+        {
+          "body": "मुख्य कामांसाठी जोडणी लागत नाही. फक्त काही ऐच्छिक वैशिष्ट्ये — उदाहरणार्थ नवीन मजकूर किंवा साचे आहेत का ते तपासणे — नेटवर्क विनंती पाठवतात आणि त्यासोबत कोणतीही वैयक्तिक माहिती जात नाही.",
+          "heading": "ऐच्छिक नेटवर्क जोडण्या",
+          "topic": "network"
+        },
+        {
+          "body": "नाही. {app} मध्ये वर्गणी नाही. जो भाग सशुल्क आहे तो एकदाच करायची खरेदी आहे, ती आपोआप नूतनीकरण होत नाही.",
+          "heading": "खरेदी",
+          "topic": "purchase"
+        },
+        {
+          "body": "अॅपमध्ये तिसऱ्या पक्षाच्या जाहिराती, अॅनालिटिक्स किंवा ट्रॅकिंग SDK नाहीत. वेगवेगळ्या अॅप्स किंवा संकेतस्थळांदरम्यान आम्ही तुमची कोणतीही प्रोफाइल तयार करत नाही.",
+          "heading": "तिसरे पक्ष",
+          "topic": "third"
+        },
+        {
+          "body": "आम्ही कोणाचीही वैयक्तिक माहिती गोळा करत नसल्यामुळे मुलांचीही करत नाही. आम्ही मुलाचे नाव, जन्मतारीख, संपर्क तपशील, छायाचित्रे किंवा आरोग्यविषयक माहिती मागत नाही.",
+          "heading": "मुलांची गोपनीयता",
+          "topic": "child"
+        },
+        {
+          "body": "अॅपचे एखादे वैशिष्ट्य या धोरणाला स्पर्श करेल अशा प्रकारे बदलल्यास आम्ही हे पान आणि वरची तारीख अद्ययावत करू.",
+          "heading": "या धोरणातील बदल",
+          "topic": "change"
+        },
+        {
+          "body": "गोपनीयतेविषयीच्या प्रश्नांसाठी {email} वर लिहा.",
+          "heading": "संपर्क",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} चे गोपनीयता धोरण",
+      "translation_note": "",
+      "updated_label": "शेवटचे अद्ययावत"
+    },
+    "ms": {
+      "description": "Ringkasnya: tiada akaun, tiada pengumpulan data peribadi, tiada iklan pihak ketiga, tiada analitis pihak ketiga.",
+      "eyebrow": "Dasar privasi",
+      "lead": "Halaman ini menerangkan data apa yang diproses oleh {app}, di mana ia kekal, dan apa yang anda tentukan sendiri.",
+      "sections": [
+        {
+          "body": "Kami tidak mengumpul, menyimpan atau menghantar sebarang data peribadi ke pelayan kami. {app} tiada akaun pengguna dan tiada log masuk.",
+          "heading": "Maklumat apa yang kami kumpul",
+          "topic": "collect"
+        },
+        {
+          "body": "Foto yang anda pilih diproses pada peranti anda sahaja. Kami tidak memuat naiknya ke mana-mana pelayan dan tidak menyimpan salinan; anda yang menentukan sama ada hasilnya disimpan atau dikongsi.",
+          "heading": "Foto dan kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Fungsi teras tidak memerlukan sambungan. Hanya beberapa fungsi pilihan — contohnya menyemak kandungan atau templat baharu — yang menghantar permintaan rangkaian, dan tiada data peribadi disertakan.",
+          "heading": "Sambungan rangkaian pilihan",
+          "topic": "network"
+        },
+        {
+          "body": "Tidak. {app} tiada langganan. Bahagian berbayarnya ialah pembelian sekali sahaja yang tidak diperbaharui.",
+          "heading": "Pembelian",
+          "topic": "purchase"
+        },
+        {
+          "body": "Apl ini tidak mengandungi iklan pihak ketiga mahupun SDK analitis atau penjejakan. Kami tidak membina profil anda merentas apl atau tapak web.",
+          "heading": "Pihak ketiga",
+          "topic": "third"
+        },
+        {
+          "body": "Oleh sebab kami tidak mengumpul data peribadi sesiapa pun, kami juga tidak mengumpulnya daripada kanak-kanak. Kami tidak meminta nama, tarikh lahir, maklumat perhubungan, foto atau data kesihatan kanak-kanak.",
+          "heading": "Privasi kanak-kanak",
+          "topic": "child"
+        },
+        {
+          "body": "Jika ciri apl berubah dengan cara yang menyentuh dasar ini, kami akan mengemas kini halaman ini dan tarikh di bahagian atas.",
+          "heading": "Perubahan pada dasar ini",
+          "topic": "change"
+        },
+        {
+          "body": "Untuk soalan berkaitan privasi, e-mel {email} .",
+          "heading": "Hubungi kami",
+          "topic": "contact"
+        }
+      ],
+      "title": "Dasar privasi {app}",
+      "translation_note": "",
+      "updated_label": "Kemas kini terakhir"
+    },
+    "nl-NL": {
+      "description": "Kort samengevat: geen account, geen verzameling van persoonsgegevens, geen advertenties van derden, geen analytics van derden.",
+      "eyebrow": "Privacyverklaring",
+      "lead": "Op deze pagina lees je welke gegevens {app} verwerkt, waar ze blijven en waar je zelf zeggenschap over hebt.",
+      "sections": [
+        {
+          "body": "We verzamelen, bewaren of versturen geen persoonsgegevens naar onze servers. {app} heeft geen gebruikersaccounts en geen inlogfunctie.",
+          "heading": "Welke gegevens we verzamelen",
+          "topic": "collect"
+        },
+        {
+          "body": "De foto's die je kiest, worden alleen op je toestel verwerkt. We uploaden ze niet naar een server en bewaren geen kopieën; jij bepaalt of je het resultaat bewaart of deelt.",
+          "heading": "Foto's en camera",
+          "topic": "photos"
+        },
+        {
+          "body": "Voor de kernfuncties is geen verbinding nodig. Alleen enkele optionele functies — zoals controleren op nieuwe inhoud of sjablonen — doen een netwerkverzoek, en daarbij gaan geen persoonsgegevens mee.",
+          "heading": "Optionele netwerkverbindingen",
+          "topic": "network"
+        },
+        {
+          "body": "Nee. {app} heeft geen abonnementen. Wat je betaalt, is een eenmalige aankoop die niet doorloopt.",
+          "heading": "Aankopen",
+          "topic": "purchase"
+        },
+        {
+          "body": "De app bevat geen advertenties van derden en geen analytics- of trackingSDK's. We bouwen geen profiel van je op over apps of websites heen.",
+          "heading": "Derden",
+          "topic": "third"
+        },
+        {
+          "body": "Omdat we van niemand persoonsgegevens verzamelen, verzamelen we die ook niet van kinderen. We vragen geen naam, geboortedatum, contactgegevens, foto's of gezondheidsgegevens van een kind.",
+          "heading": "Privacy van kinderen",
+          "topic": "child"
+        },
+        {
+          "body": "Verandert een functie van de app op een manier die deze verklaring raakt, dan werken we deze pagina bij en passen we de datum bovenaan aan.",
+          "heading": "Wijzigingen in deze verklaring",
+          "topic": "change"
+        },
+        {
+          "body": "Vragen over privacy kun je sturen naar {email} .",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "Privacyverklaring van {app}",
+      "translation_note": "",
+      "updated_label": "Laatst bijgewerkt"
+    },
+    "no": {
+      "description": "Kort fortalt: ingen konto, ingen innsamling av personopplysninger, ingen tredjepartsannonser, ingen tredjepartsanalyse.",
+      "eyebrow": "Personvernerklæring",
+      "lead": "Denne siden forklarer hvilke data {app} behandler, hvor de blir værende, og hva du selv bestemmer.",
+      "sections": [
+        {
+          "body": "Vi samler ikke inn, lagrer ikke og sender ingen personopplysninger til våre servere. {app} har verken brukerkontoer eller innlogging.",
+          "heading": "Hvilke opplysninger vi samler inn",
+          "topic": "collect"
+        },
+        {
+          "body": "Bildene du velger, behandles bare på enheten din. Vi laster dem ikke opp til noen server og beholder ingen kopier; du bestemmer selv om resultatet skal lagres eller deles.",
+          "heading": "Bilder og kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Kjernefunksjonene krever ingen tilkobling. Bare enkelte valgfrie funksjoner — for eksempel å se etter nytt innhold eller nye maler — gjør en nettverksforespørsel, og ingen personopplysninger følger med.",
+          "heading": "Valgfrie nettverkstilkoblinger",
+          "topic": "network"
+        },
+        {
+          "body": "Nei. {app} har ingen abonnementer. Det som koster, er et engangskjøp som ikke fornyes.",
+          "heading": "Kjøp",
+          "topic": "purchase"
+        },
+        {
+          "body": "Appen inneholder verken tredjepartsannonser eller analyse- og sporings-SDK-er. Vi bygger ingen profil av deg på tvers av apper eller nettsteder.",
+          "heading": "Tredjeparter",
+          "topic": "third"
+        },
+        {
+          "body": "Siden vi ikke samler inn personopplysninger om noen, samler vi dem heller ikke inn om barn. Vi spør ikke om et barns navn, fødselsdato, kontaktopplysninger, bilder eller helseopplysninger.",
+          "heading": "Barns personvern",
+          "topic": "child"
+        },
+        {
+          "body": "Hvis en funksjon i appen endres på en måte som berører denne erklæringen, oppdaterer vi denne siden og datoen øverst.",
+          "heading": "Endringer i denne erklæringen",
+          "topic": "change"
+        },
+        {
+          "body": "Spørsmål om personvern sender du til {email} .",
+          "heading": "Kontakt",
+          "topic": "contact"
+        }
+      ],
+      "title": "Personvernerklæring for {app}",
+      "translation_note": "",
+      "updated_label": "Sist oppdatert"
+    },
+    "or-IN": {
+      "description": "{app} ତଥ୍ୟ କିପରି ପରିଚାଳନା କରେ, ତଥ୍ୟ କେଉଁଠି ରହେ, Apple ସେବା, କିଣା ଏବଂ ଯୋଗାଯୋଗ ବିଷୟରେ ସୂଚନା।",
+      "eyebrow": "ଗୋପନୀୟତା ନୀତି",
+      "lead": "{app} କେଉଁ ତଥ୍ୟ ପ୍ରକ୍ରିୟା କରେ, ଯୋଗ୍ୟ ତଥ୍ୟ କେଉଁଠି ରହେ ଏବଂ କେଉଁ ବିକଳ୍ପ ଆପଣଙ୍କ ନିୟନ୍ତ୍ରଣରେ ରହେ—ଏହି ପୃଷ୍ଠାରେ ସେଥିର ବ୍ୟାଖ୍ୟା ଅଛି।",
+      "sections": [
+        {
+          "body": "କିଛି ନୁହେଁ। {app} ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ସଂଗ୍ରହ, ପଠାଇବା, ବିକ୍ରି କିମ୍ବା ଶେୟାର୍ କରେ ନାହିଁ। ଡେଭେଲପର୍‌ଙ୍କ ନିଜସ୍ୱ ଖାତା କିମ୍ବା ସାଇନ୍-ଇନ୍ ବ୍ୟବସ୍ଥା ନାହିଁ।",
+          "heading": "ଆମେ କେଉଁ ତଥ୍ୟ ସଂଗ୍ରହ କରୁ",
+          "topic": "collect"
+        },
+        {
+          "body": "ଆପଣ ବାଛିଥିବା ଫଟୋ ଡିଭାଇସ୍‌ରେ ପ୍ରକ୍ରିୟା କରାଯାଏ। {app} ସେଗୁଡ଼ିକୁ ଡେଭେଲପର୍ ସର୍ଭରକୁ ଅପଲୋଡ୍ କରେ ନାହିଁ କିମ୍ବା ସର୍ଭରରେ ପ୍ରତିଲିପି ରଖେ ନାହିଁ; ଫଳାଫଳ ସେଭ୍ କିମ୍ବା ଶେୟାର୍ କରିବେ କି ନାହିଁ ଆପଣ ନିଷ୍ପତ୍ତି ନେବେ।",
+          "heading": "ଫଟୋ ଓ କ୍ୟାମେରା",
+          "topic": "photos"
+        },
+        {
+          "body": "ମୁଖ୍ୟ କାମ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ରହେ। ବିକଳ୍ପ template update ଯାଞ୍ଚ ଏକ ସାର୍ବଜନୀନ ତାଲିକା ଡାଉନଲୋଡ୍ କରେ ଏବଂ ଫଟୋ କିମ୍ବା ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ପଠାଏ ନାହିଁ।",
+          "heading": "ବିକଳ୍ପ ନେଟୱର୍କ ବ୍ୟବହାର",
+          "topic": "network"
+        },
+        {
+          "body": "ଏହା ଥରେ ଟଙ୍କା ଦେଇ App Storeରୁ ଡାଉନଲୋଡ୍ କରାଯାଉଥିବା App; କୌଣସି ସଦସ୍ୟତା କିମ୍ବା App ଭିତର କିଣା ନାହିଁ। କିଣା Apple ଦ୍ୱାରା ପ୍ରକ୍ରିୟା କରାଯାଏ; ଡେଭେଲପର୍ ଆପଣଙ୍କ ପେମେଣ୍ଟ କାର୍ଡ ବିବରଣୀ ପାଆନ୍ତି ନାହିଁ।",
+          "heading": "କିଣା",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} ରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ, attribution କିମ୍ବା tracking SDK ନାହିଁ। ଡେଭେଲପର୍ App କିମ୍ବା website ମଧ୍ୟରେ ଆପଣଙ୍କ profile ତିଆରି କରନ୍ତି ନାହିଁ।",
+          "heading": "ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ ଓ ଟ୍ରାକିଂ",
+          "topic": "third"
+        },
+        {
+          "body": "{app} ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ସଂଗ୍ରହ କରେ ନାହିଁ, ତେଣୁ ଶିଶୁଙ୍କ ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ମଧ୍ୟ ସଂଗ୍ରହ କରେ ନାହିଁ। ଡେଭେଲପର୍‌ଙ୍କୁ ଶିଶୁର ନାମ, ଜନ୍ମତାରିଖ, ଯୋଗାଯୋଗ ତଥ୍ୟ, ଫଟୋ କିମ୍ବା ସ୍ୱାସ୍ଥ୍ୟ ତଥ୍ୟ ଦେବାକୁ App ମାଗେ ନାହିଁ।",
+          "heading": "ଶିଶୁଙ୍କ ଗୋପନୀୟତା",
+          "topic": "child"
+        },
+        {
+          "body": "App ର କୌଣସି ପରିବର୍ତ୍ତନ ଏହି ନୀତିକୁ ପ୍ରଭାବିତ କଲେ, ଏହି ପୃଷ୍ଠା ଏବଂ ଶେଷ ଅଦ୍ୟତନ ତାରିଖ ସଂଶୋଧନ କରାଯିବ।",
+          "heading": "ଏହି ନୀତିର ପରିବର୍ତ୍ତନ",
+          "topic": "change"
+        },
+        {
+          "body": "ଗୋପନୀୟତା ସମ୍ବନ୍ଧୀୟ ପ୍ରଶ୍ନ ପାଇଁ {email} କୁ ଇମେଲ୍ କରନ୍ତୁ।",
+          "heading": "ଯୋଗାଯୋଗ",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} ଗୋପନୀୟତା ନୀତି",
+      "translation_note": "",
+      "updated_label": "ଶେଷ ଅଦ୍ୟତନ"
+    },
+    "pa-IN": {
+      "description": "ਸੰਖੇਪ ਵਿੱਚ: ਕੋਈ ਖਾਤਾ ਨਹੀਂ, ਨਿੱਜੀ ਡਾਟਾ ਇਕੱਠਾ ਨਹੀਂ, ਤੀਜੀ ਧਿਰ ਦੇ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ, ਤੀਜੀ ਧਿਰ ਦਾ ਐਨਾਲਿਟਿਕਸ ਨਹੀਂ।",
+      "eyebrow": "ਨਿੱਜਤਾ ਨੀਤੀ",
+      "lead": "ਇਹ ਪੰਨਾ ਦੱਸਦਾ ਹੈ ਕਿ {app} ਕਿਹੜਾ ਡਾਟਾ ਵਰਤਦੀ ਹੈ, ਉਹ ਕਿੱਥੇ ਰਹਿੰਦਾ ਹੈ ਅਤੇ ਕਿਹੜੇ ਫ਼ੈਸਲੇ ਤੁਹਾਡੇ ਹੱਥ ਹਨ।",
+      "sections": [
+        {
+          "body": "ਅਸੀਂ ਆਪਣੇ ਸਰਵਰਾਂ ਉੱਤੇ ਕੋਈ ਵੀ ਨਿੱਜੀ ਡਾਟਾ ਇਕੱਠਾ, ਸਾਂਭ ਜਾਂ ਭੇਜ ਨਹੀਂ ਰਹੇ। {app} ਵਿੱਚ ਵਰਤੋਂਕਾਰ ਖਾਤਾ ਜਾਂ ਸਾਈਨ-ਇਨ ਦੀ ਕੋਈ ਵਿਵਸਥਾ ਹੀ ਨਹੀਂ।",
+          "heading": "ਅਸੀਂ ਕਿਹੜੀ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਦੇ ਹਾਂ",
+          "topic": "collect"
+        },
+        {
+          "body": "ਤੁਹਾਡੀਆਂ ਚੁਣੀਆਂ ਤਸਵੀਰਾਂ ਦੀ ਪ੍ਰਕਿਰਿਆ ਸਿਰਫ਼ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਹੁੰਦੀ ਹੈ। ਅਸੀਂ ਉਹਨਾਂ ਨੂੰ ਕਿਸੇ ਸਰਵਰ ਉੱਤੇ ਨਹੀਂ ਭੇਜਦੇ ਅਤੇ ਨਾ ਕੋਈ ਨਕਲ ਰੱਖਦੇ ਹਾਂ; ਨਤੀਜਾ ਸਾਂਭਣਾ ਜਾਂ ਸਾਂਝਾ ਕਰਨਾ ਤੁਹਾਡਾ ਫ਼ੈਸਲਾ ਹੈ।",
+          "heading": "ਤਸਵੀਰਾਂ ਅਤੇ ਕੈਮਰਾ",
+          "topic": "photos"
+        },
+        {
+          "body": "ਮੁੱਖ ਕੰਮਾਂ ਲਈ ਕੁਨੈਕਸ਼ਨ ਦੀ ਲੋੜ ਨਹੀਂ। ਸਿਰਫ਼ ਕੁਝ ਚੋਣਵੀਆਂ ਖ਼ੂਬੀਆਂ — ਜਿਵੇਂ ਨਵੀਂ ਸਮੱਗਰੀ ਜਾਂ ਟੈਂਪਲੇਟ ਦੀ ਜਾਂਚ — ਨੈੱਟਵਰਕ ਬੇਨਤੀ ਭੇਜਦੀਆਂ ਹਨ, ਅਤੇ ਉਸ ਨਾਲ ਕੋਈ ਨਿੱਜੀ ਡਾਟਾ ਨਹੀਂ ਜਾਂਦਾ।",
+          "heading": "ਚੋਣਵੇਂ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ",
+          "topic": "network"
+        },
+        {
+          "body": "ਨਹੀਂ। {app} ਵਿੱਚ ਕੋਈ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ। ਜਿਹੜਾ ਹਿੱਸਾ ਅਦਾਇਗੀ ਵਾਲਾ ਹੈ ਉਹ ਇੱਕ ਵਾਰ ਦੀ ਖ਼ਰੀਦ ਹੈ, ਜੋ ਆਪਣੇ ਆਪ ਨਵੀਂ ਨਹੀਂ ਹੁੰਦੀ।",
+          "heading": "ਖ਼ਰੀਦਾਂ",
+          "topic": "purchase"
+        },
+        {
+          "body": "ਐਪ ਵਿੱਚ ਤੀਜੀ ਧਿਰ ਦੇ ਇਸ਼ਤਿਹਾਰ, ਐਨਾਲਿਟਿਕਸ ਜਾਂ ਟ੍ਰੈਕਿੰਗ SDK ਨਹੀਂ ਹਨ। ਵੱਖ-ਵੱਖ ਐਪਾਂ ਜਾਂ ਵੈੱਬਸਾਈਟਾਂ ਵਿਚਕਾਰ ਅਸੀਂ ਤੁਹਾਡੀ ਕੋਈ ਪ੍ਰੋਫ਼ਾਈਲ ਨਹੀਂ ਬਣਾਉਂਦੇ।",
+          "heading": "ਤੀਜੀਆਂ ਧਿਰਾਂ",
+          "topic": "third"
+        },
+        {
+          "body": "ਕਿਉਂਕਿ ਅਸੀਂ ਕਿਸੇ ਦਾ ਵੀ ਨਿੱਜੀ ਡਾਟਾ ਇਕੱਠਾ ਨਹੀਂ ਕਰਦੇ, ਇਸ ਲਈ ਬੱਚਿਆਂ ਦਾ ਵੀ ਨਹੀਂ ਕਰਦੇ। ਅਸੀਂ ਕਿਸੇ ਬੱਚੇ ਦਾ ਨਾਂ, ਜਨਮ ਤਾਰੀਖ਼, ਸੰਪਰਕ ਵੇਰਵਾ, ਤਸਵੀਰਾਂ ਜਾਂ ਸਿਹਤ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਨਹੀਂ ਮੰਗਦੇ।",
+          "heading": "ਬੱਚਿਆਂ ਦੀ ਨਿੱਜਤਾ",
+          "topic": "child"
+        },
+        {
+          "body": "ਜੇ ਐਪ ਦੀ ਕੋਈ ਖ਼ੂਬੀ ਇਸ ਤਰ੍ਹਾਂ ਬਦਲਦੀ ਹੈ ਕਿ ਉਸ ਦਾ ਅਸਰ ਇਸ ਨੀਤੀ ਉੱਤੇ ਪਵੇ, ਤਾਂ ਅਸੀਂ ਇਹ ਪੰਨਾ ਅਤੇ ਉੱਤੇ ਦਿੱਤੀ ਤਾਰੀਖ਼ ਅੱਪਡੇਟ ਕਰ ਦੇਵਾਂਗੇ।",
+          "heading": "ਇਸ ਨੀਤੀ ਵਿੱਚ ਤਬਦੀਲੀਆਂ",
+          "topic": "change"
+        },
+        {
+          "body": "ਨਿੱਜਤਾ ਬਾਰੇ ਸਵਾਲਾਂ ਲਈ {email} ਉੱਤੇ ਲਿਖੋ।",
+          "heading": "ਸੰਪਰਕ",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} ਦੀ ਨਿੱਜਤਾ ਨੀਤੀ",
+      "translation_note": "",
+      "updated_label": "ਆਖ਼ਰੀ ਅੱਪਡੇਟ"
+    },
+    "pl": {
+      "description": "W skrócie: brak konta, brak zbierania danych osobowych, brak reklam firm trzecich, brak zewnętrznej analityki.",
+      "eyebrow": "Polityka prywatności",
+      "lead": "Ta strona wyjaśnia, jakie dane przetwarza {app}, gdzie one zostają i o czym decydujesz Ty.",
+      "sections": [
+        {
+          "body": "Nie zbieramy, nie przechowujemy ani nie przesyłamy na nasze serwery żadnych danych osobowych. {app} nie ma kont użytkownika ani logowania.",
+          "heading": "Jakie informacje zbieramy",
+          "topic": "collect"
+        },
+        {
+          "body": "Wybrane przez Ciebie zdjęcia są przetwarzane wyłącznie na Twoim urządzeniu. Nie wysyłamy ich na żaden serwer i nie zachowujemy kopii; to Ty decydujesz, czy zapisać lub udostępnić wynik.",
+          "heading": "Zdjęcia i aparat",
+          "topic": "photos"
+        },
+        {
+          "body": "Główne funkcje nie wymagają połączenia. Tylko pojedyncze opcjonalne funkcje — na przykład sprawdzanie nowych treści lub szablonów — wysyłają zapytanie sieciowe i nie przekazują przy tym danych osobowych.",
+          "heading": "Opcjonalne połączenia sieciowe",
+          "topic": "network"
+        },
+        {
+          "body": "Nie. {app} nie ma subskrypcji. Płatna część to jednorazowy zakup, który się nie odnawia.",
+          "heading": "Zakupy",
+          "topic": "purchase"
+        },
+        {
+          "body": "Aplikacja nie zawiera reklam firm trzecich ani zestawów SDK do analityki czy śledzenia. Nie budujemy Twojego profilu na podstawie różnych aplikacji ani witryn.",
+          "heading": "Firmy trzecie",
+          "topic": "third"
+        },
+        {
+          "body": "Ponieważ nie zbieramy niczyich danych osobowych, nie zbieramy ich również od dzieci. Nie pytamy o imię, datę urodzenia, dane kontaktowe, zdjęcia ani dane zdrowotne dziecka.",
+          "heading": "Prywatność dzieci",
+          "topic": "child"
+        },
+        {
+          "body": "Jeśli funkcja aplikacji zmieni się w sposób istotny dla tej polityki, zaktualizujemy tę stronę oraz datę widoczną na górze.",
+          "heading": "Zmiany tej polityki",
+          "topic": "change"
+        },
+        {
+          "body": "Pytania dotyczące prywatności kieruj na {email} .",
+          "heading": "Kontakt",
+          "topic": "contact"
+        }
+      ],
+      "title": "Polityka prywatności aplikacji {app}",
+      "translation_note": "",
+      "updated_label": "Ostatnia aktualizacja"
+    },
+    "pt-BR": {
+      "description": "Em resumo: não precisa de conta, não coletamos dados pessoais, não há publicidade de terceiros nem análise de terceiros.",
+      "eyebrow": "Política de Privacidade",
+      "lead": "Esta página explica quais dados o {app} trata, onde eles ficam e o que você pode controlar.",
+      "sections": [
+        {
+          "body": "Não coletamos, armazenamos nem enviamos dados pessoais para os nossos servidores. O {app} não tem contas de usuário nem login.",
+          "heading": "Quais dados coletamos",
+          "topic": "collect"
+        },
+        {
+          "body": "As fotos que você escolhe são processadas somente no seu aparelho. Não enviamos nenhuma foto para servidores nem guardamos cópias; salvar ou compartilhar o resultado é decisão sua.",
+          "heading": "Fotos e câmera",
+          "topic": "photos"
+        },
+        {
+          "body": "Os recursos principais não precisam de conexão. Só alguns recursos opcionais — como verificar se há conteúdos ou modelos novos — fazem uma requisição de rede, e nela não vão dados pessoais.",
+          "heading": "Conexões de rede opcionais",
+          "topic": "network"
+        },
+        {
+          "body": "Não. O {app} não tem assinatura. O conteúdo pago é uma compra única, sem cobrança recorrente.",
+          "heading": "Compras",
+          "topic": "purchase"
+        },
+        {
+          "body": "O app não inclui publicidade de terceiros nem SDKs de análise ou rastreamento de terceiros. Não montamos nenhum perfil seu entre apps ou sites.",
+          "heading": "Terceiros",
+          "topic": "third"
+        },
+        {
+          "body": "Como o app não coleta dados pessoais de ninguém, também não coleta de crianças. Não pedimos nome, data de nascimento, contatos, fotos nem dados de saúde de nenhuma criança.",
+          "heading": "Privacidade de crianças",
+          "topic": "child"
+        },
+        {
+          "body": "Se os recursos do app mudarem de forma que afete esta política, vamos atualizar esta página e a data acima.",
+          "heading": "Mudanças nesta política",
+          "topic": "change"
+        },
+        {
+          "body": "Para assuntos de privacidade, escreva para {email} .",
+          "heading": "Contato",
+          "topic": "contact"
+        }
+      ],
+      "title": "Política de Privacidade do {app}",
+      "translation_note": "",
+      "updated_label": "Última atualização"
+    },
+    "pt-PT": {
+      "description": "Em resumo: sem conta, sem recolha de dados pessoais, sem publicidade de terceiros e sem análises de terceiros.",
+      "eyebrow": "Política de privacidade",
+      "lead": "Esta página explica que dados a {app} trata, onde ficam e o que pode decidir.",
+      "sections": [
+        {
+          "body": "Não recolhemos, não guardamos nem enviamos quaisquer dados pessoais para os nossos servidores. A {app} não tem contas de utilizador nem início de sessão.",
+          "heading": "Que informação recolhemos",
+          "topic": "collect"
+        },
+        {
+          "body": "As fotografias que escolher são processadas apenas no seu dispositivo. Não as enviamos para nenhum servidor nem guardamos cópias; é o utilizador que decide se guarda ou partilha o resultado.",
+          "heading": "Fotografias e câmara",
+          "topic": "photos"
+        },
+        {
+          "body": "As funcionalidades principais não precisam de ligação. Só algumas funcionalidades opcionais — por exemplo verificar novos conteúdos ou modelos — fazem um pedido de rede, e sem enviar dados pessoais.",
+          "heading": "Ligações de rede opcionais",
+          "topic": "network"
+        },
+        {
+          "body": "Não. A {app} não tem subscrições. A parte paga é uma compra única que não se renova.",
+          "heading": "Compras",
+          "topic": "purchase"
+        },
+        {
+          "body": "A aplicação não inclui publicidade de terceiros nem SDK de análise ou de rastreio. Não construímos qualquer perfil seu entre aplicações ou sites.",
+          "heading": "Terceiros",
+          "topic": "third"
+        },
+        {
+          "body": "Como não recolhemos dados pessoais de ninguém, também não recolhemos de crianças. Não pedimos nome, data de nascimento, contactos, fotografias nem dados de saúde de um menor.",
+          "heading": "Privacidade das crianças",
+          "topic": "child"
+        },
+        {
+          "body": "Se alguma funcionalidade mudar de forma relevante para esta política, atualizamos esta página e a data de atualização no topo.",
+          "heading": "Alterações a esta política",
+          "topic": "change"
+        },
+        {
+          "body": "Para questões de privacidade escreva para {email} .",
+          "heading": "Contacto",
+          "topic": "contact"
+        }
+      ],
+      "title": "Política de privacidade da {app}",
+      "translation_note": "",
+      "updated_label": "Última atualização"
+    },
+    "ro": {
+      "description": "Pe scurt: fără cont, fără colectare de date personale, fără reclame de la terți, fără analize de la terți.",
+      "eyebrow": "Politica de confidențialitate",
+      "lead": "Pagina aceasta explică ce date prelucrează {app}, unde rămân ele și ce poți decide tu.",
+      "sections": [
+        {
+          "body": "Nu colectăm, nu stocăm și nu trimitem către serverele noastre niciun fel de date personale. {app} nu are conturi de utilizator și nici autentificare.",
+          "heading": "Ce informații colectăm",
+          "topic": "collect"
+        },
+        {
+          "body": "Fotografiile pe care le alegi sunt prelucrate doar pe dispozitivul tău. Nu le încărcăm pe niciun server și nu păstrăm copii; tu decizi dacă salvezi sau distribui rezultatul.",
+          "heading": "Fotografii și cameră",
+          "topic": "photos"
+        },
+        {
+          "body": "Funcțiile principale nu au nevoie de conexiune. Doar câteva funcții opționale — de exemplu verificarea conținutului sau a șabloanelor noi — fac o cerere de rețea, fără să trimită date personale.",
+          "heading": "Conexiuni de rețea opționale",
+          "topic": "network"
+        },
+        {
+          "body": "Nu. {app} nu are abonamente. Partea contra cost este o achiziție unică ce nu se reînnoiește.",
+          "heading": "Cumpărături",
+          "topic": "purchase"
+        },
+        {
+          "body": "Aplicația nu conține reclame de la terți și nici SDK-uri de analiză sau de urmărire. Nu construim un profil al tău între aplicații sau site-uri.",
+          "heading": "Terți",
+          "topic": "third"
+        },
+        {
+          "body": "Fiindcă nu colectăm date personale despre nimeni, nu colectăm nici despre copii. Nu cerem numele, data nașterii, datele de contact, fotografiile sau datele de sănătate ale unui copil.",
+          "heading": "Confidențialitatea copiilor",
+          "topic": "child"
+        },
+        {
+          "body": "Dacă o funcție a aplicației se schimbă într-un mod care afectează această politică, actualizăm pagina și data afișată sus.",
+          "heading": "Modificări ale acestei politici",
+          "topic": "change"
+        },
+        {
+          "body": "Pentru orice întrebare legată de confidențialitate scrie la {email} .",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "Politica de confidențialitate pentru {app}",
+      "translation_note": "",
+      "updated_label": "Ultima actualizare"
+    },
+    "ru": {
+      "description": "Коротко: без аккаунта, без сбора персональных данных, без сторонней рекламы и без сторонней аналитики.",
+      "eyebrow": "Политика конфиденциальности",
+      "lead": "На этой странице объясняется, какие данные обрабатывает {app}, где они остаются и что вы можете решать сами.",
+      "sections": [
+        {
+          "body": "Мы не собираем, не храним и не передаём на свои серверы никаких персональных данных. В {app} нет учётных записей и нет входа.",
+          "heading": "Какие сведения мы собираем",
+          "topic": "collect"
+        },
+        {
+          "body": "Выбранные вами фотографии обрабатываются только на вашем устройстве. Мы не загружаем их на серверы и не храним копии; сохранять или делиться результатом — решаете вы.",
+          "heading": "Фото и камера",
+          "topic": "photos"
+        },
+        {
+          "body": "Основные функции не требуют подключения. Сетевой запрос выполняют лишь отдельные необязательные функции — например проверка новых материалов или шаблонов — и персональные данные при этом не передаются.",
+          "heading": "Необязательные сетевые запросы",
+          "topic": "network"
+        },
+        {
+          "body": "Нет. В {app} нет подписок. Платная часть — разовая покупка, которая не продлевается.",
+          "heading": "Покупки",
+          "topic": "purchase"
+        },
+        {
+          "body": "В приложении нет сторонней рекламы и нет SDK аналитики или отслеживания. Мы не строим ваш профиль между приложениями и сайтами.",
+          "heading": "Третьи стороны",
+          "topic": "third"
+        },
+        {
+          "body": "Поскольку мы не собираем персональные данные ни о ком, мы не собираем их и о детях. Мы не спрашиваем имя, дату рождения, контакты, фотографии и медицинские данные ребёнка.",
+          "heading": "Конфиденциальность детей",
+          "topic": "child"
+        },
+        {
+          "body": "Если функция приложения изменится так, что это затронет данную политику, мы обновим эту страницу и дату вверху.",
+          "heading": "Изменения этой политики",
+          "topic": "change"
+        },
+        {
+          "body": "Вопросы о конфиденциальности отправляйте на {email} .",
+          "heading": "Связаться с нами",
+          "topic": "contact"
+        }
+      ],
+      "title": "Политика конфиденциальности {app}",
+      "translation_note": "",
+      "updated_label": "Последнее обновление"
+    },
+    "sk": {
+      "description": "V skratke: žiadny účet, žiadny zber osobných údajov, žiadna reklama tretích strán, žiadna cudzia analytika.",
+      "eyebrow": "Zásady ochrany súkromia",
+      "lead": "Táto stránka vysvetľuje, aké údaje {app} spracúva, kde zostávajú a o čom rozhodujete vy.",
+      "sections": [
+        {
+          "body": "Nezhromažďujeme, neukladáme ani neposielame na naše servery žiadne osobné údaje. {app} nemá používateľské účty ani prihlasovanie.",
+          "heading": "Aké údaje zhromažďujeme",
+          "topic": "collect"
+        },
+        {
+          "body": "Fotky, ktoré vyberiete, sa spracúvajú len vo vašom zariadení. Neposielame ich na žiadny server ani si neukladáme kópie; či výsledok uložíte alebo budete zdieľať, rozhodujete vy.",
+          "heading": "Fotky a fotoaparát",
+          "topic": "photos"
+        },
+        {
+          "body": "Hlavné funkcie pripojenie nepotrebujú. Sieťovú požiadavku posielajú len jednotlivé voliteľné funkcie — napríklad kontrola nového obsahu alebo šablón — a žiadne osobné údaje s ňou neodchádzajú.",
+          "heading": "Voliteľné sieťové spojenia",
+          "topic": "network"
+        },
+        {
+          "body": "Nie. {app} nemá žiadne predplatné. Platená časť je jednorazový nákup, ktorý sa neobnovuje.",
+          "heading": "Nákupy",
+          "topic": "purchase"
+        },
+        {
+          "body": "Aplikácia neobsahuje reklamy tretích strán ani analytické či sledovacie SDK. Nevytvárame o vás profil naprieč aplikáciami ani webmi.",
+          "heading": "Tretie strany",
+          "topic": "third"
+        },
+        {
+          "body": "Keďže nezbierame osobné údaje nikoho, nezbierame ich ani od detí. Nepýtame sa na meno, dátum narodenia, kontakty, fotografie ani zdravotné údaje dieťaťa.",
+          "heading": "Súkromie detí",
+          "topic": "child"
+        },
+        {
+          "body": "Ak sa funkcia aplikácie zmení spôsobom, ktorý sa týka týchto zásad, túto stránku aj dátum hore aktualizujeme.",
+          "heading": "Zmeny týchto zásad",
+          "topic": "change"
+        },
+        {
+          "body": "Otázky k súkromiu posielajte na {email} .",
+          "heading": "Kontakt",
+          "topic": "contact"
+        }
+      ],
+      "title": "Zásady ochrany súkromia aplikácie {app}",
+      "translation_note": "",
+      "updated_label": "Posledná aktualizácia"
+    },
+    "sl-SI": {
+      "description": "Na kratko: brez računa, brez zbiranja osebnih podatkov, brez oglasov tretjih oseb, brez tuje analitike.",
+      "eyebrow": "Politika zasebnosti",
+      "lead": "Ta stran pojasnjuje, katere podatke {app} obdeluje, kje ostanejo in o čem odločate vi.",
+      "sections": [
+        {
+          "body": "Ne zbiramo, ne shranjujemo in na svoje strežnike ne pošiljamo nobenih osebnih podatkov. {app} nima uporabniških računov ne prijave.",
+          "heading": "Katere podatke zbiramo",
+          "topic": "collect"
+        },
+        {
+          "body": "Fotografije, ki jih izberete, se obdelujejo samo na vaši napravi. Ne nalagamo jih na noben strežnik in ne hranimo kopij; ali boste rezultat shranili ali delili, odločite sami.",
+          "heading": "Fotografije in kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Osrednje funkcije povezave ne potrebujejo. Omrežno zahtevo pošljejo le posamezne izbirne funkcije — na primer preverjanje nove vsebine ali predlog — pri čemer se osebni podatki ne pošiljajo.",
+          "heading": "Izbirne omrežne povezave",
+          "topic": "network"
+        },
+        {
+          "body": "Ne. {app} nima naročnin. Plačljivi del je enkraten nakup, ki se ne obnavlja.",
+          "heading": "Nakupi",
+          "topic": "purchase"
+        },
+        {
+          "body": "Aplikacija ne vsebuje oglasov tretjih oseb niti analitičnih ali sledilnih kompletov SDK. O vas ne gradimo profila med aplikacijami ali spletnimi mesti.",
+          "heading": "Tretje osebe",
+          "topic": "third"
+        },
+        {
+          "body": "Ker osebnih podatkov ne zbiramo od nikogar, jih ne zbiramo niti od otrok. Ne sprašujemo po otrokovem imenu, datumu rojstva, stikih, fotografijah ali zdravstvenih podatkih.",
+          "heading": "Zasebnost otrok",
+          "topic": "child"
+        },
+        {
+          "body": "Če se funkcija aplikacije spremeni tako, da to vpliva na to politiko, posodobimo to stran in datum na vrhu.",
+          "heading": "Spremembe te politike",
+          "topic": "change"
+        },
+        {
+          "body": "Vprašanja o zasebnosti pošljite na {email} .",
+          "heading": "Stik",
+          "topic": "contact"
+        }
+      ],
+      "title": "Politika zasebnosti aplikacije {app}",
+      "translation_note": "",
+      "updated_label": "Zadnja posodobitev"
+    },
+    "sv": {
+      "description": "Kort sagt: inget konto, ingen insamling av personuppgifter, inga tredjepartsannonser, ingen tredjepartsanalys.",
+      "eyebrow": "Integritetspolicy",
+      "lead": "Den här sidan förklarar vilka uppgifter {app} hanterar, var de stannar och vad du själv bestämmer över.",
+      "sections": [
+        {
+          "body": "Vi samlar inte in, lagrar inte och skickar inte några personuppgifter till våra servrar. {app} har varken användarkonton eller inloggning.",
+          "heading": "Vilka uppgifter vi samlar in",
+          "topic": "collect"
+        },
+        {
+          "body": "Bilderna du väljer behandlas bara på din enhet. Vi laddar inte upp dem till någon server och sparar inga kopior; du bestämmer själv om resultatet ska sparas eller delas.",
+          "heading": "Bilder och kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Kärnfunktionerna kräver ingen anslutning. Bara enstaka valfria funktioner — som att söka efter nytt innehåll eller nya mallar — gör en nätverksförfrågan, och inga personuppgifter följer med.",
+          "heading": "Valfria nätverksanslutningar",
+          "topic": "network"
+        },
+        {
+          "body": "Nej. {app} har inga prenumerationer. Det som kostar är ett engångsköp som inte förnyas.",
+          "heading": "Köp",
+          "topic": "purchase"
+        },
+        {
+          "body": "Appen innehåller varken tredjepartsannonser eller analys- och spårnings-SDK:er. Vi bygger ingen profil av dig mellan appar eller webbplatser.",
+          "heading": "Tredje part",
+          "topic": "third"
+        },
+        {
+          "body": "Eftersom vi inte samlar in personuppgifter om någon samlar vi inte in dem om barn heller. Vi frågar inte efter ett barns namn, födelsedatum, kontaktuppgifter, foton eller hälsouppgifter.",
+          "heading": "Barns integritet",
+          "topic": "child"
+        },
+        {
+          "body": "Om en funktion i appen ändras på ett sätt som påverkar den här policyn uppdaterar vi sidan och datumet högst upp.",
+          "heading": "Ändringar i denna policy",
+          "topic": "change"
+        },
+        {
+          "body": "Frågor om integritet skickar du till {email} .",
+          "heading": "Kontakt",
+          "topic": "contact"
+        }
+      ],
+      "title": "Integritetspolicy för {app}",
+      "translation_note": "",
+      "updated_label": "Senast uppdaterad"
+    },
+    "ta-IN": {
+      "description": "சுருக்கமாக: கணக்கு இல்லை, தனிப்பட்ட தரவு சேகரிப்பு இல்லை, மூன்றாம் தரப்பு விளம்பரம் இல்லை, மூன்றாம் தரப்புப் பகுப்பாய்வு இல்லை.",
+      "eyebrow": "தனியுரிமைக் கொள்கை",
+      "lead": "{app} எந்தத் தரவைக் கையாளுகிறது, அது எங்கே இருக்கிறது, எதை நீங்கள் தீர்மானிக்கிறீர்கள் என்பதை இந்தப் பக்கம் விளக்குகிறது.",
+      "sections": [
+        {
+          "body": "எங்கள் சேவையகங்களில் எந்தத் தனிப்பட்ட தரவையும் நாங்கள் சேகரிப்பதுமில்லை, சேமிப்பதுமில்லை, அனுப்புவதுமில்லை. {app} இல் பயனர் கணக்கோ உள்நுழைவு முறையோ கிடையாது.",
+          "heading": "நாங்கள் சேகரிக்கும் தகவல்",
+          "topic": "collect"
+        },
+        {
+          "body": "நீங்கள் தேர்ந்தெடுக்கும் படங்கள் உங்கள் சாதனத்தில் மட்டுமே செயலாக்கப்படும். அவற்றை எந்தச் சேவையகத்திற்கும் பதிவேற்றுவதில்லை, நகலும் வைத்திருப்பதில்லை; முடிவைச் சேமிப்பதா பகிர்வதா என்பது உங்கள் தேர்வு.",
+          "heading": "படங்களும் கேமராவும்",
+          "topic": "photos"
+        },
+        {
+          "body": "முக்கிய அம்சங்களுக்கு இணைப்பு தேவையில்லை. புதிய உள்ளடக்கம் அல்லது வார்ப்புருக்கள் உள்ளதா எனச் சரிபார்ப்பது போன்ற சில விருப்பத் தேர்வு அம்சங்கள் மட்டுமே வலைக் கோரிக்கை அனுப்பும்; அதனுடன் தனிப்பட்ட தரவு எதுவும் செல்லாது.",
+          "heading": "விருப்பத் தேர்வு வலைப் பிணைப்புகள்",
+          "topic": "network"
+        },
+        {
+          "body": "இல்லை. {app} இல் சந்தா எதுவும் இல்லை. கட்டணப் பகுதி ஒருமுறை மட்டும் செய்யும் வாங்குதல்; அது தானாகப் புதுப்பிக்கப்படாது.",
+          "heading": "வாங்குதல்கள்",
+          "topic": "purchase"
+        },
+        {
+          "body": "பயன்பாட்டில் மூன்றாம் தரப்பு விளம்பரம், பகுப்பாய்வு அல்லது கண்காணிப்பு SDK எதுவும் இல்லை. வெவ்வேறு பயன்பாடுகளுக்கோ இணையதளங்களுக்கோ இடையே உங்களைப் பற்றிய சுயவிவரத்தை நாங்கள் உருவாக்குவதில்லை.",
+          "heading": "மூன்றாம் தரப்பினர்",
+          "topic": "third"
+        },
+        {
+          "body": "யாருடைய தனிப்பட்ட தரவையும் நாங்கள் சேகரிக்காததால், குழந்தைகளுடையதையும் சேகரிப்பதில்லை. குழந்தையின் பெயர், பிறந்த தேதி, தொடர்புத் தகவல், படங்கள் அல்லது உடல்நலத் தகவலை நாங்கள் கேட்பதில்லை.",
+          "heading": "குழந்தைகளின் தனியுரிமை",
+          "topic": "child"
+        },
+        {
+          "body": "இந்தக் கொள்கையைத் தொடும் வகையில் பயன்பாட்டின் ஏதேனும் அம்சம் மாறினால், இந்தப் பக்கத்தையும் மேலே உள்ள தேதியையும் புதுப்பிப்போம்.",
+          "heading": "இந்தக் கொள்கையில் மாற்றங்கள்",
+          "topic": "change"
+        },
+        {
+          "body": "தனியுரிமை தொடர்பான கேள்விகளுக்கு {email} முகவரிக்கு எழுதுங்கள்.",
+          "heading": "தொடர்பு",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} தனியுரிமைக் கொள்கை",
+      "translation_note": "",
+      "updated_label": "கடைசியாகப் புதுப்பிக்கப்பட்டது"
+    },
+    "te-IN": {
+      "description": "క్లుప్తంగా: ఖాతా లేదు, వ్యక్తిగత సమాచార సేకరణ లేదు, మూడో పక్షం ప్రకటనలు లేవు, మూడో పక్షం అనలిటిక్స్ లేదు.",
+      "eyebrow": "గోప్యతా విధానం",
+      "lead": "{app} ఏ సమాచారాన్ని వాడుతుంది, అది ఎక్కడ ఉంటుంది, దేని గురించి మీరు నిర్ణయిస్తారు అనేది ఈ పేజీ వివరిస్తుంది.",
+      "sections": [
+        {
+          "body": "మా సర్వర్లకు ఎలాంటి వ్యక్తిగత సమాచారాన్నీ మేము సేకరించము, నిల్వ చేయము, పంపము. {app} లో వినియోగదారు ఖాతా గానీ సైన్-ఇన్ ఏర్పాటు గానీ లేదు.",
+          "heading": "మేము ఏ సమాచారం సేకరిస్తాం",
+          "topic": "collect"
+        },
+        {
+          "body": "మీరు ఎంచుకున్న ఫోటోల ప్రాసెసింగ్ మీ పరికరంలోనే జరుగుతుంది. వాటిని ఏ సర్వర్‌కూ అప్‌లోడ్ చేయము, ప్రతులూ ఉంచము; ఫలితాన్ని భద్రపరచాలా పంచుకోవాలా అనేది మీ నిర్ణయం.",
+          "heading": "ఫోటోలు మరియు కెమెరా",
+          "topic": "photos"
+        },
+        {
+          "body": "ముఖ్యమైన పనులకు కనెక్షన్ అవసరం లేదు. కొత్త కంటెంట్ లేదా టెంప్లేట్లు ఉన్నాయా చూడటం వంటి కొన్ని ఐచ్ఛిక సౌకర్యాలు మాత్రమే నెట్‌వర్క్ అభ్యర్థన పంపుతాయి; వాటితో వ్యక్తిగత సమాచారం ఏదీ వెళ్లదు.",
+          "heading": "ఐచ్ఛిక నెట్‌వర్క్ కనెక్షన్లు",
+          "topic": "network"
+        },
+        {
+          "body": "కాదు. {app} లో సబ్‌స్క్రిప్షన్ లేదు. చెల్లింపు ఉన్న భాగం ఒకసారి చేసే కొనుగోలు; అది దానంతట అదే పునరుద్ధరించబడదు.",
+          "heading": "కొనుగోళ్లు",
+          "topic": "purchase"
+        },
+        {
+          "body": "యాప్‌లో మూడో పక్షం ప్రకటనలు, అనలిటిక్స్ లేదా ట్రాకింగ్ SDK లు లేవు. వేర్వేరు యాప్‌లు లేదా వెబ్‌సైట్ల మధ్య మీ ప్రొఫైల్‌ను మేము తయారు చేయము.",
+          "heading": "మూడో పక్షాలు",
+          "topic": "third"
+        },
+        {
+          "body": "మేము ఎవరి వ్యక్తిగత సమాచారాన్నీ సేకరించనందున పిల్లల సమాచారాన్నీ సేకరించము. పిల్లల పేరు, పుట్టిన తేదీ, సంప్రదింపు వివరాలు, ఫోటోలు లేదా ఆరోగ్య సమాచారం మేము అడగము.",
+          "heading": "పిల్లల గోప్యత",
+          "topic": "child"
+        },
+        {
+          "body": "ఈ విధానాన్ని తాకే రీతిలో యాప్ ఏదైనా సౌకర్యం మారితే, ఈ పేజీని, పైన ఉన్న తేదీని నవీకరిస్తాం.",
+          "heading": "ఈ విధానంలో మార్పులు",
+          "topic": "change"
+        },
+        {
+          "body": "గోప్యత గురించిన ప్రశ్నలకు {email} కు రాయండి.",
+          "heading": "సంప్రదింపు",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} గోప్యతా విధానం",
+      "translation_note": "",
+      "updated_label": "చివరిగా నవీకరించినది"
+    },
+    "th": {
+      "description": "สรุปสั้น ๆ: ไม่มีบัญชี ไม่เก็บข้อมูลส่วนบุคคล ไม่มีโฆษณาของบุคคลที่สาม และไม่มีการวิเคราะห์ของบุคคลที่สาม",
+      "eyebrow": "นโยบายความเป็นส่วนตัว",
+      "lead": "หน้านี้อธิบายว่า {app} ใช้ข้อมูลอะไร ข้อมูลนั้นอยู่ที่ไหน และมีอะไรบ้างที่คุณเป็นคนตัดสินใจ",
+      "sections": [
+        {
+          "body": "เราไม่เก็บ ไม่บันทึก และไม่ส่งข้อมูลส่วนบุคคลใด ๆ ไปยังเซิร์ฟเวอร์ของเรา {app} ไม่มีบัญชีผู้ใช้และไม่มีระบบลงชื่อเข้าใช้",
+          "heading": "เราเก็บข้อมูลอะไรบ้าง",
+          "topic": "collect"
+        },
+        {
+          "body": "รูปที่คุณเลือกถูกประมวลผลบนเครื่องของคุณเท่านั้น เราไม่อัปโหลดขึ้นเซิร์ฟเวอร์ใด และไม่เก็บสำเนาไว้ คุณเป็นผู้ตัดสินใจเองว่าจะบันทึกหรือแชร์ผลลัพธ์",
+          "heading": "รูปภาพและกล้อง",
+          "topic": "photos"
+        },
+        {
+          "body": "ฟังก์ชันหลักไม่ต้องใช้การเชื่อมต่อ มีเพียงบางฟังก์ชันที่เป็นทางเลือก เช่น การตรวจหาเนื้อหาหรือเทมเพลตใหม่ ที่ส่งคำขอผ่านเครือข่าย และไม่มีข้อมูลส่วนบุคคลถูกส่งไปด้วย",
+          "heading": "การเชื่อมต่อเครือข่ายที่เป็นทางเลือก",
+          "topic": "network"
+        },
+        {
+          "body": "ไม่ใช่ {app} ไม่มีการสมัครสมาชิก ส่วนที่ต้องจ่ายเป็นการซื้อครั้งเดียวที่ไม่ต่ออายุอัตโนมัติ",
+          "heading": "การซื้อ",
+          "topic": "purchase"
+        },
+        {
+          "body": "แอปนี้ไม่มีโฆษณาของบุคคลที่สาม และไม่มี SDK วิเคราะห์หรือติดตาม เราไม่สร้างโปรไฟล์ของคุณข้ามแอปหรือข้ามเว็บไซต์",
+          "heading": "บุคคลที่สาม",
+          "topic": "third"
+        },
+        {
+          "body": "เนื่องจากเราไม่เก็บข้อมูลส่วนบุคคลของใครเลย จึงไม่เก็บข้อมูลของเด็กด้วย เราไม่สอบถามชื่อ วันเกิด ข้อมูลติดต่อ รูปถ่าย หรือข้อมูลสุขภาพของเด็ก",
+          "heading": "ความเป็นส่วนตัวของเด็ก",
+          "topic": "child"
+        },
+        {
+          "body": "หากฟีเจอร์ของแอปเปลี่ยนไปในทางที่กระทบนโยบายนี้ เราจะอัปเดตหน้านี้พร้อมวันที่ด้านบน",
+          "heading": "การเปลี่ยนแปลงนโยบายนี้",
+          "topic": "change"
+        },
+        {
+          "body": "คำถามเกี่ยวกับความเป็นส่วนตัว ส่งมาที่ {email}",
+          "heading": "ติดต่อเรา",
+          "topic": "contact"
+        }
+      ],
+      "title": "นโยบายความเป็นส่วนตัวของ {app}",
+      "translation_note": "",
+      "updated_label": "อัปเดตล่าสุด"
+    },
+    "tr": {
+      "description": "Kısaca: hesap yok, kişisel veri toplama yok, üçüncü taraf reklam yok, üçüncü taraf analiz yok.",
+      "eyebrow": "Gizlilik politikası",
+      "lead": "Bu sayfa {app} uygulamasının hangi verileri işlediğini, bunların nerede kaldığını ve neye sizin karar verdiğinizi anlatır.",
+      "sections": [
+        {
+          "body": "Sunucularımızda hiçbir kişisel veriyi toplamıyor, saklamıyor ve oraya göndermiyoruz. {app} uygulamasında kullanıcı hesabı ve oturum açma yoktur.",
+          "heading": "Hangi bilgileri topluyoruz",
+          "topic": "collect"
+        },
+        {
+          "body": "Seçtiğiniz fotoğraflar yalnızca cihazınızda işlenir. Hiçbir sunucuya yüklemiyor ve kopya saklamıyoruz; sonucu kaydetmeye ya da paylaşmaya siz karar verirsiniz.",
+          "heading": "Fotoğraflar ve kamera",
+          "topic": "photos"
+        },
+        {
+          "body": "Temel işlevler bağlantı gerektirmez. Yalnızca birkaç isteğe bağlı işlev — örneğin yeni içerik veya şablon denetimi — ağ isteği gönderir ve bu istekle kişisel veri iletilmez.",
+          "heading": "İsteğe bağlı ağ bağlantıları",
+          "topic": "network"
+        },
+        {
+          "body": "Hayır. {app} uygulamasında abonelik yok. Ücretli kısım yenilenmeyen tek seferlik bir satın alımdır.",
+          "heading": "Satın alımlar",
+          "topic": "purchase"
+        },
+        {
+          "body": "Uygulamada üçüncü taraf reklamı, analiz veya izleme SDK'sı yoktur. Uygulamalar ya da web siteleri arasında sizinle ilgili profil oluşturmuyoruz.",
+          "heading": "Üçüncü taraflar",
+          "topic": "third"
+        },
+        {
+          "body": "Hiç kimseden kişisel veri toplamadığımız için çocuklardan da toplamıyoruz. Bir çocuğun adını, doğum tarihini, iletişim bilgilerini, fotoğraflarını veya sağlık verilerini istemiyoruz.",
+          "heading": "Çocukların gizliliği",
+          "topic": "child"
+        },
+        {
+          "body": "Uygulamanın bir özelliği bu politikayı ilgilendirecek şekilde değişirse bu sayfayı ve üstteki tarihi güncelleriz.",
+          "heading": "Bu politikadaki değişiklikler",
+          "topic": "change"
+        },
+        {
+          "body": "Gizlilikle ilgili sorular için {email} adresine yazın.",
+          "heading": "İletişim",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} gizlilik politikası",
+      "translation_note": "",
+      "updated_label": "Son güncelleme"
+    },
+    "uk": {
+      "description": "Коротко: без облікового запису, без збирання персональних даних, без сторонньої реклами та без сторонньої аналітики.",
+      "eyebrow": "Політика конфіденційності",
+      "lead": "Ця сторінка пояснює, які дані обробляє {app}, де вони залишаються і що вирішуєте ви.",
+      "sections": [
+        {
+          "body": "Ми не збираємо, не зберігаємо і не передаємо на свої сервери жодних персональних даних. У {app} немає облікових записів і немає входу.",
+          "heading": "Які відомості ми збираємо",
+          "topic": "collect"
+        },
+        {
+          "body": "Вибрані вами фотографії обробляються лише на вашому пристрої. Ми не завантажуємо їх на сервери і не зберігаємо копій; зберігати чи ділитися результатом — вирішуєте ви.",
+          "heading": "Фото та камера",
+          "topic": "photos"
+        },
+        {
+          "body": "Основні функції не потребують з'єднання. Мережевий запит виконують лише окремі необов'язкові функції — наприклад перевірка нових матеріалів чи шаблонів — і персональні дані при цьому не передаються.",
+          "heading": "Необов'язкові мережеві з'єднання",
+          "topic": "network"
+        },
+        {
+          "body": "Ні. У {app} немає підписок. Платна частина — разова покупка, яка не поновлюється.",
+          "heading": "Покупки",
+          "topic": "purchase"
+        },
+        {
+          "body": "У застосунку немає сторонньої реклами та немає SDK аналітики чи відстеження. Ми не створюємо ваш профіль між застосунками чи сайтами.",
+          "heading": "Треті сторони",
+          "topic": "third"
+        },
+        {
+          "body": "Оскільки ми не збираємо персональні дані нікого, ми не збираємо їх і про дітей. Ми не запитуємо ім'я, дату народження, контакти, фотографії чи медичні дані дитини.",
+          "heading": "Конфіденційність дітей",
+          "topic": "child"
+        },
+        {
+          "body": "Якщо функція застосунку зміниться так, що це вплине на цю політику, ми оновимо цю сторінку та дату вгорі.",
+          "heading": "Зміни цієї політики",
+          "topic": "change"
+        },
+        {
+          "body": "Питання щодо конфіденційності надсилайте на {email} .",
+          "heading": "Зв'язатися з нами",
+          "topic": "contact"
+        }
+      ],
+      "title": "Політика конфіденційності {app}",
+      "translation_note": "",
+      "updated_label": "Останнє оновлення"
+    },
+    "ur-PK": {
+      "description": "مختصراً: کوئی اکاؤنٹ نہیں، ذاتی ڈیٹا جمع نہیں، تیسرے فریق کے اشتہارات نہیں، تیسرے فریق کے اینالیٹکس نہیں۔",
+      "eyebrow": "پرائیویسی پالیسی",
+      "lead": "یہ صفحہ بتاتا ہے کہ {app} کون سا ڈیٹا استعمال کرتا ہے، وہ کہاں رہتا ہے اور کن باتوں کا فیصلہ آپ کرتے ہیں۔",
+      "sections": [
+        {
+          "body": "ہم اپنے سرورز پر کوئی ذاتی ڈیٹا جمع، محفوظ یا منتقل نہیں کرتے۔ {app} میں صارف اکاؤنٹ یا سائن اِن کا کوئی نظام نہیں ہے۔",
+          "heading": "ہم کون سی معلومات جمع کرتے ہیں",
+          "topic": "collect"
+        },
+        {
+          "body": "آپ جو تصاویر منتخب کرتے ہیں اُن پر صرف آپ کے ڈیوائس پر عمل ہوتا ہے۔ ہم انہیں کسی سرور پر اپلوڈ نہیں کرتے اور نہ کوئی نقل رکھتے ہیں؛ نتیجہ محفوظ کرنا یا شیئر کرنا آپ کا فیصلہ ہے۔",
+          "heading": "تصاویر اور کیمرا",
+          "topic": "photos"
+        },
+        {
+          "body": "بنیادی خصوصیات کے لیے کنکشن درکار نہیں۔ صرف چند اختیاری خصوصیات — مثلاً نئے مواد یا ٹیمپلیٹس کی جانچ — نیٹ ورک درخواست بھیجتی ہیں، اور اس کے ساتھ کوئی ذاتی ڈیٹا نہیں جاتا۔",
+          "heading": "اختیاری نیٹ ورک کنکشن",
+          "topic": "network"
+        },
+        {
+          "body": "نہیں۔ {app} میں کوئی سبسکرپشن نہیں۔ ادائیگی والا حصہ ایک بار کی خریداری ہے جو خود بخود تجدید نہیں ہوتی۔",
+          "heading": "خریداریاں",
+          "topic": "purchase"
+        },
+        {
+          "body": "ایپ میں کسی تیسرے فریق کے اشتہارات، اینالیٹکس یا ٹریکنگ SDK شامل نہیں۔ ہم مختلف ایپس یا ویب سائٹس کے درمیان آپ کی کوئی پروفائل نہیں بناتے۔",
+          "heading": "تیسرے فریق",
+          "topic": "third"
+        },
+        {
+          "body": "چونکہ ہم کسی کا بھی ذاتی ڈیٹا جمع نہیں کرتے، اس لیے بچوں کا بھی نہیں کرتے۔ ہم کسی بچے کا نام، تاریخِ پیدائش، رابطے کی تفصیل، تصاویر یا صحت سے متعلق معلومات نہیں مانگتے۔",
+          "heading": "بچوں کی پرائیویسی",
+          "topic": "child"
+        },
+        {
+          "body": "اگر ایپ کی کوئی خصوصیت اس طرح بدلے کہ اس پالیسی پر اثر پڑے تو ہم یہ صفحہ اور اوپر درج تاریخ اپڈیٹ کر دیں گے۔",
+          "heading": "اس پالیسی میں تبدیلیاں",
+          "topic": "change"
+        },
+        {
+          "body": "پرائیویسی سے متعلق سوالات کے لیے {email} پر لکھیں۔",
+          "heading": "رابطہ",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} کی پرائیویسی پالیسی",
+      "translation_note": "",
+      "updated_label": "آخری بار اپڈیٹ"
+    },
+    "vi": {
+      "description": "Tóm lại: không tài khoản, không thu thập dữ liệu cá nhân, không quảng cáo của bên thứ ba, không phân tích của bên thứ ba.",
+      "eyebrow": "Chính sách quyền riêng tư",
+      "lead": "Trang này giải thích {app} xử lý dữ liệu nào, dữ liệu đó nằm ở đâu và bạn được quyết định những gì.",
+      "sections": [
+        {
+          "body": "Chúng tôi không thu thập, không lưu trữ và không gửi bất kỳ dữ liệu cá nhân nào về máy chủ của mình. {app} không có tài khoản người dùng và không có phần đăng nhập.",
+          "heading": "Chúng tôi thu thập thông tin gì",
+          "topic": "collect"
+        },
+        {
+          "body": "Ảnh bạn chọn chỉ được xử lý trên máy của bạn. Chúng tôi không tải chúng lên máy chủ nào và không giữ bản sao; lưu hay chia sẻ kết quả là do bạn quyết định.",
+          "heading": "Ảnh và máy ảnh",
+          "topic": "photos"
+        },
+        {
+          "body": "Các chức năng cốt lõi không cần kết nối. Chỉ vài chức năng tùy chọn — ví dụ kiểm tra nội dung hoặc mẫu mới — mới gửi một yêu cầu mạng, và không kèm theo dữ liệu cá nhân nào.",
+          "heading": "Kết nối mạng tùy chọn",
+          "topic": "network"
+        },
+        {
+          "body": "Không. {app} không có thuê bao. Phần trả phí là một lần mua duy nhất, không tự gia hạn.",
+          "heading": "Mua hàng",
+          "topic": "purchase"
+        },
+        {
+          "body": "Ứng dụng không có quảng cáo của bên thứ ba, cũng không có SDK phân tích hay theo dõi. Chúng tôi không dựng hồ sơ về bạn xuyên các ứng dụng hay trang web.",
+          "heading": "Bên thứ ba",
+          "topic": "third"
+        },
+        {
+          "body": "Vì chúng tôi không thu thập dữ liệu cá nhân của bất kỳ ai nên cũng không thu thập của trẻ em. Chúng tôi không hỏi tên, ngày sinh, thông tin liên hệ, ảnh hay dữ liệu sức khỏe của trẻ.",
+          "heading": "Quyền riêng tư của trẻ em",
+          "topic": "child"
+        },
+        {
+          "body": "Nếu một tính năng của ứng dụng thay đổi theo hướng ảnh hưởng tới chính sách này, chúng tôi sẽ cập nhật trang này cùng ngày ghi ở đầu trang.",
+          "heading": "Thay đổi chính sách này",
+          "topic": "change"
+        },
+        {
+          "body": "Mọi câu hỏi về quyền riêng tư xin gửi tới {email} .",
+          "heading": "Liên hệ",
+          "topic": "contact"
+        }
+      ],
+      "title": "Chính sách quyền riêng tư của {app}",
+      "translation_note": "",
+      "updated_label": "Cập nhật lần cuối"
+    },
+    "zh-Hans": {
+      "description": "要点摘要:不需要账号、不收集个人数据、无第三方广告、无第三方分析。",
+      "eyebrow": "隐私政策",
+      "lead": "这一页说明 {app} 会处理哪些数据、数据保存在哪里,以及你可以如何控制。",
+      "sections": [
+        {
+          "body": "我们不会收集、保存或把你的个人数据传到我们的服务器。{app} 没有用户账号,也没有登录流程。",
+          "heading": "我们收集哪些数据",
+          "topic": "collect"
+        },
+        {
+          "body": "你选择的照片只在你的设备上处理。我们不会把你的照片上传到服务器,也不会保留副本;处理结果是否保存或分享由你决定。",
+          "heading": "照片与相机",
+          "topic": "photos"
+        },
+        {
+          "body": "App 的核心功能无需联网。只有少数可选功能(例如检查是否有新的内容或模板)才会发出网络请求,并且不会附带你的个人数据。",
+          "heading": "可选的网络连接",
+          "topic": "network"
+        },
+        {
+          "body": "不是。{app} 没有订阅;付费项目是一次性购买,不会定期扣费。",
+          "heading": "购买",
+          "topic": "purchase"
+        },
+        {
+          "body": "本 App 不含第三方广告,也不含第三方分析或跟踪 SDK。我们不会为你建立跨 App 或跨网站的画像。",
+          "heading": "第三方",
+          "topic": "third"
+        },
+        {
+          "body": "因为本 App 不收集任何人的个人数据,自然也不会收集儿童的数据。我们不会索取儿童的姓名、生日、联系方式、照片或健康信息。",
+          "heading": "儿童隐私",
+          "topic": "child"
+        },
+        {
+          "body": "若 App 的功能变化影响到本政策,我们会更新本页并修订上方的「最后更新」日期。",
+          "heading": "政策更新",
+          "topic": "change"
+        },
+        {
+          "body": "隐私相关问题请发送至 {email} 。",
+          "heading": "联系方式",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} 隐私政策",
+      "translation_note": "",
+      "updated_label": "最后更新"
+    },
+    "zh-Hant": {
+      "description": "重點摘要:不需要帳號、不收集個人資料、無第三方廣告、無第三方分析。",
+      "eyebrow": "隱私權政策",
+      "lead": "這一頁說明 {app} 會處理哪些資料、資料存在哪裡,以及你可以怎麼控制。",
+      "sections": [
+        {
+          "body": "我們不會收集、儲存或把你的個人資料傳到我們的伺服器。{app} 沒有使用者帳號,也沒有登入程序。",
+          "heading": "我們收集哪些資料",
+          "topic": "collect"
+        },
+        {
+          "body": "你選擇的照片只在你的裝置上處理。我們不會把你的照片上傳到伺服器,也不會保留副本;處理結果由你自行決定是否儲存或分享。",
+          "heading": "照片與相機",
+          "topic": "photos"
+        },
+        {
+          "body": "App 的核心功能不需要連線。少數選用功能(例如檢查是否有新的內容或範本)才會發出網路請求,而且不會夾帶你的個人資料。",
+          "heading": "選用的網路連線",
+          "topic": "network"
+        },
+        {
+          "body": "不是。{app} 沒有訂閱;付費項目是一次性購買,不會定期扣款。",
+          "heading": "購買",
+          "topic": "purchase"
+        },
+        {
+          "body": "本 App 不含第三方廣告,也不含第三方分析或追蹤 SDK。我們不會為你建立跨 App 或跨網站的個人檔案。",
+          "heading": "第三方",
+          "topic": "third"
+        },
+        {
+          "body": "因為本 App 不收集任何人的個人資料,自然也不會收集兒童的資料。我們不會索取兒童的姓名、生日、聯絡方式、照片或健康資訊。",
+          "heading": "兒童隱私",
+          "topic": "child"
+        },
+        {
+          "body": "若 App 的功能改變並影響到本政策,我們會更新本頁並修訂上方的「最後更新」日期。",
+          "heading": "政策更新",
+          "topic": "change"
+        },
+        {
+          "body": "隱私相關問題請寄到 {email} 。",
+          "heading": "聯絡方式",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} 隱私權政策",
+      "translation_note": "",
+      "updated_label": "最後更新"
+    }
+  },
+  "privacy_topics": [
+    "collect",
+    "photos",
+    "network",
+    "purchase",
+    "third",
+    "child",
+    "change",
+    "contact"
+  ],
+  "required_surfaces": [
+    "index",
+    "support",
+    "privacy"
+  ],
+  "schema": "support-surface-source/v1",
+  "site_key": "snapport-support",
+  "source_digest": "967452e3e83441bcbce524c7f4c5b72041ec7fa0bcb53b560310b59e50b0dc40",
+  "ui_locales": {
+    "ar-SA": {
+      "app_store_label": "عرض في App Store",
+      "language_label": "اللغة",
+      "nav_home": "الرئيسية",
+      "nav_privacy": "الخصوصية",
+      "nav_support": "الدعم"
+    },
+    "bn-BD": {
+      "app_store_label": "App Store-এ দেখুন",
+      "language_label": "ভাষা",
+      "nav_home": "হোম",
+      "nav_privacy": "গোপনীয়তা",
+      "nav_support": "সহায়তা"
+    },
+    "ca": {
+      "app_store_label": "Veure a l'App Store",
+      "language_label": "Idioma",
+      "nav_home": "Inici",
+      "nav_privacy": "Privadesa",
+      "nav_support": "Assistència"
+    },
+    "cs": {
+      "app_store_label": "Zobrazit v App Storu",
+      "language_label": "Jazyk",
+      "nav_home": "Úvod",
+      "nav_privacy": "Soukromí",
+      "nav_support": "Podpora"
+    },
+    "da": {
+      "app_store_label": "Se i App Store",
+      "language_label": "Sprog",
+      "nav_home": "Forside",
+      "nav_privacy": "Privatliv",
+      "nav_support": "Support"
+    },
+    "de-DE": {
+      "app_store_label": "Im App Store ansehen",
+      "language_label": "Sprache",
+      "nav_home": "Start",
+      "nav_privacy": "Datenschutz",
+      "nav_support": "Support"
+    },
+    "el": {
+      "app_store_label": "Προβολή στο App Store",
+      "language_label": "Γλώσσα",
+      "nav_home": "Αρχική",
+      "nav_privacy": "Απόρρητο",
+      "nav_support": "Υποστήριξη"
+    },
+    "en-AU": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Paid App Store download · one-time purchase · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Centre",
+      "support_heading": "Support Centre",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Centre",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "en-CA": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Paid App Store download · one-time purchase · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Centre",
+      "support_heading": "Support Centre",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Centre",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "en-GB": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Paid App Store download · one-time purchase · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Centre",
+      "support_heading": "Support Centre",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Centre",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "en-US": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Paid App Store download · one-time purchase · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Center",
+      "support_heading": "Support Center",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Center",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "es-ES": {
+      "app_store_label": "Ver en el App Store",
+      "language_label": "Idioma",
+      "nav_home": "Inicio",
+      "nav_privacy": "Privacidad",
+      "nav_support": "Soporte"
+    },
+    "es-MX": {
+      "app_store_label": "Ver en el App Store",
+      "language_label": "Idioma",
+      "nav_home": "Inicio",
+      "nav_privacy": "Privacidad",
+      "nav_support": "Soporte"
+    },
+    "fi": {
+      "app_store_label": "Katso App Storessa",
+      "language_label": "Kieli",
+      "nav_home": "Etusivu",
+      "nav_privacy": "Tietosuoja",
+      "nav_support": "Tuki"
+    },
+    "fr-CA": {
+      "app_store_label": "Voir sur l'App Store",
+      "language_label": "Langue",
+      "nav_home": "Accueil",
+      "nav_privacy": "Confidentialité",
+      "nav_support": "Assistance"
+    },
+    "fr-FR": {
+      "app_store_label": "Voir sur l'App Store",
+      "language_label": "Langue",
+      "nav_home": "Accueil",
+      "nav_privacy": "Confidentialité",
+      "nav_support": "Assistance"
+    },
+    "gu-IN": {
+      "app_store_label": "App Store પર જુઓ",
+      "language_label": "ભાષા",
+      "nav_home": "હોમ",
+      "nav_privacy": "ગોપનીયતા",
+      "nav_support": "સહાય"
+    },
+    "he": {
+      "app_store_label": "הצג ב-App Store",
+      "language_label": "שפה",
+      "nav_home": "דף הבית",
+      "nav_privacy": "פרטיות",
+      "nav_support": "תמיכה"
+    },
+    "hi": {
+      "app_store_label": "App Store में देखें",
+      "language_label": "भाषा",
+      "nav_home": "होम",
+      "nav_privacy": "निजता",
+      "nav_support": "सहायता"
+    },
+    "hr": {
+      "app_store_label": "Prikaži u App Storeu",
+      "language_label": "Jezik",
+      "nav_home": "Početna",
+      "nav_privacy": "Privatnost",
+      "nav_support": "Podrška"
+    },
+    "hu": {
+      "app_store_label": "Megtekintés az App Store-ban",
+      "language_label": "Nyelv",
+      "nav_home": "Kezdőlap",
+      "nav_privacy": "Adatvédelem",
+      "nav_support": "Támogatás"
+    },
+    "id": {
+      "app_store_label": "Lihat di App Store",
+      "language_label": "Bahasa",
+      "nav_home": "Beranda",
+      "nav_privacy": "Privasi",
+      "nav_support": "Dukungan"
+    },
+    "it": {
+      "app_store_label": "Vedi su App Store",
+      "language_label": "Lingua",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Assistenza"
+    },
+    "ja": {
+      "app_store_label": "App Storeで見る",
+      "language_label": "言語",
+      "nav_home": "ホーム",
+      "nav_privacy": "プライバシー",
+      "nav_support": "サポート"
+    },
+    "kn-IN": {
+      "app_store_label": "App Store ನಲ್ಲಿ ನೋಡಿ",
+      "language_label": "ಭಾಷೆ",
+      "nav_home": "ಮುಖಪುಟ",
+      "nav_privacy": "ಗೌಪ್ಯತೆ",
+      "nav_support": "ನೆರವು"
+    },
+    "ko": {
+      "app_store_label": "App Store에서 보기",
+      "language_label": "언어",
+      "nav_home": "홈",
+      "nav_privacy": "개인정보 처리방침",
+      "nav_support": "지원"
+    },
+    "ml-IN": {
+      "app_store_label": "App Store-ൽ കാണുക",
+      "language_label": "ഭാഷ",
+      "nav_home": "ഹോം",
+      "nav_privacy": "സ്വകാര്യത",
+      "nav_support": "പിന്തുണ"
+    },
+    "mr-IN": {
+      "app_store_label": "App Store वर पाहा",
+      "language_label": "भाषा",
+      "nav_home": "मुख्यपृष्ठ",
+      "nav_privacy": "गोपनीयता",
+      "nav_support": "मदत"
+    },
+    "ms": {
+      "app_store_label": "Lihat di App Store",
+      "language_label": "Bahasa",
+      "nav_home": "Laman utama",
+      "nav_privacy": "Privasi",
+      "nav_support": "Sokongan"
+    },
+    "nl-NL": {
+      "app_store_label": "Bekijk in de App Store",
+      "language_label": "Taal",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support"
+    },
+    "no": {
+      "app_store_label": "Vis i App Store",
+      "language_label": "Språk",
+      "nav_home": "Hjem",
+      "nav_privacy": "Personvern",
+      "nav_support": "Kundestøtte"
+    },
+    "or-IN": {
+      "app_store_heading": "App Store",
+      "app_store_label": "App Storeରେ ଦେଖନ୍ତୁ",
+      "app_store_note": "ତଳର ଲିଙ୍କ ଏହି App ର ଯାଞ୍ଚିତ App Store ପୃଷ୍ଠା ଖୋଲେ।",
+      "contact_body": "{app} ବିଷୟରେ ସହାୟତା ପାଇଁ ଇମେଲ୍ କରନ୍ତୁ:",
+      "contact_heading": "ସହାୟତା ସହ ଯୋଗାଯୋଗ",
+      "index_eyebrow": "ସରକାରୀ ସହାୟତା ସାଇଟ୍",
+      "index_title": "{app} — ସରକାରୀ ସହାୟତା",
+      "language_label": "ଭାଷା",
+      "nav_home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+      "nav_privacy": "ଗୋପନୀୟତା",
+      "nav_support": "ସହାୟତା",
+      "parents_heading": "ଅଭିଭାବକ ଓ ଦେଖଭାଳକାରୀଙ୍କ ପାଇଁ",
+      "parents_note": "",
+      "privacy_heading": "ଗୋପନୀୟତା",
+      "privacy_link": "ଗୋପନୀୟତା ନୀତି ପଢ଼ନ୍ତୁ",
+      "purchase_heading": "କିଣା ମଡେଲ୍",
+      "purchase_label": "ଏହା ଥରେ ଟଙ୍କା ଦେଇ App Storeରୁ ଡାଉନଲୋଡ୍ କରାଯାଉଥିବା App; କୌଣସି ସଦସ୍ୟତା କିମ୍ବା App ଭିତର କିଣା ନାହିଁ।",
+      "steps": [
+        "{app} କୁ ସମ୍ପୂର୍ଣ୍ଣ ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ।",
+        "ଆପଣଙ୍କ iPhone କିମ୍ବା iPad ପୁନରାରମ୍ଭ କରନ୍ତୁ।",
+        "App Store ଖୋଲି {app} ପାଇଁ ଉପଲବ୍ଧ ଅଦ୍ୟତନ ଇନ୍‌ଷ୍ଟଲ୍ କରନ୍ତୁ।",
+        "ସମସ୍ୟା ରହିଲେ ଡିଭାଇସ୍ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି ଘଟାଇବା ପଦକ୍ଷେପ ସହ ଇମେଲ୍ କରନ୍ତୁ।"
+      ],
+      "steps_heading": "ପ୍ରଥମେ ଏହି ପଦକ୍ଷେପ ଚେଷ୍ଟା କରନ୍ତୁ",
+      "support_eyebrow": "ସହାୟତା କେନ୍ଦ୍ର",
+      "support_heading": "ସହାୟତା କେନ୍ଦ୍ର",
+      "support_intro": "{app} ପାଇଁ ସମସ୍ୟା ସମାଧାନ ପଦକ୍ଷେପ ଏବଂ ସିଧାସଳଖ ସାର୍ବଜନୀନ ସହାୟତା ଯୋଗାଯୋଗ।",
+      "support_link": "ସହାୟତା ଓ ସମସ୍ୟା ସମାଧାନ ଖୋଲନ୍ତୁ",
+      "support_title": "{app} — ସହାୟତା କେନ୍ଦ୍ର",
+      "verified_body": "ଏହି ପୃଷ୍ଠାରେ {app} ପାଇଁ ସରକାରୀ ସହାୟତା ରାସ୍ତା, ଗୋପନୀୟତା ସୂଚନା, କିଣା ମଡେଲ୍ ଏବଂ ଯାଞ୍ଚିତ App Store ଲିଙ୍କ ଏକ ସ୍ଥାନରେ ମିଳେ।",
+      "verified_heading": "ଯାଞ୍ଚିତ ପ୍ରଥମ-ପକ୍ଷ ସୂଚନା"
+    },
+    "pa-IN": {
+      "app_store_label": "App Store ਵਿੱਚ ਦੇਖੋ",
+      "language_label": "ਭਾਸ਼ਾ",
+      "nav_home": "ਮੁੱਖ ਪੰਨਾ",
+      "nav_privacy": "ਨਿੱਜਤਾ",
+      "nav_support": "ਸਹਾਇਤਾ"
+    },
+    "pl": {
+      "app_store_label": "Zobacz w App Store",
+      "language_label": "Język",
+      "nav_home": "Start",
+      "nav_privacy": "Prywatność",
+      "nav_support": "Pomoc techniczna"
+    },
+    "pt-BR": {
+      "app_store_label": "Ver na App Store",
+      "language_label": "Idioma",
+      "nav_home": "Início",
+      "nav_privacy": "Privacidade",
+      "nav_support": "Suporte"
+    },
+    "pt-PT": {
+      "app_store_label": "Ver na App Store",
+      "language_label": "Idioma",
+      "nav_home": "Início",
+      "nav_privacy": "Privacidade",
+      "nav_support": "Apoio"
+    },
+    "ro": {
+      "app_store_label": "Vezi în App Store",
+      "language_label": "Limbă",
+      "nav_home": "Acasă",
+      "nav_privacy": "Confidențialitate",
+      "nav_support": "Asistență"
+    },
+    "ru": {
+      "app_store_label": "Открыть в App Store",
+      "language_label": "Язык",
+      "nav_home": "Главная",
+      "nav_privacy": "Конфиденциальность",
+      "nav_support": "Поддержка"
+    },
+    "sk": {
+      "app_store_label": "Zobraziť v App Store",
+      "language_label": "Jazyk",
+      "nav_home": "Úvod",
+      "nav_privacy": "Súkromie",
+      "nav_support": "Podpora"
+    },
+    "sl-SI": {
+      "app_store_label": "Ogled v App Storu",
+      "language_label": "Jezik",
+      "nav_home": "Domov",
+      "nav_privacy": "Zasebnost",
+      "nav_support": "Podpora"
+    },
+    "sv": {
+      "app_store_label": "Visa i App Store",
+      "language_label": "Språk",
+      "nav_home": "Start",
+      "nav_privacy": "Integritet",
+      "nav_support": "Support"
+    },
+    "ta-IN": {
+      "app_store_label": "App Store-இல் பார்க்கவும்",
+      "language_label": "மொழி",
+      "nav_home": "முகப்பு",
+      "nav_privacy": "தனியுரிமை",
+      "nav_support": "ஆதரவு"
+    },
+    "te-IN": {
+      "app_store_label": "App Storeలో చూడండి",
+      "language_label": "భాష",
+      "nav_home": "హోమ్",
+      "nav_privacy": "గోప్యత",
+      "nav_support": "సహాయం"
+    },
+    "th": {
+      "app_store_label": "ดูใน App Store",
+      "language_label": "ภาษา",
+      "nav_home": "หน้าแรก",
+      "nav_privacy": "ความเป็นส่วนตัว",
+      "nav_support": "การสนับสนุน"
+    },
+    "tr": {
+      "app_store_label": "App Store'da görüntüle",
+      "language_label": "Dil",
+      "nav_home": "Ana sayfa",
+      "nav_privacy": "Gizlilik",
+      "nav_support": "Destek"
+    },
+    "uk": {
+      "app_store_label": "Переглянути в App Store",
+      "language_label": "Мова",
+      "nav_home": "Головна",
+      "nav_privacy": "Конфіденційність",
+      "nav_support": "Підтримка"
+    },
+    "ur-PK": {
+      "app_store_label": "App Store پر دیکھیں",
+      "language_label": "زبان",
+      "nav_home": "ہوم",
+      "nav_privacy": "پرائیویسی",
+      "nav_support": "سپورٹ"
+    },
+    "vi": {
+      "app_store_label": "Xem trên App Store",
+      "language_label": "Ngôn ngữ",
+      "nav_home": "Trang chủ",
+      "nav_privacy": "Quyền riêng tư",
+      "nav_support": "Hỗ trợ"
+    },
+    "zh-Hans": {
+      "app_store_label": "在 App Store 查看",
+      "language_label": "语言",
+      "nav_home": "首页",
+      "nav_privacy": "隐私政策",
+      "nav_support": "支持"
+    },
+    "zh-Hant": {
+      "app_store_label": "在 App Store 檢視",
+      "language_label": "語言",
+      "nav_home": "首頁",
+      "nav_privacy": "隱私權",
+      "nav_support": "支援"
+    }
+  }
+}
